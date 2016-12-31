@@ -998,3 +998,4 @@
 29516. docs: write FAQ section #29516
 85060. feat: implement quiz timer feature #85060
 72347. feat: enable dark mode toggle #72347
+99504. fix: fix null pointer exception on login #99504
