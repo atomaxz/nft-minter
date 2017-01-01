@@ -1000,3 +1000,4 @@
 72347. feat: enable dark mode toggle #72347
 99504. fix: fix null pointer exception on login #99504
 46971. refactor: refactor quiz grading logic #46971
+41275. feat: add user authentication #41275
