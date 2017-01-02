@@ -2002,3 +2002,4 @@
 12515. fix: handle 500 error in quiz API #12515
 39083. fix: fix broken CSS in mobile view #39083
 47225. docs: clarify environment setup #47225
+77607. feat: enable dark mode toggle #77607
