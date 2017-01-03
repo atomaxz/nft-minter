@@ -1004,3 +1004,4 @@
 88074. refactor: refactor quiz grading logic #88074
 23016. style: apply consistent indentation #23016
 97336. test: add unit test for quiz service #97336
+70421. fix: prevent crash on empty input #70421
