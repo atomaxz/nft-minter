@@ -3,3 +3,4 @@
 59358. style: remove trailing whitespace #59358
 72290. feat: add user authentication #72290
 52908. fix: fix null pointer exception on login #52908
+5491. fix: fix broken CSS in mobile view #5491
