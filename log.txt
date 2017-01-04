@@ -1006,3 +1006,4 @@
 97336. test: add unit test for quiz service #97336
 70421. fix: prevent crash on empty input #70421
 98811. docs: document token refresh logic #98811
+68620. refactor: clean up auth middleware #68620
