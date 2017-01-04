@@ -2005,3 +2005,4 @@
 77607. feat: enable dark mode toggle #77607
 86700. chore: update .gitignore #86700
 40153. chore: bump dependencies #40153
+79107. fix: prevent crash on empty input #79107
