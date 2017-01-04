@@ -6,3 +6,4 @@
 5491. fix: fix broken CSS in mobile view #5491
 0825. chore: rename env.example #825
 72334. perf: reduce image load time #72334
+93334. chore: add GitHub actions badge #93334
