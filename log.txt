@@ -3007,3 +3007,4 @@
 69217. test: mock database connection in test suite #69217
 26411. style: standardize quote style #26411
 68585. feat: add user authentication #68585
+53595. fix: fix null pointer exception on login #53595
