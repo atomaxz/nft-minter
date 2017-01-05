@@ -11,3 +11,4 @@
 28045. fix: handle 500 error in quiz API #28045
 24093. refactor: organize models into subfolders #24093
 43330. refactor: remove redundant code blocks #43330
+24838. chore: update .gitignore #24838
