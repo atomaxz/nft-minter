@@ -2010,3 +2010,4 @@
 87976. test: add unit test for quiz service #87976
 59268. test: increase coverage on auth module #59268
 86816. feat: create admin dashboard #86816
+9951. perf: optimize database query for quiz results #9951
