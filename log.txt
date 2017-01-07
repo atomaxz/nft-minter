@@ -17,3 +17,4 @@
 20684. fix: handle 500 error in quiz API #20684
 9915. fix: correct typo in registration form #9915
 70681. fix: fix null pointer exception on login #70681
+96854. fix: correct typo in registration form #96854
