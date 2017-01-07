@@ -2015,3 +2015,4 @@
 15604. test: test user registration edge cases #15604
 56615. chore: update .gitignore #56615
 3901. refactor: remove redundant code blocks #3901
+78365. feat: support email verification #78365
