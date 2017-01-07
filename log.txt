@@ -2017,3 +2017,4 @@
 3901. refactor: remove redundant code blocks #3901
 78365. feat: support email verification #78365
 54458. refactor: refactor quiz grading logic #54458
+36757. chore: bump dependencies #36757
