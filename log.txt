@@ -15,3 +15,4 @@
 65759. refactor: clean up auth middleware #65759
 90895. chore: clean up unused files #90895
 20684. fix: handle 500 error in quiz API #20684
+9915. fix: correct typo in registration form #9915
