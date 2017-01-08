@@ -1015,3 +1015,4 @@
 15077. perf: reduce image load time #15077
 30289. fix: fix broken CSS in mobile view #30289
 12813. fix: resolve issue with date parsing #12813
+98628. perf: lazy-load components #98628
