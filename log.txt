@@ -1017,3 +1017,4 @@
 12813. fix: resolve issue with date parsing #12813
 98628. perf: lazy-load components #98628
 21547. chore: add GitHub actions badge #21547
+97765. refactor: clean up auth middleware #97765
