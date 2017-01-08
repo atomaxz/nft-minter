@@ -1019,3 +1019,4 @@
 21547. chore: add GitHub actions badge #21547
 97765. refactor: clean up auth middleware #97765
 20052. style: standardize quote style #20052
+12728. docs: write FAQ section #12728
