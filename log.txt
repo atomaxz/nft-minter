@@ -1022,3 +1022,4 @@
 12728. docs: write FAQ section #12728
 58976. chore: rename env.example #58976
 41679. style: apply consistent indentation #41679
+79538. perf: reduce image load time #79538
