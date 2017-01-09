@@ -3017,3 +3017,4 @@
 36750. style: standardize quote style #36750
 53897. refactor: clean up auth middleware #53897
 37236. feat: implement quiz timer feature #37236
+24343. feat: support email verification #24343
