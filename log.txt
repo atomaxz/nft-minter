@@ -20,3 +20,4 @@
 96854. fix: correct typo in registration form #96854
 47107. refactor: refactor quiz grading logic #47107
 44138. fix: prevent crash on empty input #44138
+86077. fix: fix null pointer exception on login #86077
