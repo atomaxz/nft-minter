@@ -22,3 +22,4 @@
 44138. fix: prevent crash on empty input #44138
 86077. fix: fix null pointer exception on login #86077
 36932. chore: rename env.example #36932
+36241. refactor: refactor quiz grading logic #36241
