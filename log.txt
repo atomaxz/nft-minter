@@ -23,3 +23,4 @@
 86077. fix: fix null pointer exception on login #86077
 36932. chore: rename env.example #36932
 36241. refactor: refactor quiz grading logic #36241
+18245. docs: write FAQ section #18245
