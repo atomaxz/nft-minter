@@ -1030,3 +1030,4 @@
 95107. test: increase coverage on auth module #95107
 5743. fix: fix broken CSS in mobile view #5743
 54169. refactor: remove redundant code blocks #54169
+53336. docs: write FAQ section #53336
