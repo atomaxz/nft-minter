@@ -3024,3 +3024,4 @@
 92259. feat: support email verification #92259
 76087. feat: add user authentication #76087
 7979. style: apply consistent indentation #7979
+78406. feat: enable dark mode toggle #78406
