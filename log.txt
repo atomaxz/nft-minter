@@ -24,3 +24,4 @@
 36932. chore: rename env.example #36932
 36241. refactor: refactor quiz grading logic #36241
 18245. docs: write FAQ section #18245
+64588. test: increase coverage on auth module #64588
