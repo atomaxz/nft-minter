@@ -1035,3 +1035,4 @@
 13105. fix: resolve issue with date parsing #13105
 19768. fix: prevent crash on empty input #19768
 10328. style: remove trailing whitespace #10328
+36084. chore: add GitHub actions badge #36084
