@@ -26,3 +26,4 @@
 18245. docs: write FAQ section #18245
 64588. test: increase coverage on auth module #64588
 72264. style: apply consistent indentation #72264
+89919. test: increase coverage on auth module #89919
