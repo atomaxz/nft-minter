@@ -2031,3 +2031,4 @@
 79459. feat: add export to CSV option #79459
 40827. test: increase coverage on auth module #40827
 84056. fix: fix null pointer exception on login #84056
+67477. chore: add GitHub actions badge #67477
