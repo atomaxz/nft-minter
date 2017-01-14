@@ -30,3 +30,4 @@
 24668. refactor: clean up auth middleware #24668
 76846. feat: add export to CSV option #76846
 78006. docs: add API usage examples #78006
+96355. test: test user registration edge cases #96355
