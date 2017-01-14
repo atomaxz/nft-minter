@@ -1037,3 +1037,4 @@
 10328. style: remove trailing whitespace #10328
 36084. chore: add GitHub actions badge #36084
 62590. perf: reduce image load time #62590
+54190. test: increase coverage on auth module #54190
