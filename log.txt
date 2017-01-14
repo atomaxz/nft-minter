@@ -1039,3 +1039,4 @@
 62590. perf: reduce image load time #62590
 54190. test: increase coverage on auth module #54190
 4200. refactor: clean up auth middleware #4200
+31094. fix: fix broken CSS in mobile view #31094
