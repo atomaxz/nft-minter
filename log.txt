@@ -1036,3 +1036,4 @@
 19768. fix: prevent crash on empty input #19768
 10328. style: remove trailing whitespace #10328
 36084. chore: add GitHub actions badge #36084
+62590. perf: reduce image load time #62590
