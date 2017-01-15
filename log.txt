@@ -3035,3 +3035,4 @@
 62158. test: increase coverage on auth module #62158
 11916. chore: clean up unused files #11916
 56972. docs: write FAQ section #56972
+42713. fix: prevent crash on empty input #42713
