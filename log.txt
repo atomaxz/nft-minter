@@ -2034,3 +2034,4 @@
 67477. chore: add GitHub actions badge #67477
 76522. docs: add API usage examples #76522
 55775. feat: add export to CSV option #55775
+2048. style: apply consistent indentation #2048
