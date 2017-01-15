@@ -3036,3 +3036,4 @@
 11916. chore: clean up unused files #11916
 56972. docs: write FAQ section #56972
 42713. fix: prevent crash on empty input #42713
+52619. style: apply consistent indentation #52619
