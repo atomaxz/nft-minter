@@ -3034,3 +3034,4 @@
 27991. feat: enable dark mode toggle #27991
 62158. test: increase coverage on auth module #62158
 11916. chore: clean up unused files #11916
+56972. docs: write FAQ section #56972
