@@ -1040,3 +1040,4 @@
 54190. test: increase coverage on auth module #54190
 4200. refactor: clean up auth middleware #4200
 31094. fix: fix broken CSS in mobile view #31094
+75238. feat: create admin dashboard #75238
