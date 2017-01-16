@@ -3038,3 +3038,4 @@
 42713. fix: prevent crash on empty input #42713
 52619. style: apply consistent indentation #52619
 72129. test: test user registration edge cases #72129
+13952. fix: resolve issue with date parsing #13952
