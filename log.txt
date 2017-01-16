@@ -1043,3 +1043,4 @@
 75238. feat: create admin dashboard #75238
 34763. fix: correct typo in registration form #34763
 34319. feat: enable dark mode toggle #34319
+69527. chore: clean up unused files #69527
