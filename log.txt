@@ -2038,3 +2038,4 @@
 44230. style: remove trailing whitespace #44230
 71894. test: mock database connection in test suite #71894
 69815. refactor: remove redundant code blocks #69815
+82585. perf: optimize database query for quiz results #82585
