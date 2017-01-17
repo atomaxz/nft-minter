@@ -3042,3 +3042,4 @@
 47189. refactor: refactor quiz grading logic #47189
 69757. perf: reduce image load time #69757
 50643. test: test user registration edge cases #50643
+39334. perf: optimize database query for quiz results #39334
