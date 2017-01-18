@@ -1050,3 +1050,4 @@
 38180. style: remove trailing whitespace #38180
 36922. perf: reduce image load time #36922
 65101. style: standardize quote style #65101
+71138. style: remove trailing whitespace #71138
