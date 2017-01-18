@@ -43,3 +43,4 @@
 21853. feat: support email verification #21853
 81949. test: test user registration edge cases #81949
 59318. perf: reduce image load time #59318
+11508. perf: optimize database query for quiz results #11508
