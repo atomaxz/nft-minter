@@ -42,3 +42,4 @@
 90982. feat: support email verification #90982
 21853. feat: support email verification #21853
 81949. test: test user registration edge cases #81949
+59318. perf: reduce image load time #59318
