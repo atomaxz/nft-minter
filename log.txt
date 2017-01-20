@@ -1054,3 +1054,4 @@
 63613. feat: implement quiz timer feature #63613
 49962. feat: create admin dashboard #49962
 35729. docs: write FAQ section #35729
+53203. test: increase coverage on auth module #53203
