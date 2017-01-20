@@ -3047,3 +3047,4 @@
 7208. style: rename variables for clarity #7208
 9197. feat: add user authentication #9197
 25980. test: test user registration edge cases #25980
+15163. docs: write FAQ section #15163
