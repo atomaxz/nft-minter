@@ -1055,3 +1055,4 @@
 49962. feat: create admin dashboard #49962
 35729. docs: write FAQ section #35729
 53203. test: increase coverage on auth module #53203
+37055. chore: bump dependencies #37055
