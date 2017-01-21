@@ -53,3 +53,4 @@
 65260. fix: fix broken CSS in mobile view #65260
 46840. docs: add API usage examples #46840
 72559. test: mock database connection in test suite #72559
+64394. fix: fix null pointer exception on login #64394
