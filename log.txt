@@ -2058,3 +2058,4 @@
 23700. feat: create admin dashboard #23700
 24733. refactor: refactor quiz grading logic #24733
 19458. docs: clarify environment setup #19458
+47868. chore: update .gitignore #47868
