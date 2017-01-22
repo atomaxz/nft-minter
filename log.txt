@@ -54,3 +54,4 @@
 46840. docs: add API usage examples #46840
 72559. test: mock database connection in test suite #72559
 64394. fix: fix null pointer exception on login #64394
+84766. docs: document token refresh logic #84766
