@@ -1056,3 +1056,4 @@
 35729. docs: write FAQ section #35729
 53203. test: increase coverage on auth module #53203
 37055. chore: bump dependencies #37055
+11420. fix: fix broken CSS in mobile view #11420
