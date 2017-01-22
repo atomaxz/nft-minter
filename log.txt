@@ -2055,3 +2055,4 @@
 64424. perf: optimize database query for quiz results #64424
 99659. style: rename variables for clarity #99659
 64022. refactor: remove redundant code blocks #64022
+23700. feat: create admin dashboard #23700
