@@ -3053,3 +3053,4 @@
 98155. docs: clarify environment setup #98155
 23290. test: add unit test for quiz service #23290
 81623. test: test user registration edge cases #81623
+63485. refactor: clean up auth middleware #63485
