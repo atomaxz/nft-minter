@@ -59,3 +59,4 @@
 52709. fix: handle 500 error in quiz API #52709
 45579. test: add unit test for quiz service #45579
 38679. perf: reduce image load time #38679
+25746. refactor: remove redundant code blocks #25746
