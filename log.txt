@@ -1059,3 +1059,4 @@
 11420. fix: fix broken CSS in mobile view #11420
 63390. docs: document token refresh logic #63390
 95512. test: test user registration edge cases #95512
+13130. chore: update .gitignore #13130
