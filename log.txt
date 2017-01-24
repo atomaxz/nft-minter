@@ -1063,3 +1063,4 @@
 68884. fix: resolve issue with date parsing #68884
 95232. feat: add export to CSV option #95232
 12235. perf: reduce image load time #12235
+13150. test: test user registration edge cases #13150
