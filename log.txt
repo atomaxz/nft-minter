@@ -1061,3 +1061,4 @@
 95512. test: test user registration edge cases #95512
 13130. chore: update .gitignore #13130
 68884. fix: resolve issue with date parsing #68884
+95232. feat: add export to CSV option #95232
