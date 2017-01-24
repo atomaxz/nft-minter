@@ -61,3 +61,4 @@
 38679. perf: reduce image load time #38679
 25746. refactor: remove redundant code blocks #25746
 86994. feat: create admin dashboard #86994
+36389. feat: add export to CSV option #36389
