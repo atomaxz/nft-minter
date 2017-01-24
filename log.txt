@@ -3056,3 +3056,4 @@
 63485. refactor: clean up auth middleware #63485
 7803. style: rename variables for clarity #7803
 79080. chore: add GitHub actions badge #79080
+36780. refactor: organize models into subfolders #36780
