@@ -1064,3 +1064,4 @@
 95232. feat: add export to CSV option #95232
 12235. perf: reduce image load time #12235
 13150. test: test user registration edge cases #13150
+85494. fix: correct typo in registration form #85494
