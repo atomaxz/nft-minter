@@ -3061,3 +3061,4 @@
 63990. feat: add export to CSV option #63990
 3900. chore: bump dependencies #3900
 84352. refactor: split large controller into smaller functions #84352
+13772. fix: handle 500 error in quiz API #13772
