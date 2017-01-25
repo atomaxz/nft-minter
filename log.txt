@@ -64,3 +64,4 @@
 36389. feat: add export to CSV option #36389
 44832. feat: support email verification #44832
 72521. test: increase coverage on auth module #72521
+61273. chore: bump dependencies #61273
