@@ -65,3 +65,4 @@
 44832. feat: support email verification #44832
 72521. test: increase coverage on auth module #72521
 61273. chore: bump dependencies #61273
+1224. docs: update README with setup steps #1224
