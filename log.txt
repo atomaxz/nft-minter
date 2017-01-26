@@ -3066,3 +3066,4 @@
 85945. docs: document token refresh logic #85945
 33098. feat: add export to CSV option #33098
 13739. chore: rename env.example #13739
+23123. fix: handle 500 error in quiz API #23123
