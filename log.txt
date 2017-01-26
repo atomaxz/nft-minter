@@ -1068,3 +1068,4 @@
 6038. style: apply consistent indentation #6038
 25214. refactor: split large controller into smaller functions #25214
 15328. fix: fix broken CSS in mobile view #15328
+72085. perf: lazy-load components #72085
