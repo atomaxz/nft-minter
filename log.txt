@@ -67,3 +67,4 @@
 61273. chore: bump dependencies #61273
 1224. docs: update README with setup steps #1224
 74793. test: mock database connection in test suite #74793
+78463. style: remove trailing whitespace #78463
