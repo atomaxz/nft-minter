@@ -1067,3 +1067,4 @@
 85494. fix: correct typo in registration form #85494
 6038. style: apply consistent indentation #6038
 25214. refactor: split large controller into smaller functions #25214
+15328. fix: fix broken CSS in mobile view #15328
