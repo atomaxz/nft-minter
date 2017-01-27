@@ -71,3 +71,4 @@
 39026. refactor: remove redundant code blocks #39026
 34713. feat: add export to CSV option #34713
 25694. style: standardize quote style #25694
+9752. chore: add GitHub actions badge #9752
