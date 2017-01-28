@@ -3069,3 +3069,4 @@
 23123. fix: handle 500 error in quiz API #23123
 10678. fix: resolve issue with date parsing #10678
 74601. style: apply consistent indentation #74601
+42181. test: add integration test for /submit endpoint #42181
