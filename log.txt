@@ -2073,3 +2073,4 @@
 56529. feat: implement quiz timer feature #56529
 42700. docs: write FAQ section #42700
 75199. test: test user registration edge cases #75199
+83494. docs: clarify environment setup #83494
