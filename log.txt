@@ -2074,3 +2074,4 @@
 42700. docs: write FAQ section #42700
 75199. test: test user registration edge cases #75199
 83494. docs: clarify environment setup #83494
+17908. test: mock database connection in test suite #17908
