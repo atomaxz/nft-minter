@@ -1077,3 +1077,4 @@
 51992. fix: fix null pointer exception on login #51992
 85484. docs: improve code comments in utils #85484
 41897. style: rename variables for clarity #41897
+50623. style: remove trailing whitespace #50623
