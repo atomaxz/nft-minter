@@ -3079,3 +3079,4 @@
 43479. fix: handle 500 error in quiz API #43479
 91984. refactor: organize models into subfolders #91984
 39001. docs: clarify environment setup #39001
+48414. docs: add API usage examples #48414
