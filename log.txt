@@ -2078,3 +2078,4 @@
 29551. style: remove trailing whitespace #29551
 76413. test: add unit test for quiz service #76413
 81749. chore: add GitHub actions badge #81749
+14976. style: standardize quote style #14976
