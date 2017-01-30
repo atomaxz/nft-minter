@@ -2080,3 +2080,4 @@
 81749. chore: add GitHub actions badge #81749
 14976. style: standardize quote style #14976
 37090. fix: fix broken CSS in mobile view #37090
+21663. docs: clarify environment setup #21663
