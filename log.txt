@@ -1079,3 +1079,4 @@
 41897. style: rename variables for clarity #41897
 50623. style: remove trailing whitespace #50623
 58070. fix: fix broken CSS in mobile view #58070
+84900. perf: optimize database query for quiz results #84900
