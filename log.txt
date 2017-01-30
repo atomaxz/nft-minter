@@ -3076,3 +3076,4 @@
 66530. docs: improve code comments in utils #66530
 38639. feat: add user authentication #38639
 9063. chore: add GitHub actions badge #9063
+43479. fix: handle 500 error in quiz API #43479
