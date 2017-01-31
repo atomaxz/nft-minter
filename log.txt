@@ -3083,3 +3083,4 @@
 19684. docs: improve code comments in utils #19684
 65494. chore: bump dependencies #65494
 99646. perf: cache repeated calculations #99646
+75307. perf: lazy-load components #75307
