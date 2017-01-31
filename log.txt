@@ -1080,3 +1080,4 @@
 50623. style: remove trailing whitespace #50623
 58070. fix: fix broken CSS in mobile view #58070
 84900. perf: optimize database query for quiz results #84900
+96608. test: test user registration edge cases #96608
