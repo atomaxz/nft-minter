@@ -74,3 +74,4 @@
 9752. chore: add GitHub actions badge #9752
 12927. chore: bump dependencies #12927
 21037. feat: enable dark mode toggle #21037
+2748. chore: bump dependencies #2748
