@@ -75,3 +75,4 @@
 12927. chore: bump dependencies #12927
 21037. feat: enable dark mode toggle #21037
 2748. chore: bump dependencies #2748
+92798. perf: reduce image load time #92798
