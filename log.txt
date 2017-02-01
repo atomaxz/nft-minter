@@ -1085,3 +1085,4 @@
 30347. fix: handle 500 error in quiz API #30347
 57517. fix: resolve issue with date parsing #57517
 15308. perf: optimize database query for quiz results #15308
+26529. feat: implement quiz timer feature #26529
