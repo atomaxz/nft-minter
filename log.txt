@@ -76,3 +76,4 @@
 21037. feat: enable dark mode toggle #21037
 2748. chore: bump dependencies #2748
 92798. perf: reduce image load time #92798
+66722. refactor: refactor quiz grading logic #66722
