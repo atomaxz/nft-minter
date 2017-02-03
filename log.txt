@@ -3089,3 +3089,4 @@
 4889. refactor: organize models into subfolders #4889
 32618. refactor: remove redundant code blocks #32618
 13745. feat: enable dark mode toggle #13745
+34801. chore: bump dependencies #34801
