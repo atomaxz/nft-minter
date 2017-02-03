@@ -3088,3 +3088,4 @@
 93604. test: test user registration edge cases #93604
 4889. refactor: organize models into subfolders #4889
 32618. refactor: remove redundant code blocks #32618
+13745. feat: enable dark mode toggle #13745
