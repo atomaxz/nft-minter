@@ -1093,3 +1093,4 @@
 73962. feat: enable dark mode toggle #73962
 89192. fix: resolve issue with date parsing #89192
 73332. chore: update .gitignore #73332
+15820. test: mock database connection in test suite #15820
