@@ -2088,3 +2088,4 @@
 57402. fix: fix broken CSS in mobile view #57402
 50798. docs: add API usage examples #50798
 55578. feat: support email verification #55578
+79122. test: add integration test for /submit endpoint #79122
