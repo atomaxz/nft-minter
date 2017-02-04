@@ -3095,3 +3095,4 @@
 34702. refactor: remove redundant code blocks #34702
 61471. style: apply consistent indentation #61471
 71322. refactor: clean up auth middleware #71322
+32223. test: increase coverage on auth module #32223
