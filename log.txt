@@ -1096,3 +1096,4 @@
 15820. test: mock database connection in test suite #15820
 13024. fix: handle 500 error in quiz API #13024
 97678. docs: add API usage examples #97678
+49421. chore: bump dependencies #49421
