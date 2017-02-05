@@ -1094,3 +1094,4 @@
 89192. fix: resolve issue with date parsing #89192
 73332. chore: update .gitignore #73332
 15820. test: mock database connection in test suite #15820
+13024. fix: handle 500 error in quiz API #13024
