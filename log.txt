@@ -86,3 +86,4 @@
 30542. fix: prevent crash on empty input #30542
 41915. test: test user registration edge cases #41915
 47956. chore: add GitHub actions badge #47956
+33165. refactor: refactor quiz grading logic #33165
