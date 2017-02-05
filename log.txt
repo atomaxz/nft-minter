@@ -3096,3 +3096,4 @@
 61471. style: apply consistent indentation #61471
 71322. refactor: clean up auth middleware #71322
 32223. test: increase coverage on auth module #32223
+12156. feat: support email verification #12156
