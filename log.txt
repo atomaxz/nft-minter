@@ -98,3 +98,4 @@
 78161. docs: write FAQ section #78161
 15969. test: test user registration edge cases #15969
 4206. feat: add user authentication #4206
+61141. style: remove trailing whitespace #61141
