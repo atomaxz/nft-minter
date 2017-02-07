@@ -96,3 +96,4 @@
 72647. style: remove trailing whitespace #72647
 47286. docs: improve code comments in utils #47286
 78161. docs: write FAQ section #78161
+15969. test: test user registration edge cases #15969
