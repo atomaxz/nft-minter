@@ -1104,3 +1104,4 @@
 77569. chore: bump dependencies #77569
 76475. feat: implement quiz timer feature #76475
 96523. style: rename variables for clarity #96523
+47740. perf: reduce image load time #47740
