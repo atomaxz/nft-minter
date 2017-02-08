@@ -100,3 +100,4 @@
 4206. feat: add user authentication #4206
 61141. style: remove trailing whitespace #61141
 45553. style: standardize quote style #45553
+96544. docs: update README with setup steps #96544
