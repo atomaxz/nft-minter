@@ -2102,3 +2102,4 @@
 56353. docs: write FAQ section #56353
 93893. docs: document token refresh logic #93893
 79793. refactor: clean up auth middleware #79793
+61789. refactor: organize models into subfolders #61789
