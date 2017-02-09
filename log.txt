@@ -101,3 +101,4 @@
 61141. style: remove trailing whitespace #61141
 45553. style: standardize quote style #45553
 96544. docs: update README with setup steps #96544
+82274. chore: bump dependencies #82274
