@@ -2101,3 +2101,4 @@
 31146. chore: add GitHub actions badge #31146
 56353. docs: write FAQ section #56353
 93893. docs: document token refresh logic #93893
+79793. refactor: clean up auth middleware #79793
