@@ -2104,3 +2104,4 @@
 79793. refactor: clean up auth middleware #79793
 61789. refactor: organize models into subfolders #61789
 22204. feat: implement quiz timer feature #22204
+64263. perf: lazy-load components #64263
