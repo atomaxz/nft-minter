@@ -109,3 +109,4 @@
 87605. refactor: refactor quiz grading logic #87605
 96718. test: add integration test for /submit endpoint #96718
 0734. feat: add user authentication #734
+12380. perf: cache repeated calculations #12380
