@@ -3110,3 +3110,4 @@
 28730. docs: add API usage examples #28730
 32329. fix: fix null pointer exception on login #32329
 16056. perf: optimize database query for quiz results #16056
+50564. test: add integration test for /submit endpoint #50564
