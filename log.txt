@@ -111,3 +111,4 @@
 0734. feat: add user authentication #734
 12380. perf: cache repeated calculations #12380
 47890. perf: lazy-load components #47890
+12728. docs: write FAQ section #12728
