@@ -1110,3 +1110,4 @@
 73712. fix: fix null pointer exception on login #73712
 74425. feat: add user authentication #74425
 35831. docs: write FAQ section #35831
+35236. test: test user registration edge cases #35236
