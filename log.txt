@@ -115,3 +115,4 @@
 35207. refactor: organize models into subfolders #35207
 31664. test: add integration test for /submit endpoint #31664
 79804. feat: implement quiz timer feature #79804
+12518. test: mock database connection in test suite #12518
