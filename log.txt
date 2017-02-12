@@ -2112,3 +2112,4 @@
 98698. test: add integration test for /submit endpoint #98698
 44663. chore: rename env.example #44663
 68558. test: add unit test for quiz service #68558
+97524. style: rename variables for clarity #97524
