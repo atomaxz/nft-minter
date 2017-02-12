@@ -116,3 +116,4 @@
 31664. test: add integration test for /submit endpoint #31664
 79804. feat: implement quiz timer feature #79804
 12518. test: mock database connection in test suite #12518
+30409. chore: update .gitignore #30409
