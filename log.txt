@@ -1112,3 +1112,4 @@
 35831. docs: write FAQ section #35831
 35236. test: test user registration edge cases #35236
 73570. style: reformat files with black #73570
+6454. docs: write FAQ section #6454
