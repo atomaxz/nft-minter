@@ -1114,3 +1114,4 @@
 73570. style: reformat files with black #73570
 6454. docs: write FAQ section #6454
 64046. docs: clarify environment setup #64046
+81273. perf: optimize database query for quiz results #81273
