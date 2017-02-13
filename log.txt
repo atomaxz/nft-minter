@@ -119,3 +119,4 @@
 30409. chore: update .gitignore #30409
 6393. refactor: split large controller into smaller functions #6393
 70077. perf: cache repeated calculations #70077
+29047. fix: fix broken CSS in mobile view #29047
