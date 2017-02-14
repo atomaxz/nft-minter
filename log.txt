@@ -121,3 +121,4 @@
 70077. perf: cache repeated calculations #70077
 29047. fix: fix broken CSS in mobile view #29047
 58124. chore: clean up unused files #58124
+46501. feat: add user authentication #46501
