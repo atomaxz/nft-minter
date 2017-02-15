@@ -127,3 +127,4 @@
 68022. feat: implement quiz timer feature #68022
 24504. perf: optimize database query for quiz results #24504
 12839. feat: implement quiz timer feature #12839
+65769. refactor: clean up auth middleware #65769
