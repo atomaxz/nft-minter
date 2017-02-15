@@ -1124,3 +1124,4 @@
 96283. feat: create admin dashboard #96283
 16209. style: rename variables for clarity #16209
 83409. perf: cache repeated calculations #83409
+6026. test: test user registration edge cases #6026
