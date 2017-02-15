@@ -1121,3 +1121,4 @@
 70024. chore: rename env.example #70024
 94367. perf: reduce image load time #94367
 81176. test: add integration test for /submit endpoint #81176
+96283. feat: create admin dashboard #96283
