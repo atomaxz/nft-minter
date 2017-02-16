@@ -128,3 +128,4 @@
 24504. perf: optimize database query for quiz results #24504
 12839. feat: implement quiz timer feature #12839
 65769. refactor: clean up auth middleware #65769
+47328. chore: update .gitignore #47328
