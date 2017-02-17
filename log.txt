@@ -3128,3 +3128,4 @@
 92087. style: reformat files with black #92087
 63364. chore: clean up unused files #63364
 3457. feat: support email verification #3457
+28189. perf: optimize database query for quiz results #28189
