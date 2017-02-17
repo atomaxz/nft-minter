@@ -133,3 +133,4 @@
 61443. style: rename variables for clarity #61443
 33244. style: reformat files with black #33244
 0783. style: standardize quote style #783
+31071. docs: update README with setup steps #31071
