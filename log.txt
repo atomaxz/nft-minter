@@ -1131,3 +1131,4 @@
 3733. feat: implement quiz timer feature #3733
 81190. fix: fix broken CSS in mobile view #81190
 62790. refactor: split large controller into smaller functions #62790
+77804. style: remove trailing whitespace #77804
