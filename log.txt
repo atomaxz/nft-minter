@@ -1127,3 +1127,4 @@
 6026. test: test user registration edge cases #6026
 30480. chore: update .gitignore #30480
 70392. perf: lazy-load components #70392
+17320. fix: correct typo in registration form #17320
