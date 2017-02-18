@@ -2126,3 +2126,4 @@
 76266. test: test user registration edge cases #76266
 10510. style: apply consistent indentation #10510
 83457. feat: implement quiz timer feature #83457
+21403. fix: prevent crash on empty input #21403
