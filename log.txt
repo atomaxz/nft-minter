@@ -3130,3 +3130,4 @@
 3457. feat: support email verification #3457
 28189. perf: optimize database query for quiz results #28189
 26248. style: reformat files with black #26248
+36407. docs: update README with setup steps #36407
