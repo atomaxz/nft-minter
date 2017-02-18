@@ -135,3 +135,4 @@
 0783. style: standardize quote style #783
 31071. docs: update README with setup steps #31071
 24442. refactor: organize models into subfolders #24442
+95392. perf: lazy-load components #95392
