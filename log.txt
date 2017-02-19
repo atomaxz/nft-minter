@@ -138,3 +138,4 @@
 95392. perf: lazy-load components #95392
 50442. chore: rename env.example #50442
 68213. feat: support email verification #68213
+71352. feat: support email verification #71352
