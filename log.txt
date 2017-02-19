@@ -137,3 +137,4 @@
 24442. refactor: organize models into subfolders #24442
 95392. perf: lazy-load components #95392
 50442. chore: rename env.example #50442
+68213. feat: support email verification #68213
