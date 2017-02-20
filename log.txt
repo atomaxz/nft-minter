@@ -141,3 +141,4 @@
 71352. feat: support email verification #71352
 99753. style: reformat files with black #99753
 23807. perf: optimize database query for quiz results #23807
+95195. chore: add GitHub actions badge #95195
