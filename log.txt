@@ -1144,3 +1144,4 @@
 39880. chore: rename env.example #39880
 78749. feat: create admin dashboard #78749
 68511. refactor: organize models into subfolders #68511
+94979. test: increase coverage on auth module #94979
