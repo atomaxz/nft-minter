@@ -2130,3 +2130,4 @@
 12061. fix: resolve issue with date parsing #12061
 16802. refactor: clean up auth middleware #16802
 74223. fix: fix broken CSS in mobile view #74223
+43266. test: add unit test for quiz service #43266
