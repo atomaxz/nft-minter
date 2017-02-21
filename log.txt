@@ -2132,3 +2132,4 @@
 74223. fix: fix broken CSS in mobile view #74223
 43266. test: add unit test for quiz service #43266
 67578. feat: support email verification #67578
+90417. fix: fix null pointer exception on login #90417
