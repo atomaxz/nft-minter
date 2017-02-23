@@ -2142,3 +2142,4 @@
 94563. chore: add GitHub actions badge #94563
 61782. fix: handle 500 error in quiz API #61782
 73813. test: test user registration edge cases #73813
+44640. docs: add API usage examples #44640
