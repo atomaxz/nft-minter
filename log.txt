@@ -2145,3 +2145,4 @@
 44640. docs: add API usage examples #44640
 19703. refactor: organize models into subfolders #19703
 68657. chore: bump dependencies #68657
+88943. fix: fix broken CSS in mobile view #88943
