@@ -1151,3 +1151,4 @@
 73770. feat: support email verification #73770
 74938. docs: write FAQ section #74938
 13618. test: add unit test for quiz service #13618
+3451. chore: bump dependencies #3451
