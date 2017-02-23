@@ -2140,3 +2140,4 @@
 29117. docs: clarify environment setup #29117
 73785. feat: implement quiz timer feature #73785
 94563. chore: add GitHub actions badge #94563
+61782. fix: handle 500 error in quiz API #61782
