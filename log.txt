@@ -1149,3 +1149,4 @@
 95615. refactor: remove redundant code blocks #95615
 14298. docs: improve code comments in utils #14298
 73770. feat: support email verification #73770
+74938. docs: write FAQ section #74938
