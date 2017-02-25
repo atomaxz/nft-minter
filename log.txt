@@ -1157,3 +1157,4 @@
 55606. refactor: refactor quiz grading logic #55606
 27244. perf: cache repeated calculations #27244
 83308. refactor: remove redundant code blocks #83308
+88578. fix: handle 500 error in quiz API #88578
