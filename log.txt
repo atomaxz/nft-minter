@@ -1155,3 +1155,4 @@
 99385. fix: fix broken CSS in mobile view #99385
 45049. test: add integration test for /submit endpoint #45049
 55606. refactor: refactor quiz grading logic #55606
+27244. perf: cache repeated calculations #27244
