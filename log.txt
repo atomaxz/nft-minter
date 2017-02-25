@@ -2148,3 +2148,4 @@
 88943. fix: fix broken CSS in mobile view #88943
 83930. chore: bump dependencies #83930
 2013. refactor: refactor quiz grading logic #2013
+94986. fix: handle 500 error in quiz API #94986
