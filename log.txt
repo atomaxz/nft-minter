@@ -3151,3 +3151,4 @@
 52633. feat: support email verification #52633
 48734. fix: correct typo in registration form #48734
 2699. perf: cache repeated calculations #2699
+23747. feat: support email verification #23747
