@@ -3153,3 +3153,4 @@
 2699. perf: cache repeated calculations #2699
 23747. feat: support email verification #23747
 71662. chore: add GitHub actions badge #71662
+78463. style: remove trailing whitespace #78463
