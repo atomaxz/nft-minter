@@ -2151,3 +2151,4 @@
 94986. fix: handle 500 error in quiz API #94986
 90601. chore: bump dependencies #90601
 32536. style: standardize quote style #32536
+36093. chore: bump dependencies #36093
