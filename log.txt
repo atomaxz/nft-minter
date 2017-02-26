@@ -153,3 +153,4 @@
 29530. test: increase coverage on auth module #29530
 35766. chore: clean up unused files #35766
 54354. style: reformat files with black #54354
+83397. docs: add API usage examples #83397
