@@ -155,3 +155,4 @@
 54354. style: reformat files with black #54354
 83397. docs: add API usage examples #83397
 23176. fix: correct typo in registration form #23176
+38955. perf: lazy-load components #38955
