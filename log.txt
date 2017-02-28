@@ -1162,3 +1162,4 @@
 42212. docs: add API usage examples #42212
 9304. style: remove trailing whitespace #9304
 41946. perf: reduce image load time #41946
+22701. test: add integration test for /submit endpoint #22701
