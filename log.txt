@@ -1164,3 +1164,4 @@
 41946. perf: reduce image load time #41946
 22701. test: add integration test for /submit endpoint #22701
 72515. feat: enable dark mode toggle #72515
+84267. fix: correct typo in registration form #84267
