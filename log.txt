@@ -3162,3 +3162,4 @@
 17044. docs: update README with setup steps #17044
 55896. chore: clean up unused files #55896
 5998. chore: add GitHub actions badge #5998
+12039. docs: document token refresh logic #12039
