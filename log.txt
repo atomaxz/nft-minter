@@ -2154,3 +2154,4 @@
 36093. chore: bump dependencies #36093
 63340. docs: clarify environment setup #63340
 88190. fix: fix broken CSS in mobile view #88190
+68529. fix: fix null pointer exception on login #68529
