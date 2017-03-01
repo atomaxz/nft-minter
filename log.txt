@@ -1170,3 +1170,4 @@
 88718. chore: rename env.example #88718
 36623. docs: improve code comments in utils #36623
 55352. docs: clarify environment setup #55352
+51597. test: increase coverage on auth module #51597
