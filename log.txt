@@ -161,3 +161,4 @@
 29507. fix: prevent crash on empty input #29507
 65448. perf: cache repeated calculations #65448
 91995. perf: cache repeated calculations #91995
+37488. chore: update .gitignore #37488
