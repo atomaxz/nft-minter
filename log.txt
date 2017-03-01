@@ -3166,3 +3166,4 @@
 79544. perf: lazy-load components #79544
 30627. docs: write FAQ section #30627
 48861. perf: reduce image load time #48861
+80770. chore: update .gitignore #80770
