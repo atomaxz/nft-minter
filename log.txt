@@ -2160,3 +2160,4 @@
 11648. perf: reduce image load time #11648
 20296. test: add integration test for /submit endpoint #20296
 91272. perf: optimize database query for quiz results #91272
+15825. refactor: remove redundant code blocks #15825
