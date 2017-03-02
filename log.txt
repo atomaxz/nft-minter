@@ -3169,3 +3169,4 @@
 80770. chore: update .gitignore #80770
 84876. chore: update .gitignore #84876
 34517. style: apply consistent indentation #34517
+59381. perf: lazy-load components #59381
