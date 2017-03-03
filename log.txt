@@ -1173,3 +1173,4 @@
 51597. test: increase coverage on auth module #51597
 9856. feat: create admin dashboard #9856
 6980. perf: cache repeated calculations #6980
+6898. chore: update .gitignore #6898
