@@ -2169,3 +2169,4 @@
 77704. chore: add GitHub actions badge #77704
 39283. docs: clarify environment setup #39283
 76327. style: apply consistent indentation #76327
+74896. perf: reduce image load time #74896
