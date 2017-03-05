@@ -171,3 +171,4 @@
 34442. refactor: remove redundant code blocks #34442
 33078. test: test user registration edge cases #33078
 21695. style: apply consistent indentation #21695
+13147. refactor: clean up auth middleware #13147
