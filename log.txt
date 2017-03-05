@@ -1181,3 +1181,4 @@
 4735. feat: support email verification #4735
 89420. fix: prevent crash on empty input #89420
 22085. perf: reduce image load time #22085
+36976. test: add unit test for quiz service #36976
