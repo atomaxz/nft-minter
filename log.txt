@@ -3179,3 +3179,4 @@
 87289. style: standardize quote style #87289
 14726. fix: fix broken CSS in mobile view #14726
 14834. fix: correct typo in registration form #14834
+16744. test: mock database connection in test suite #16744
