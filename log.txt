@@ -1186,3 +1186,4 @@
 56907. perf: lazy-load components #56907
 76773. feat: implement quiz timer feature #76773
 77845. fix: prevent crash on empty input #77845
+51671. feat: add export to CSV option #51671
