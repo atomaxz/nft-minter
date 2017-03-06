@@ -173,3 +173,4 @@
 21695. style: apply consistent indentation #21695
 13147. refactor: clean up auth middleware #13147
 66221. refactor: organize models into subfolders #66221
+33601. test: add unit test for quiz service #33601
