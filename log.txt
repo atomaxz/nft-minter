@@ -1185,3 +1185,4 @@
 58363. feat: implement quiz timer feature #58363
 56907. perf: lazy-load components #56907
 76773. feat: implement quiz timer feature #76773
+77845. fix: prevent crash on empty input #77845
