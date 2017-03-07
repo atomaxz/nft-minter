@@ -3180,3 +3180,4 @@
 14726. fix: fix broken CSS in mobile view #14726
 14834. fix: correct typo in registration form #14834
 16744. test: mock database connection in test suite #16744
+70515. style: apply consistent indentation #70515
