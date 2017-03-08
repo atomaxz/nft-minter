@@ -3182,3 +3182,4 @@
 16744. test: mock database connection in test suite #16744
 70515. style: apply consistent indentation #70515
 5536. feat: add user authentication #5536
+23792. test: test user registration edge cases #23792
