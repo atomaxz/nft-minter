@@ -3183,3 +3183,4 @@
 70515. style: apply consistent indentation #70515
 5536. feat: add user authentication #5536
 23792. test: test user registration edge cases #23792
+32202. fix: prevent crash on empty input #32202
