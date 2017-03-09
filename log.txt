@@ -3186,3 +3186,4 @@
 32202. fix: prevent crash on empty input #32202
 12017. fix: prevent crash on empty input #12017
 8295. style: standardize quote style #8295
+27116. style: remove trailing whitespace #27116
