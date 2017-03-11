@@ -3196,3 +3196,4 @@
 72977. chore: rename env.example #72977
 63339. feat: create admin dashboard #63339
 13995. fix: prevent crash on empty input #13995
+41564. style: reformat files with black #41564
