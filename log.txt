@@ -1196,3 +1196,4 @@
 65834. chore: bump dependencies #65834
 32405. chore: bump dependencies #32405
 83976. feat: implement quiz timer feature #83976
+20794. perf: reduce image load time #20794
