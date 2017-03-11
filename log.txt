@@ -3192,3 +3192,4 @@
 34138. perf: lazy-load components #34138
 58944. style: rename variables for clarity #58944
 28000. docs: improve code comments in utils #28000
+24519. test: test user registration edge cases #24519
