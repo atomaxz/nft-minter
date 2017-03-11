@@ -186,3 +186,4 @@
 53624. docs: clarify environment setup #53624
 84752. test: add integration test for /submit endpoint #84752
 79866. style: remove trailing whitespace #79866
+79950. feat: enable dark mode toggle #79950
