@@ -188,3 +188,4 @@
 79866. style: remove trailing whitespace #79866
 79950. feat: enable dark mode toggle #79950
 66142. test: add unit test for quiz service #66142
+10949. style: reformat files with black #10949
