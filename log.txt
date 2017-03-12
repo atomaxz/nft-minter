@@ -2180,3 +2180,4 @@
 11941. docs: improve code comments in utils #11941
 81624. fix: correct typo in registration form #81624
 66765. chore: clean up unused files #66765
+21955. chore: bump dependencies #21955
