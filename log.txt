@@ -3199,3 +3199,4 @@
 41564. style: reformat files with black #41564
 19065. fix: fix null pointer exception on login #19065
 30130. feat: enable dark mode toggle #30130
+84744. perf: optimize database query for quiz results #84744
