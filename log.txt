@@ -1197,3 +1197,4 @@
 32405. chore: bump dependencies #32405
 83976. feat: implement quiz timer feature #83976
 20794. perf: reduce image load time #20794
+85089. fix: fix null pointer exception on login #85089
