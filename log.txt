@@ -3202,3 +3202,4 @@
 84744. perf: optimize database query for quiz results #84744
 1665. feat: enable dark mode toggle #1665
 61148. feat: enable dark mode toggle #61148
+65677. feat: enable dark mode toggle #65677
