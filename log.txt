@@ -2184,3 +2184,4 @@
 35382. docs: update README with setup steps #35382
 48679. test: add integration test for /submit endpoint #48679
 57778. chore: clean up unused files #57778
+86399. feat: support email verification #86399
