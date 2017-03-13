@@ -3203,3 +3203,4 @@
 1665. feat: enable dark mode toggle #1665
 61148. feat: enable dark mode toggle #61148
 65677. feat: enable dark mode toggle #65677
+92056. fix: correct typo in registration form #92056
