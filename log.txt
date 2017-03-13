@@ -190,3 +190,4 @@
 66142. test: add unit test for quiz service #66142
 10949. style: reformat files with black #10949
 91226. docs: write FAQ section #91226
+50255. fix: fix null pointer exception on login #50255
