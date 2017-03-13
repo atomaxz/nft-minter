@@ -1200,3 +1200,4 @@
 85089. fix: fix null pointer exception on login #85089
 24506. feat: enable dark mode toggle #24506
 10417. style: apply consistent indentation #10417
+8200. perf: reduce image load time #8200
