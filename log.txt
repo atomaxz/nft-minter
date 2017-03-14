@@ -3206,3 +3206,4 @@
 92056. fix: correct typo in registration form #92056
 8304. feat: support email verification #8304
 38954. chore: bump dependencies #38954
+49336. feat: add export to CSV option #49336
