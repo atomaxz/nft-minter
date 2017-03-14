@@ -2187,3 +2187,4 @@
 86399. feat: support email verification #86399
 49438. test: test user registration edge cases #49438
 51707. refactor: split large controller into smaller functions #51707
+98636. test: add unit test for quiz service #98636
