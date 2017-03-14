@@ -3205,3 +3205,4 @@
 65677. feat: enable dark mode toggle #65677
 92056. fix: correct typo in registration form #92056
 8304. feat: support email verification #8304
+38954. chore: bump dependencies #38954
