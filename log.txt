@@ -2189,3 +2189,4 @@
 51707. refactor: split large controller into smaller functions #51707
 98636. test: add unit test for quiz service #98636
 95418. feat: implement quiz timer feature #95418
+55897. perf: lazy-load components #55897
