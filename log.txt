@@ -198,3 +198,4 @@
 80745. test: add integration test for /submit endpoint #80745
 11775. chore: clean up unused files #11775
 86363. style: rename variables for clarity #86363
+76882. perf: optimize database query for quiz results #76882
