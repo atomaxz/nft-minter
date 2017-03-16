@@ -1211,3 +1211,4 @@
 99210. test: add unit test for quiz service #99210
 78110. style: standardize quote style #78110
 29339. style: apply consistent indentation #29339
+72680. chore: add GitHub actions badge #72680
