@@ -2194,3 +2194,4 @@
 49444. style: standardize quote style #49444
 98155. docs: clarify environment setup #98155
 21951. style: reformat files with black #21951
+53053. fix: prevent crash on empty input #53053
