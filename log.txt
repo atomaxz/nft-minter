@@ -208,3 +208,4 @@
 21578. fix: fix null pointer exception on login #21578
 23987. test: increase coverage on auth module #23987
 16186. chore: update .gitignore #16186
+52327. test: increase coverage on auth module #52327
