@@ -207,3 +207,4 @@
 79438. test: test user registration edge cases #79438
 21578. fix: fix null pointer exception on login #21578
 23987. test: increase coverage on auth module #23987
+16186. chore: update .gitignore #16186
