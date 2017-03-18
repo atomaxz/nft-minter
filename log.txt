@@ -1216,3 +1216,4 @@
 63016. feat: enable dark mode toggle #63016
 64818. docs: update README with setup steps #64818
 9303. chore: update .gitignore #9303
+68387. fix: handle 500 error in quiz API #68387
