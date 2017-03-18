@@ -205,3 +205,4 @@
 90731. perf: optimize database query for quiz results #90731
 91746. style: apply consistent indentation #91746
 79438. test: test user registration edge cases #79438
+21578. fix: fix null pointer exception on login #21578
