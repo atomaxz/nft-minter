@@ -206,3 +206,4 @@
 91746. style: apply consistent indentation #91746
 79438. test: test user registration edge cases #79438
 21578. fix: fix null pointer exception on login #21578
+23987. test: increase coverage on auth module #23987
