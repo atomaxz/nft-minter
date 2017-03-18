@@ -211,3 +211,4 @@
 52327. test: increase coverage on auth module #52327
 39941. docs: update README with setup steps #39941
 70457. feat: support email verification #70457
+90437. chore: update .gitignore #90437
