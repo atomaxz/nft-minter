@@ -3212,3 +3212,4 @@
 75837. chore: rename env.example #75837
 52639. perf: lazy-load components #52639
 77339. perf: cache repeated calculations #77339
+16821. perf: lazy-load components #16821
