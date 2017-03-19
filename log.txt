@@ -1220,3 +1220,4 @@
 99621. docs: add API usage examples #99621
 38293. fix: correct typo in registration form #38293
 60006. chore: bump dependencies #60006
+61921. fix: resolve issue with date parsing #61921
