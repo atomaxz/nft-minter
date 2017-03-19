@@ -217,3 +217,4 @@
 18620. refactor: refactor quiz grading logic #18620
 31360. feat: implement quiz timer feature #31360
 17238. style: rename variables for clarity #17238
+62548. feat: support email verification #62548
