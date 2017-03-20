@@ -3216,3 +3216,4 @@
 28271. style: reformat files with black #28271
 88454. fix: resolve issue with date parsing #88454
 54496. fix: prevent crash on empty input #54496
+62590. perf: reduce image load time #62590
