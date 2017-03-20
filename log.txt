@@ -2199,3 +2199,4 @@
 13741. style: reformat files with black #13741
 62832. test: test user registration edge cases #62832
 54200. perf: reduce image load time #54200
+52933. fix: prevent crash on empty input #52933
