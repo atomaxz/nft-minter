@@ -3217,3 +3217,4 @@
 88454. fix: resolve issue with date parsing #88454
 54496. fix: prevent crash on empty input #54496
 62590. perf: reduce image load time #62590
+87161. feat: add export to CSV option #87161
