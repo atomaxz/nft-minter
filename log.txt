@@ -219,3 +219,4 @@
 17238. style: rename variables for clarity #17238
 62548. feat: support email verification #62548
 91885. style: standardize quote style #91885
+70031. fix: fix broken CSS in mobile view #70031
