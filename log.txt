@@ -221,3 +221,4 @@
 91885. style: standardize quote style #91885
 70031. fix: fix broken CSS in mobile view #70031
 44484. chore: update .gitignore #44484
+71263. perf: reduce image load time #71263
