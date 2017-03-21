@@ -1225,3 +1225,4 @@
 57775. refactor: remove redundant code blocks #57775
 9675. style: remove trailing whitespace #9675
 59114. chore: rename env.example #59114
+91687. test: mock database connection in test suite #91687
