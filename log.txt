@@ -1224,3 +1224,4 @@
 9262. fix: fix null pointer exception on login #9262
 57775. refactor: remove redundant code blocks #57775
 9675. style: remove trailing whitespace #9675
+59114. chore: rename env.example #59114
