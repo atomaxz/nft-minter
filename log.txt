@@ -230,3 +230,4 @@
 98805. perf: lazy-load components #98805
 87632. style: remove trailing whitespace #87632
 68897. docs: add API usage examples #68897
+30496. fix: handle 500 error in quiz API #30496
