@@ -3224,3 +3224,4 @@
 39247. feat: enable dark mode toggle #39247
 2639. perf: cache repeated calculations #2639
 15365. style: rename variables for clarity #15365
+48547. fix: prevent crash on empty input #48547
