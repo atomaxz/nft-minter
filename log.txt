@@ -1233,3 +1233,4 @@
 19876. perf: cache repeated calculations #19876
 20019. refactor: remove redundant code blocks #20019
 84988. feat: implement quiz timer feature #84988
+47844. test: increase coverage on auth module #47844
