@@ -2212,3 +2212,4 @@
 3432. perf: reduce image load time #3432
 28409. fix: resolve issue with date parsing #28409
 26041. fix: correct typo in registration form #26041
+17074. test: test user registration edge cases #17074
