@@ -233,3 +233,4 @@
 30496. fix: handle 500 error in quiz API #30496
 60458. style: standardize quote style #60458
 70074. test: mock database connection in test suite #70074
+61277. test: mock database connection in test suite #61277
