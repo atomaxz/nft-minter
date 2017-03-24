@@ -3229,3 +3229,4 @@
 74564. docs: improve code comments in utils #74564
 47314. style: reformat files with black #47314
 66577. test: increase coverage on auth module #66577
+24897. refactor: organize models into subfolders #24897
