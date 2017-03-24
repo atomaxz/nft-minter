@@ -3228,3 +3228,4 @@
 48084. test: increase coverage on auth module #48084
 74564. docs: improve code comments in utils #74564
 47314. style: reformat files with black #47314
+66577. test: increase coverage on auth module #66577
