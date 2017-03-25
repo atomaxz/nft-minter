@@ -238,3 +238,4 @@
 31357. test: add integration test for /submit endpoint #31357
 48934. style: standardize quote style #48934
 66416. chore: add GitHub actions badge #66416
+71362. docs: update README with setup steps #71362
