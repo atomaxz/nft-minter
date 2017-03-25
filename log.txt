@@ -1238,3 +1238,4 @@
 23048. feat: support email verification #23048
 88072. docs: document token refresh logic #88072
 77538. docs: document token refresh logic #77538
+66968. perf: lazy-load components #66968
