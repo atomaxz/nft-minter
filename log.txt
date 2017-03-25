@@ -235,3 +235,4 @@
 70074. test: mock database connection in test suite #70074
 61277. test: mock database connection in test suite #61277
 25404. feat: support email verification #25404
+31357. test: add integration test for /submit endpoint #31357
