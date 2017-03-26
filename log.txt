@@ -244,3 +244,4 @@
 10962. docs: clarify environment setup #10962
 48831. test: increase coverage on auth module #48831
 4207. refactor: organize models into subfolders #4207
+87528. chore: update .gitignore #87528
