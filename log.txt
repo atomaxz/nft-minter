@@ -3239,3 +3239,4 @@
 20541. docs: clarify environment setup #20541
 76821. style: remove trailing whitespace #76821
 44025. style: apply consistent indentation #44025
+15947. fix: correct typo in registration form #15947
