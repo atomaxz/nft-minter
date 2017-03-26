@@ -239,3 +239,4 @@
 48934. style: standardize quote style #48934
 66416. chore: add GitHub actions badge #66416
 71362. docs: update README with setup steps #71362
+8868. perf: optimize database query for quiz results #8868
