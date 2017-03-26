@@ -2214,3 +2214,4 @@
 26041. fix: correct typo in registration form #26041
 17074. test: test user registration edge cases #17074
 24013. fix: handle 500 error in quiz API #24013
+74153. chore: add GitHub actions badge #74153
