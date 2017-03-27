@@ -1245,3 +1245,4 @@
 46874. test: increase coverage on auth module #46874
 20327. perf: reduce image load time #20327
 35443. perf: lazy-load components #35443
+11022. perf: optimize database query for quiz results #11022
