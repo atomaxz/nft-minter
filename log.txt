@@ -248,3 +248,4 @@
 50333. feat: add user authentication #50333
 24688. style: standardize quote style #24688
 45878. style: standardize quote style #45878
+1956. fix: prevent crash on empty input #1956
