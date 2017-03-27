@@ -1243,3 +1243,4 @@
 41790. docs: improve code comments in utils #41790
 11251. refactor: organize models into subfolders #11251
 46874. test: increase coverage on auth module #46874
+20327. perf: reduce image load time #20327
