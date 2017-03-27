@@ -2216,3 +2216,4 @@
 24013. fix: handle 500 error in quiz API #24013
 74153. chore: add GitHub actions badge #74153
 68928. fix: correct typo in registration form #68928
+23456. fix: fix null pointer exception on login #23456
