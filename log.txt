@@ -252,3 +252,4 @@
 23078. perf: optimize database query for quiz results #23078
 44235. perf: cache repeated calculations #44235
 18201. style: reformat files with black #18201
+62287. fix: resolve issue with date parsing #62287
