@@ -2220,3 +2220,4 @@
 84377. test: increase coverage on auth module #84377
 56633. test: increase coverage on auth module #56633
 3316. fix: correct typo in registration form #3316
+9007. refactor: clean up auth middleware #9007
