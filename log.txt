@@ -2221,3 +2221,4 @@
 56633. test: increase coverage on auth module #56633
 3316. fix: correct typo in registration form #3316
 9007. refactor: clean up auth middleware #9007
+82446. feat: add user authentication #82446
