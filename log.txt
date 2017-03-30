@@ -1250,3 +1250,4 @@
 47715. refactor: clean up auth middleware #47715
 74969. refactor: remove redundant code blocks #74969
 22940. test: test user registration edge cases #22940
+12084. test: mock database connection in test suite #12084
