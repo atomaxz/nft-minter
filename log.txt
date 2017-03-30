@@ -2225,3 +2225,4 @@
 73047. refactor: organize models into subfolders #73047
 15038. style: apply consistent indentation #15038
 37906. chore: rename env.example #37906
+99046. feat: enable dark mode toggle #99046
