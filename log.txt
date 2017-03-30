@@ -258,3 +258,4 @@
 10107. docs: update README with setup steps #10107
 61216. refactor: remove redundant code blocks #61216
 79406. refactor: organize models into subfolders #79406
+38851. feat: support email verification #38851
