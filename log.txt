@@ -3248,3 +3248,4 @@
 69350. test: add integration test for /submit endpoint #69350
 25010. docs: clarify environment setup #25010
 51083. chore: rename env.example #51083
+33615. feat: support email verification #33615
