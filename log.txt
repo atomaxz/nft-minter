@@ -3250,3 +3250,4 @@
 51083. chore: rename env.example #51083
 33615. feat: support email verification #33615
 7341. fix: resolve issue with date parsing #7341
+86223. fix: correct typo in registration form #86223
