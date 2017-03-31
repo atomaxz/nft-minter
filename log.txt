@@ -2227,3 +2227,4 @@
 37906. chore: rename env.example #37906
 99046. feat: enable dark mode toggle #99046
 45151. chore: bump dependencies #45151
+53682. style: remove trailing whitespace #53682
