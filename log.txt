@@ -1255,3 +1255,4 @@
 34098. perf: cache repeated calculations #34098
 86598. chore: clean up unused files #86598
 24600. perf: cache repeated calculations #24600
+71143. test: add unit test for quiz service #71143
