@@ -264,3 +264,4 @@
 90149. refactor: refactor quiz grading logic #90149
 34855. test: mock database connection in test suite #34855
 99335. docs: update README with setup steps #99335
+88224. chore: update .gitignore #88224
