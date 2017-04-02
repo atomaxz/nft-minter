@@ -1259,3 +1259,4 @@
 79935. docs: update README with setup steps #79935
 29789. style: apply consistent indentation #29789
 42423. perf: optimize database query for quiz results #42423
+83631. refactor: clean up auth middleware #83631
