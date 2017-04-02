@@ -267,3 +267,4 @@
 88224. chore: update .gitignore #88224
 92017. feat: create admin dashboard #92017
 28220. perf: lazy-load components #28220
+63833. fix: correct typo in registration form #63833
