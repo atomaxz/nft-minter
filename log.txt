@@ -3257,3 +3257,4 @@
 81647. style: standardize quote style #81647
 9676. test: test user registration edge cases #9676
 63561. test: test user registration edge cases #63561
+15930. docs: write FAQ section #15930
