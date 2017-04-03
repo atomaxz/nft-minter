@@ -3259,3 +3259,4 @@
 63561. test: test user registration edge cases #63561
 15930. docs: write FAQ section #15930
 15346. test: mock database connection in test suite #15346
+71127. refactor: organize models into subfolders #71127
