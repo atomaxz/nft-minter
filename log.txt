@@ -1263,3 +1263,4 @@
 33228. refactor: organize models into subfolders #33228
 7980. feat: create admin dashboard #7980
 15162. feat: implement quiz timer feature #15162
+40912. chore: add GitHub actions badge #40912
