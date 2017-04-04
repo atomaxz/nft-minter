@@ -272,3 +272,4 @@
 47972. style: standardize quote style #47972
 29840. test: increase coverage on auth module #29840
 33895. style: reformat files with black #33895
+32693. perf: lazy-load components #32693
