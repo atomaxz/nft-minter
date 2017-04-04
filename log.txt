@@ -271,3 +271,4 @@
 54541. test: increase coverage on auth module #54541
 47972. style: standardize quote style #47972
 29840. test: increase coverage on auth module #29840
+33895. style: reformat files with black #33895
