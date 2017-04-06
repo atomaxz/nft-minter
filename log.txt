@@ -275,3 +275,4 @@
 32693. perf: lazy-load components #32693
 90793. test: test user registration edge cases #90793
 76604. perf: cache repeated calculations #76604
+43732. fix: resolve issue with date parsing #43732
