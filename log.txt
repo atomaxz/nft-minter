@@ -1269,3 +1269,4 @@
 93458. perf: lazy-load components #93458
 61963. fix: prevent crash on empty input #61963
 57590. feat: enable dark mode toggle #57590
+36127. fix: correct typo in registration form #36127
