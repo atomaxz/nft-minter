@@ -274,3 +274,4 @@
 33895. style: reformat files with black #33895
 32693. perf: lazy-load components #32693
 90793. test: test user registration edge cases #90793
+76604. perf: cache repeated calculations #76604
