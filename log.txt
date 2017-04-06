@@ -2243,3 +2243,4 @@
 62736. test: test user registration edge cases #62736
 73268. docs: update README with setup steps #73268
 44538. feat: support email verification #44538
+52656. test: mock database connection in test suite #52656
