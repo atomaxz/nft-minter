@@ -3265,3 +3265,4 @@
 8009. fix: resolve issue with date parsing #8009
 84529. perf: lazy-load components #84529
 90349. style: remove trailing whitespace #90349
+32453. fix: fix null pointer exception on login #32453
