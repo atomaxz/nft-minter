@@ -3270,3 +3270,4 @@
 9576. docs: document token refresh logic #9576
 22964. refactor: organize models into subfolders #22964
 0777. feat: enable dark mode toggle #777
+89738. fix: correct typo in registration form #89738
