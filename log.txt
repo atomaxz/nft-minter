@@ -3269,3 +3269,4 @@
 2208. perf: lazy-load components #2208
 9576. docs: document token refresh logic #9576
 22964. refactor: organize models into subfolders #22964
+0777. feat: enable dark mode toggle #777
