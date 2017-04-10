@@ -1279,3 +1279,4 @@
 3395. perf: cache repeated calculations #3395
 5087. chore: add GitHub actions badge #5087
 56028. docs: document token refresh logic #56028
+50338. chore: rename env.example #50338
