@@ -1284,3 +1284,4 @@
 19680. docs: update README with setup steps #19680
 4645. chore: update .gitignore #4645
 95697. refactor: organize models into subfolders #95697
+2679. perf: reduce image load time #2679
