@@ -1283,3 +1283,4 @@
 63233. fix: correct typo in registration form #63233
 19680. docs: update README with setup steps #19680
 4645. chore: update .gitignore #4645
+95697. refactor: organize models into subfolders #95697
