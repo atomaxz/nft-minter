@@ -282,3 +282,4 @@
 71419. feat: support email verification #71419
 30780. chore: rename env.example #30780
 70819. style: remove trailing whitespace #70819
+93248. chore: update .gitignore #93248
