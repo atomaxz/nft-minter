@@ -283,3 +283,4 @@
 30780. chore: rename env.example #30780
 70819. style: remove trailing whitespace #70819
 93248. chore: update .gitignore #93248
+35206. fix: correct typo in registration form #35206
