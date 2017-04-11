@@ -2255,3 +2255,4 @@
 18487. style: standardize quote style #18487
 47871. chore: add GitHub actions badge #47871
 76664. perf: lazy-load components #76664
+52046. style: apply consistent indentation #52046
