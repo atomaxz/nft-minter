@@ -2254,3 +2254,4 @@
 77786. chore: update .gitignore #77786
 18487. style: standardize quote style #18487
 47871. chore: add GitHub actions badge #47871
+76664. perf: lazy-load components #76664
