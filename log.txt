@@ -3280,3 +3280,4 @@
 66844. docs: write FAQ section #66844
 79444. feat: enable dark mode toggle #79444
 76084. test: add unit test for quiz service #76084
+71837. fix: correct typo in registration form #71837
