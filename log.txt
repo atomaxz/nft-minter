@@ -1288,3 +1288,4 @@
 6162. fix: handle 500 error in quiz API #6162
 90030. docs: document token refresh logic #90030
 61338. chore: rename env.example #61338
+7979. style: apply consistent indentation #7979
