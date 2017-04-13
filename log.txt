@@ -3282,3 +3282,4 @@
 76084. test: add unit test for quiz service #76084
 71837. fix: correct typo in registration form #71837
 76815. style: remove trailing whitespace #76815
+18940. refactor: refactor quiz grading logic #18940
