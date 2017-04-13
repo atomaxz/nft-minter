@@ -291,3 +291,4 @@
 5384. refactor: split large controller into smaller functions #5384
 42015. docs: add API usage examples #42015
 37651. style: remove trailing whitespace #37651
+30223. chore: add GitHub actions badge #30223
