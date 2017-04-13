@@ -3284,3 +3284,4 @@
 76815. style: remove trailing whitespace #76815
 18940. refactor: refactor quiz grading logic #18940
 85243. feat: support email verification #85243
+6237. test: increase coverage on auth module #6237
