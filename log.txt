@@ -1293,3 +1293,4 @@
 31355. style: reformat files with black #31355
 53602. style: reformat files with black #53602
 46194. docs: add API usage examples #46194
+51205. docs: document token refresh logic #51205
