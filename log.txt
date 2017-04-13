@@ -2262,3 +2262,4 @@
 34788. style: reformat files with black #34788
 82757. feat: add user authentication #82757
 9170. refactor: remove redundant code blocks #9170
+1074. fix: fix broken CSS in mobile view #1074
