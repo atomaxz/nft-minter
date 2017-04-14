@@ -293,3 +293,4 @@
 37651. style: remove trailing whitespace #37651
 30223. chore: add GitHub actions badge #30223
 15112. feat: enable dark mode toggle #15112
+46852. test: increase coverage on auth module #46852
