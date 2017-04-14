@@ -294,3 +294,4 @@
 30223. chore: add GitHub actions badge #30223
 15112. feat: enable dark mode toggle #15112
 46852. test: increase coverage on auth module #46852
+79416. feat: add export to CSV option #79416
