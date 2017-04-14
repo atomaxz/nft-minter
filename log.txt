@@ -292,3 +292,4 @@
 42015. docs: add API usage examples #42015
 37651. style: remove trailing whitespace #37651
 30223. chore: add GitHub actions badge #30223
+15112. feat: enable dark mode toggle #15112
