@@ -1297,3 +1297,4 @@
 4785. docs: update README with setup steps #4785
 89659. docs: add API usage examples #89659
 14362. style: remove trailing whitespace #14362
+99390. fix: correct typo in registration form #99390
