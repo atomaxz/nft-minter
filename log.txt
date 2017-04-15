@@ -295,3 +295,4 @@
 15112. feat: enable dark mode toggle #15112
 46852. test: increase coverage on auth module #46852
 79416. feat: add export to CSV option #79416
+95279. feat: add user authentication #95279
