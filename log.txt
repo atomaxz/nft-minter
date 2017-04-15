@@ -3292,3 +3292,4 @@
 26554. test: add unit test for quiz service #26554
 94667. docs: update README with setup steps #94667
 69402. chore: rename env.example #69402
+55841. perf: lazy-load components #55841
