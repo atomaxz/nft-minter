@@ -3295,3 +3295,4 @@
 55841. perf: lazy-load components #55841
 73883. chore: rename env.example #73883
 74746. refactor: split large controller into smaller functions #74746
+68333. fix: fix broken CSS in mobile view #68333
