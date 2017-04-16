@@ -1306,3 +1306,4 @@
 23790. perf: reduce image load time #23790
 70783. perf: lazy-load components #70783
 52909. fix: handle 500 error in quiz API #52909
+66329. style: apply consistent indentation #66329
