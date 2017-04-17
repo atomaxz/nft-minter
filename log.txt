@@ -1308,3 +1308,4 @@
 52909. fix: handle 500 error in quiz API #52909
 66329. style: apply consistent indentation #66329
 69236. docs: add API usage examples #69236
+23103. fix: prevent crash on empty input #23103
