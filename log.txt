@@ -3298,3 +3298,4 @@
 68333. fix: fix broken CSS in mobile view #68333
 83198. docs: write FAQ section #83198
 57624. test: mock database connection in test suite #57624
+21408. chore: update .gitignore #21408
