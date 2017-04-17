@@ -3302,3 +3302,4 @@
 89563. perf: cache repeated calculations #89563
 97506. chore: update .gitignore #97506
 49962. feat: create admin dashboard #49962
+67799. perf: reduce image load time #67799
