@@ -2273,3 +2273,4 @@
 39384. test: add unit test for quiz service #39384
 70481. chore: bump dependencies #70481
 4145. perf: reduce image load time #4145
+3750. chore: add GitHub actions badge #3750
