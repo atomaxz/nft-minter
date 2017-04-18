@@ -2274,3 +2274,4 @@
 70481. chore: bump dependencies #70481
 4145. perf: reduce image load time #4145
 3750. chore: add GitHub actions badge #3750
+2022. test: add integration test for /submit endpoint #2022
