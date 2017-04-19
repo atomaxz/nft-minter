@@ -307,3 +307,4 @@
 16661. feat: create admin dashboard #16661
 65971. style: reformat files with black #65971
 68411. test: increase coverage on auth module #68411
+67285. style: remove trailing whitespace #67285
