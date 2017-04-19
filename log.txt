@@ -1314,3 +1314,4 @@
 51108. test: add integration test for /submit endpoint #51108
 20731. style: rename variables for clarity #20731
 18517. feat: implement quiz timer feature #18517
+16558. feat: support email verification #16558
