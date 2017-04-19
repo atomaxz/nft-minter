@@ -303,3 +303,4 @@
 67177. perf: optimize database query for quiz results #67177
 87413. docs: clarify environment setup #87413
 24675. refactor: clean up auth middleware #24675
+11457. fix: correct typo in registration form #11457
