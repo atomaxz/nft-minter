@@ -305,3 +305,4 @@
 24675. refactor: clean up auth middleware #24675
 11457. fix: correct typo in registration form #11457
 16661. feat: create admin dashboard #16661
+65971. style: reformat files with black #65971
