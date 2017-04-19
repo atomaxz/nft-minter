@@ -309,3 +309,4 @@
 68411. test: increase coverage on auth module #68411
 67285. style: remove trailing whitespace #67285
 40599. perf: cache repeated calculations #40599
+54864. docs: update README with setup steps #54864
