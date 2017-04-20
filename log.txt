@@ -311,3 +311,4 @@
 40599. perf: cache repeated calculations #40599
 54864. docs: update README with setup steps #54864
 28825. perf: reduce image load time #28825
+55765. fix: correct typo in registration form #55765
