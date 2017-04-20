@@ -2279,3 +2279,4 @@
 28096. test: add integration test for /submit endpoint #28096
 6842. fix: fix null pointer exception on login #6842
 74937. feat: add user authentication #74937
+12592. style: standardize quote style #12592
