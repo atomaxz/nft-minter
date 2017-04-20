@@ -310,3 +310,4 @@
 67285. style: remove trailing whitespace #67285
 40599. perf: cache repeated calculations #40599
 54864. docs: update README with setup steps #54864
+28825. perf: reduce image load time #28825
