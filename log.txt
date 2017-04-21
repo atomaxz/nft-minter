@@ -2280,3 +2280,4 @@
 6842. fix: fix null pointer exception on login #6842
 74937. feat: add user authentication #74937
 12592. style: standardize quote style #12592
+47909. refactor: clean up auth middleware #47909
