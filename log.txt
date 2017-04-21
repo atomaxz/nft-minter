@@ -313,3 +313,4 @@
 28825. perf: reduce image load time #28825
 55765. fix: correct typo in registration form #55765
 79958. perf: reduce image load time #79958
+39822. docs: write FAQ section #39822
