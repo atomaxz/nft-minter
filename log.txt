@@ -315,3 +315,4 @@
 79958. perf: reduce image load time #79958
 39822. docs: write FAQ section #39822
 71762. refactor: split large controller into smaller functions #71762
+63350. test: increase coverage on auth module #63350
