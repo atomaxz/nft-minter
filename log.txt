@@ -1318,3 +1318,4 @@
 8136. fix: prevent crash on empty input #8136
 6253. docs: update README with setup steps #6253
 54302. chore: update .gitignore #54302
+21391. feat: enable dark mode toggle #21391
