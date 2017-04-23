@@ -317,3 +317,4 @@
 71762. refactor: split large controller into smaller functions #71762
 63350. test: increase coverage on auth module #63350
 3237. style: standardize quote style #3237
+34986. perf: lazy-load components #34986
