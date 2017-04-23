@@ -1322,3 +1322,4 @@
 72579. chore: bump dependencies #72579
 7816. fix: correct typo in registration form #7816
 94843. perf: lazy-load components #94843
+88193. style: remove trailing whitespace #88193
