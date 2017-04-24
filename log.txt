@@ -1325,3 +1325,4 @@
 88193. style: remove trailing whitespace #88193
 18363. style: apply consistent indentation #18363
 9178. docs: add API usage examples #9178
+93603. fix: handle 500 error in quiz API #93603
