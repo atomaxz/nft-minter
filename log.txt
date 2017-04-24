@@ -3314,3 +3314,4 @@
 78552. docs: write FAQ section #78552
 54791. style: reformat files with black #54791
 11004. perf: optimize database query for quiz results #11004
+27625. refactor: clean up auth middleware #27625
