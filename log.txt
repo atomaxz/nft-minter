@@ -2290,3 +2290,4 @@
 33058. perf: cache repeated calculations #33058
 16647. chore: bump dependencies #16647
 79703. perf: cache repeated calculations #79703
+12418. test: increase coverage on auth module #12418
