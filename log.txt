@@ -2296,3 +2296,4 @@
 4443. fix: handle 500 error in quiz API #4443
 20634. chore: update .gitignore #20634
 74133. chore: update .gitignore #74133
+97437. test: add unit test for quiz service #97437
