@@ -1335,3 +1335,4 @@
 37556. feat: enable dark mode toggle #37556
 91977. style: remove trailing whitespace #91977
 79162. refactor: split large controller into smaller functions #79162
+41195. test: test user registration edge cases #41195
