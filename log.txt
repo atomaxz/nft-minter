@@ -326,3 +326,4 @@
 94716. fix: resolve issue with date parsing #94716
 2356. feat: enable dark mode toggle #2356
 91669. refactor: refactor quiz grading logic #91669
+40820. docs: write FAQ section #40820
