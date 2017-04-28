@@ -329,3 +329,4 @@
 40820. docs: write FAQ section #40820
 29217. perf: cache repeated calculations #29217
 53647. docs: improve code comments in utils #53647
+38401. fix: fix null pointer exception on login #38401
