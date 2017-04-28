@@ -3320,3 +3320,4 @@
 94523. test: test user registration edge cases #94523
 18903. docs: add API usage examples #18903
 41020. docs: clarify environment setup #41020
+52686. refactor: organize models into subfolders #52686
