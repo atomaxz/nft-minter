@@ -1338,3 +1338,4 @@
 41195. test: test user registration edge cases #41195
 26280. refactor: remove redundant code blocks #26280
 54318. docs: clarify environment setup #54318
+72478. test: add unit test for quiz service #72478
