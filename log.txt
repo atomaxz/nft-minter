@@ -2300,3 +2300,4 @@
 63417. style: standardize quote style #63417
 94546. style: standardize quote style #94546
 72477. refactor: clean up auth middleware #72477
+27228. style: reformat files with black #27228
