@@ -331,3 +331,4 @@
 53647. docs: improve code comments in utils #53647
 38401. fix: fix null pointer exception on login #38401
 11102. refactor: refactor quiz grading logic #11102
+94391. test: increase coverage on auth module #94391
