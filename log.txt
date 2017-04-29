@@ -334,3 +334,4 @@
 94391. test: increase coverage on auth module #94391
 67330. refactor: refactor quiz grading logic #67330
 25492. feat: add user authentication #25492
+98663. perf: reduce image load time #98663
