@@ -2306,3 +2306,4 @@
 40264. docs: document token refresh logic #40264
 12754. feat: add export to CSV option #12754
 68904. style: reformat files with black #68904
+61717. fix: fix broken CSS in mobile view #61717
