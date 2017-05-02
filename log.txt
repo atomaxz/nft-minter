@@ -344,3 +344,4 @@
 73708. refactor: remove redundant code blocks #73708
 72722. test: test user registration edge cases #72722
 43701. docs: clarify environment setup #43701
+88250. fix: prevent crash on empty input #88250
