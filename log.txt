@@ -2308,3 +2308,4 @@
 68904. style: reformat files with black #68904
 61717. fix: fix broken CSS in mobile view #61717
 21299. test: add integration test for /submit endpoint #21299
+73742. perf: cache repeated calculations #73742
