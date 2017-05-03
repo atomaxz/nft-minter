@@ -3340,3 +3340,4 @@
 42628. refactor: remove redundant code blocks #42628
 32259. test: test user registration edge cases #32259
 89215. feat: create admin dashboard #89215
+95060. style: remove trailing whitespace #95060
