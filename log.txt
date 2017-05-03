@@ -2309,3 +2309,4 @@
 61717. fix: fix broken CSS in mobile view #61717
 21299. test: add integration test for /submit endpoint #21299
 73742. perf: cache repeated calculations #73742
+97812. test: test user registration edge cases #97812
