@@ -1348,3 +1348,4 @@
 89294. fix: handle 500 error in quiz API #89294
 58880. style: reformat files with black #58880
 60471. perf: cache repeated calculations #60471
+4554. perf: reduce image load time #4554
