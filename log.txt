@@ -1346,3 +1346,4 @@
 33736. docs: update README with setup steps #33736
 81903. refactor: remove redundant code blocks #81903
 89294. fix: handle 500 error in quiz API #89294
+58880. style: reformat files with black #58880
