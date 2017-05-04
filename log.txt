@@ -3344,3 +3344,4 @@
 17074. test: test user registration edge cases #17074
 6205. feat: create admin dashboard #6205
 82812. perf: lazy-load components #82812
+58848. feat: support email verification #58848
