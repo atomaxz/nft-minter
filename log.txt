@@ -350,3 +350,4 @@
 55731. feat: enable dark mode toggle #55731
 88522. refactor: remove redundant code blocks #88522
 2342. style: apply consistent indentation #2342
+93136. style: remove trailing whitespace #93136
