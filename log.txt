@@ -351,3 +351,4 @@
 88522. refactor: remove redundant code blocks #88522
 2342. style: apply consistent indentation #2342
 93136. style: remove trailing whitespace #93136
+33745. feat: support email verification #33745
