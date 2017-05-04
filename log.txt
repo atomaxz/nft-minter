@@ -3343,3 +3343,4 @@
 95060. style: remove trailing whitespace #95060
 17074. test: test user registration edge cases #17074
 6205. feat: create admin dashboard #6205
+82812. perf: lazy-load components #82812
