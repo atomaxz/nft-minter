@@ -356,3 +356,4 @@
 88659. feat: support email verification #88659
 4849. fix: correct typo in registration form #4849
 11120. test: add integration test for /submit endpoint #11120
+38591. feat: enable dark mode toggle #38591
