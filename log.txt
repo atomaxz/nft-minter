@@ -2315,3 +2315,4 @@
 39586. test: test user registration edge cases #39586
 20126. chore: clean up unused files #20126
 84683. refactor: organize models into subfolders #84683
+13861. chore: add GitHub actions badge #13861
