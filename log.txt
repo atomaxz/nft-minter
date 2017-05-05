@@ -3348,3 +3348,4 @@
 12832. refactor: clean up auth middleware #12832
 44178. docs: add API usage examples #44178
 62360. perf: reduce image load time #62360
+17415. test: add integration test for /submit endpoint #17415
