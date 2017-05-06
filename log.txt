@@ -362,3 +362,4 @@
 4299. chore: add GitHub actions badge #4299
 87167. chore: bump dependencies #87167
 86825. fix: handle 500 error in quiz API #86825
+92044. test: increase coverage on auth module #92044
