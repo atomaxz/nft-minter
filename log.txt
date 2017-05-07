@@ -2320,3 +2320,4 @@
 62641. refactor: clean up auth middleware #62641
 20084. style: standardize quote style #20084
 92603. fix: fix broken CSS in mobile view #92603
+83720. feat: add user authentication #83720
