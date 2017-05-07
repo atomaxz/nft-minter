@@ -3353,3 +3353,4 @@
 43776. fix: fix broken CSS in mobile view #43776
 58075. test: test user registration edge cases #58075
 94813. chore: rename env.example #94813
+52688. refactor: organize models into subfolders #52688
