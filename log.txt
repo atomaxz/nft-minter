@@ -3355,3 +3355,4 @@
 94813. chore: rename env.example #94813
 52688. refactor: organize models into subfolders #52688
 83018. perf: reduce image load time #83018
+84797. docs: update README with setup steps #84797
