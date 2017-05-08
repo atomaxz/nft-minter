@@ -1360,3 +1360,4 @@
 73351. perf: reduce image load time #73351
 10595. refactor: split large controller into smaller functions #10595
 78445. perf: cache repeated calculations #78445
+12940. test: add unit test for quiz service #12940
