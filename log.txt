@@ -2323,3 +2323,4 @@
 83720. feat: add user authentication #83720
 85721. perf: reduce image load time #85721
 9081. test: mock database connection in test suite #9081
+36316. perf: lazy-load components #36316
