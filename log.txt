@@ -3357,3 +3357,4 @@
 83018. perf: reduce image load time #83018
 84797. docs: update README with setup steps #84797
 63510. perf: reduce image load time #63510
+88485. refactor: clean up auth middleware #88485
