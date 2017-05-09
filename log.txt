@@ -2326,3 +2326,4 @@
 36316. perf: lazy-load components #36316
 87681. docs: write FAQ section #87681
 33619. chore: rename env.example #33619
+73257. perf: optimize database query for quiz results #73257
