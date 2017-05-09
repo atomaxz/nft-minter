@@ -2328,3 +2328,4 @@
 33619. chore: rename env.example #33619
 73257. perf: optimize database query for quiz results #73257
 20740. docs: document token refresh logic #20740
+3539. test: test user registration edge cases #3539
