@@ -372,3 +372,4 @@
 86277. docs: write FAQ section #86277
 44903. style: rename variables for clarity #44903
 16302. test: test user registration edge cases #16302
+39271. docs: document token refresh logic #39271
