@@ -2330,3 +2330,4 @@
 20740. docs: document token refresh logic #20740
 3539. test: test user registration edge cases #3539
 6444. fix: prevent crash on empty input #6444
+38958. chore: update .gitignore #38958
