@@ -376,3 +376,4 @@
 50225. docs: write FAQ section #50225
 88863. chore: rename env.example #88863
 36138. style: standardize quote style #36138
+60269. feat: create admin dashboard #60269
