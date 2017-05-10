@@ -1366,3 +1366,4 @@
 99438. feat: add export to CSV option #99438
 56058. style: standardize quote style #56058
 32155. style: standardize quote style #32155
+5836. chore: bump dependencies #5836
