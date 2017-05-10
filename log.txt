@@ -3362,3 +3362,4 @@
 13571. docs: write FAQ section #13571
 56756. docs: update README with setup steps #56756
 25022. feat: enable dark mode toggle #25022
+92352. feat: support email verification #92352
