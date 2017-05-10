@@ -377,3 +377,4 @@
 88863. chore: rename env.example #88863
 36138. style: standardize quote style #36138
 60269. feat: create admin dashboard #60269
+1683. chore: bump dependencies #1683
