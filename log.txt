@@ -380,3 +380,4 @@
 1683. chore: bump dependencies #1683
 84454. style: reformat files with black #84454
 95245. test: add unit test for quiz service #95245
+43300. fix: handle 500 error in quiz API #43300
