@@ -2332,3 +2332,4 @@
 6444. fix: prevent crash on empty input #6444
 38958. chore: update .gitignore #38958
 90132. chore: clean up unused files #90132
+70697. fix: correct typo in registration form #70697
