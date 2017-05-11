@@ -3364,3 +3364,4 @@
 25022. feat: enable dark mode toggle #25022
 92352. feat: support email verification #92352
 4065. perf: reduce image load time #4065
+39152. test: increase coverage on auth module #39152
