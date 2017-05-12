@@ -1370,3 +1370,4 @@
 4500. test: mock database connection in test suite #4500
 74286. fix: correct typo in registration form #74286
 52984. chore: update .gitignore #52984
+93585. chore: update .gitignore #93585
