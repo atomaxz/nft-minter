@@ -1372,3 +1372,4 @@
 52984. chore: update .gitignore #52984
 93585. chore: update .gitignore #93585
 79768. style: remove trailing whitespace #79768
+7849. docs: write FAQ section #7849
