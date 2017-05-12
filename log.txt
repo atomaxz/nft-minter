@@ -3365,3 +3365,4 @@
 92352. feat: support email verification #92352
 4065. perf: reduce image load time #4065
 39152. test: increase coverage on auth module #39152
+74224. fix: handle 500 error in quiz API #74224
