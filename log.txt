@@ -382,3 +382,4 @@
 95245. test: add unit test for quiz service #95245
 43300. fix: handle 500 error in quiz API #43300
 45901. feat: create admin dashboard #45901
+58452. perf: cache repeated calculations #58452
