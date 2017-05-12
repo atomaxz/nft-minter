@@ -1373,3 +1373,4 @@
 93585. chore: update .gitignore #93585
 79768. style: remove trailing whitespace #79768
 7849. docs: write FAQ section #7849
+76272. style: apply consistent indentation #76272
