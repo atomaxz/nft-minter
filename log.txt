@@ -1375,3 +1375,4 @@
 7849. docs: write FAQ section #7849
 76272. style: apply consistent indentation #76272
 36181. chore: bump dependencies #36181
+79543. docs: document token refresh logic #79543
