@@ -387,3 +387,4 @@
 85696. perf: optimize database query for quiz results #85696
 92717. refactor: refactor quiz grading logic #92717
 96259. docs: document token refresh logic #96259
+52920. feat: add user authentication #52920
