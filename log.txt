@@ -2338,3 +2338,4 @@
 65821. style: reformat files with black #65821
 0315. test: mock database connection in test suite #315
 75002. style: rename variables for clarity #75002
+75438. fix: correct typo in registration form #75438
