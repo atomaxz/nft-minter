@@ -3371,3 +3371,4 @@
 0036. style: remove trailing whitespace #36
 62570. refactor: refactor quiz grading logic #62570
 80632. test: add integration test for /submit endpoint #80632
+12414. feat: support email verification #12414
