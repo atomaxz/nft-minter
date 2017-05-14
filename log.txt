@@ -1379,3 +1379,4 @@
 68844. refactor: remove redundant code blocks #68844
 77922. chore: update .gitignore #77922
 36969. refactor: split large controller into smaller functions #36969
+14173. style: remove trailing whitespace #14173
