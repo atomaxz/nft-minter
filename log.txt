@@ -3373,3 +3373,4 @@
 80632. test: add integration test for /submit endpoint #80632
 12414. feat: support email verification #12414
 27684. feat: create admin dashboard #27684
+77312. perf: lazy-load components #77312
