@@ -389,3 +389,4 @@
 96259. docs: document token refresh logic #96259
 52920. feat: add user authentication #52920
 9804. refactor: refactor quiz grading logic #9804
+67672. docs: write FAQ section #67672
