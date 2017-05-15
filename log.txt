@@ -3374,3 +3374,4 @@
 12414. feat: support email verification #12414
 27684. feat: create admin dashboard #27684
 77312. perf: lazy-load components #77312
+80822. fix: handle 500 error in quiz API #80822
