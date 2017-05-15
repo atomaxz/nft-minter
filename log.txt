@@ -3375,3 +3375,4 @@
 27684. feat: create admin dashboard #27684
 77312. perf: lazy-load components #77312
 80822. fix: handle 500 error in quiz API #80822
+77913. fix: fix null pointer exception on login #77913
