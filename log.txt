@@ -1382,3 +1382,4 @@
 14173. style: remove trailing whitespace #14173
 88097. feat: implement quiz timer feature #88097
 40035. feat: add user authentication #40035
+21981. perf: optimize database query for quiz results #21981
