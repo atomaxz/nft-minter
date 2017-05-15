@@ -2340,3 +2340,4 @@
 75002. style: rename variables for clarity #75002
 75438. fix: correct typo in registration form #75438
 12366. test: increase coverage on auth module #12366
+35681. style: rename variables for clarity #35681
