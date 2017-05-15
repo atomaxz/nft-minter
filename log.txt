@@ -396,3 +396,4 @@
 60316. refactor: remove redundant code blocks #60316
 65420. chore: bump dependencies #65420
 31529. docs: write FAQ section #31529
+30270. fix: fix null pointer exception on login #30270
