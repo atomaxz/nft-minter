@@ -394,3 +394,4 @@
 23641. test: add integration test for /submit endpoint #23641
 57753. chore: add GitHub actions badge #57753
 60316. refactor: remove redundant code blocks #60316
+65420. chore: bump dependencies #65420
