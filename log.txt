@@ -398,3 +398,4 @@
 31529. docs: write FAQ section #31529
 30270. fix: fix null pointer exception on login #30270
 10280. style: apply consistent indentation #10280
+29331. perf: cache repeated calculations #29331
