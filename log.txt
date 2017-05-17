@@ -3380,3 +3380,4 @@
 0811. chore: clean up unused files #811
 31547. style: reformat files with black #31547
 28528. perf: lazy-load components #28528
+23070. docs: write FAQ section #23070
