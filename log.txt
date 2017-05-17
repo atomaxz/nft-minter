@@ -399,3 +399,4 @@
 30270. fix: fix null pointer exception on login #30270
 10280. style: apply consistent indentation #10280
 29331. perf: cache repeated calculations #29331
+8966. style: rename variables for clarity #8966
