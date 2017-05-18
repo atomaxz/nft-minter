@@ -2347,3 +2347,4 @@
 12522. test: test user registration edge cases #12522
 81107. feat: implement quiz timer feature #81107
 56910. fix: resolve issue with date parsing #56910
+38414. fix: correct typo in registration form #38414
