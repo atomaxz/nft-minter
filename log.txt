@@ -1392,3 +1392,4 @@
 72280. fix: handle 500 error in quiz API #72280
 98416. test: mock database connection in test suite #98416
 52784. test: increase coverage on auth module #52784
+26729. chore: add GitHub actions badge #26729
