@@ -405,3 +405,4 @@
 35289. style: standardize quote style #35289
 35267. fix: handle 500 error in quiz API #35267
 48606. fix: fix null pointer exception on login #48606
+18927. docs: clarify environment setup #18927
