@@ -1395,3 +1395,4 @@
 26729. chore: add GitHub actions badge #26729
 58213. refactor: split large controller into smaller functions #58213
 16666. chore: rename env.example #16666
+91224. perf: lazy-load components #91224
