@@ -3388,3 +3388,4 @@
 16130. docs: improve code comments in utils #16130
 71492. fix: correct typo in registration form #71492
 71770. feat: add user authentication #71770
+51828. test: add integration test for /submit endpoint #51828
