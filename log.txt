@@ -404,3 +404,4 @@
 40054. fix: prevent crash on empty input #40054
 35289. style: standardize quote style #35289
 35267. fix: handle 500 error in quiz API #35267
+48606. fix: fix null pointer exception on login #48606
