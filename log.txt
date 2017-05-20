@@ -3387,3 +3387,4 @@
 87921. refactor: refactor quiz grading logic #87921
 16130. docs: improve code comments in utils #16130
 71492. fix: correct typo in registration form #71492
+71770. feat: add user authentication #71770
