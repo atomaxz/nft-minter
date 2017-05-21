@@ -2360,3 +2360,4 @@
 42408. docs: update README with setup steps #42408
 56815. feat: implement quiz timer feature #56815
 57347. test: test user registration edge cases #57347
+15390. fix: fix broken CSS in mobile view #15390
