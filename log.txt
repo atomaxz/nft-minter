@@ -2362,3 +2362,4 @@
 57347. test: test user registration edge cases #57347
 15390. fix: fix broken CSS in mobile view #15390
 35989. fix: handle 500 error in quiz API #35989
+76977. chore: clean up unused files #76977
