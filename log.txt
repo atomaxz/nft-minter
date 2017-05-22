@@ -1400,3 +1400,4 @@
 83227. test: add unit test for quiz service #83227
 16184. perf: lazy-load components #16184
 79812. style: reformat files with black #79812
+78712. feat: support email verification #78712
