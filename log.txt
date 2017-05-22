@@ -3393,3 +3393,4 @@
 46951. feat: create admin dashboard #46951
 4037. perf: cache repeated calculations #4037
 66854. perf: lazy-load components #66854
+80979. docs: update README with setup steps #80979
