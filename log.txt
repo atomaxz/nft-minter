@@ -3392,3 +3392,4 @@
 19154. fix: handle 500 error in quiz API #19154
 46951. feat: create admin dashboard #46951
 4037. perf: cache repeated calculations #4037
+66854. perf: lazy-load components #66854
