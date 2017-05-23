@@ -2368,3 +2368,4 @@
 27876. feat: enable dark mode toggle #27876
 91289. perf: lazy-load components #91289
 8556. feat: create admin dashboard #8556
+27459. fix: fix null pointer exception on login #27459
