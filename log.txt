@@ -1410,3 +1410,4 @@
 69181. fix: resolve issue with date parsing #69181
 40213. feat: create admin dashboard #40213
 79702. test: increase coverage on auth module #79702
+88519. fix: correct typo in registration form #88519
