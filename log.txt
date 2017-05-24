@@ -1412,3 +1412,4 @@
 79702. test: increase coverage on auth module #79702
 88519. fix: correct typo in registration form #88519
 99496. docs: update README with setup steps #99496
+43731. feat: create admin dashboard #43731
