@@ -2372,3 +2372,4 @@
 26424. chore: rename env.example #26424
 32430. perf: reduce image load time #32430
 16358. feat: enable dark mode toggle #16358
+22824. docs: write FAQ section #22824
