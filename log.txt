@@ -2375,3 +2375,4 @@
 22824. docs: write FAQ section #22824
 86348. test: mock database connection in test suite #86348
 1224. docs: update README with setup steps #1224
+37926. fix: correct typo in registration form #37926
