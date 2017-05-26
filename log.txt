@@ -1419,3 +1419,4 @@
 48113. test: test user registration edge cases #48113
 63597. style: reformat files with black #63597
 43647. test: add integration test for /submit endpoint #43647
+40972. style: remove trailing whitespace #40972
