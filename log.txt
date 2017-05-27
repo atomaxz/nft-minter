@@ -418,3 +418,4 @@
 64728. refactor: organize models into subfolders #64728
 5377. refactor: refactor quiz grading logic #5377
 13617. chore: update .gitignore #13617
+67148. feat: support email verification #67148
