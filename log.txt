@@ -2378,3 +2378,4 @@
 37926. fix: correct typo in registration form #37926
 63462. perf: optimize database query for quiz results #63462
 3120. test: add unit test for quiz service #3120
+39918. perf: optimize database query for quiz results #39918
