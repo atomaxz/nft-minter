@@ -420,3 +420,4 @@
 13617. chore: update .gitignore #13617
 67148. feat: support email verification #67148
 17834. docs: clarify environment setup #17834
+96908. feat: add user authentication #96908
