@@ -422,3 +422,4 @@
 17834. docs: clarify environment setup #17834
 96908. feat: add user authentication #96908
 30089. fix: correct typo in registration form #30089
+48530. style: reformat files with black #48530
