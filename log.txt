@@ -3410,3 +3410,4 @@
 0750. chore: rename env.example #750
 24021. chore: add GitHub actions badge #24021
 93423. style: remove trailing whitespace #93423
+71212. perf: reduce image load time #71212
