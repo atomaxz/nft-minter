@@ -2382,3 +2382,4 @@
 61891. docs: document token refresh logic #61891
 63069. fix: correct typo in registration form #63069
 77710. docs: write FAQ section #77710
+52884. feat: enable dark mode toggle #52884
