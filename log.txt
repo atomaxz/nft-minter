@@ -1432,3 +1432,4 @@
 82859. docs: clarify environment setup #82859
 18095. perf: reduce image load time #18095
 43396. perf: reduce image load time #43396
+13511. chore: update .gitignore #13511
