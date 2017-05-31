@@ -430,3 +430,4 @@
 44052. feat: enable dark mode toggle #44052
 76357. feat: add user authentication #76357
 69945. feat: create admin dashboard #69945
+97450. fix: prevent crash on empty input #97450
