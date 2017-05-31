@@ -2393,3 +2393,4 @@
 90788. perf: optimize database query for quiz results #90788
 40793. fix: resolve issue with date parsing #40793
 98298. docs: update README with setup steps #98298
+75601. feat: support email verification #75601
