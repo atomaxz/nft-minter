@@ -432,3 +432,4 @@
 69945. feat: create admin dashboard #69945
 97450. fix: prevent crash on empty input #97450
 65240. feat: implement quiz timer feature #65240
+6665. style: apply consistent indentation #6665
