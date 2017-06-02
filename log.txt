@@ -434,3 +434,4 @@
 65240. feat: implement quiz timer feature #65240
 6665. style: apply consistent indentation #6665
 33151. docs: add API usage examples #33151
+27172. perf: optimize database query for quiz results #27172
