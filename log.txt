@@ -437,3 +437,4 @@
 27172. perf: optimize database query for quiz results #27172
 70737. perf: reduce image load time #70737
 30129. test: increase coverage on auth module #30129
+82543. feat: add user authentication #82543
