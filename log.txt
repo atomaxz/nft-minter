@@ -2398,3 +2398,4 @@
 18948. test: add unit test for quiz service #18948
 25706. feat: create admin dashboard #25706
 2590. test: increase coverage on auth module #2590
+27853. perf: cache repeated calculations #27853
