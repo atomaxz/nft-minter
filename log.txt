@@ -439,3 +439,4 @@
 30129. test: increase coverage on auth module #30129
 82543. feat: add user authentication #82543
 32834. chore: update .gitignore #32834
+28649. perf: lazy-load components #28649
