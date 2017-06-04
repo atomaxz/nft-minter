@@ -440,3 +440,4 @@
 82543. feat: add user authentication #82543
 32834. chore: update .gitignore #32834
 28649. perf: lazy-load components #28649
+69731. fix: prevent crash on empty input #69731
