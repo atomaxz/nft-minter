@@ -3423,3 +3423,4 @@
 95059. chore: rename env.example #95059
 55384. perf: lazy-load components #55384
 99603. refactor: clean up auth middleware #99603
+57175. chore: add GitHub actions badge #57175
