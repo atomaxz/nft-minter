@@ -3422,3 +3422,4 @@
 97507. feat: add user authentication #97507
 95059. chore: rename env.example #95059
 55384. perf: lazy-load components #55384
+99603. refactor: clean up auth middleware #99603
