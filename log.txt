@@ -3426,3 +3426,4 @@
 57175. chore: add GitHub actions badge #57175
 88774. fix: resolve issue with date parsing #88774
 7108. docs: update README with setup steps #7108
+89410. test: mock database connection in test suite #89410
