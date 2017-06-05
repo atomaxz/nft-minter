@@ -3425,3 +3425,4 @@
 99603. refactor: clean up auth middleware #99603
 57175. chore: add GitHub actions badge #57175
 88774. fix: resolve issue with date parsing #88774
+7108. docs: update README with setup steps #7108
