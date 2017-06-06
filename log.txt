@@ -1450,3 +1450,4 @@
 52869. chore: bump dependencies #52869
 42791. feat: implement quiz timer feature #42791
 91787. docs: add API usage examples #91787
+38222. feat: support email verification #38222
