@@ -447,3 +447,4 @@
 76450. feat: add export to CSV option #76450
 43109. docs: add API usage examples #43109
 36003. test: increase coverage on auth module #36003
+84176. feat: add user authentication #84176
