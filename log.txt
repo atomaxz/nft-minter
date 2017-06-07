@@ -3431,3 +3431,4 @@
 86260. fix: handle 500 error in quiz API #86260
 74513. feat: implement quiz timer feature #74513
 18720. refactor: organize models into subfolders #18720
+0044. chore: add GitHub actions badge #44
