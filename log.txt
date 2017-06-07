@@ -451,3 +451,4 @@
 55307. chore: add GitHub actions badge #55307
 22333. feat: add user authentication #22333
 15664. feat: support email verification #15664
+96875. test: mock database connection in test suite #96875
