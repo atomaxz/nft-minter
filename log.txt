@@ -450,3 +450,4 @@
 84176. feat: add user authentication #84176
 55307. chore: add GitHub actions badge #55307
 22333. feat: add user authentication #22333
+15664. feat: support email verification #15664
