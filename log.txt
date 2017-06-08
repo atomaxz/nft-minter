@@ -2414,3 +2414,4 @@
 96865. test: add unit test for quiz service #96865
 6477. docs: clarify environment setup #6477
 22737. refactor: organize models into subfolders #22737
+99507. fix: handle 500 error in quiz API #99507
