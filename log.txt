@@ -456,3 +456,4 @@
 93357. perf: reduce image load time #93357
 17547. chore: add GitHub actions badge #17547
 98112. docs: add API usage examples #98112
+36953. docs: improve code comments in utils #36953
