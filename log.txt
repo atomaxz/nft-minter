@@ -2421,3 +2421,4 @@
 58118. feat: add export to CSV option #58118
 14775. refactor: refactor quiz grading logic #14775
 9523. feat: enable dark mode toggle #9523
+9457. test: test user registration edge cases #9457
