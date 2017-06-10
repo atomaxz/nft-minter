@@ -3440,3 +3440,4 @@
 97324. feat: implement quiz timer feature #97324
 95259. chore: clean up unused files #95259
 38324. docs: improve code comments in utils #38324
+80290. fix: handle 500 error in quiz API #80290
