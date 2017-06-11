@@ -3443,3 +3443,4 @@
 80290. fix: handle 500 error in quiz API #80290
 12506. chore: bump dependencies #12506
 73770. feat: support email verification #73770
+22824. docs: write FAQ section #22824
