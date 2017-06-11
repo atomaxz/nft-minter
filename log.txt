@@ -1460,3 +1460,4 @@
 38936. feat: add export to CSV option #38936
 1766. test: add unit test for quiz service #1766
 38364. perf: reduce image load time #38364
+85588. fix: prevent crash on empty input #85588
