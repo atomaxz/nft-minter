@@ -462,3 +462,4 @@
 97883. style: remove trailing whitespace #97883
 51083. chore: rename env.example #51083
 44538. feat: support email verification #44538
+52383. perf: optimize database query for quiz results #52383
