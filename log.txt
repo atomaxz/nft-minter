@@ -3444,3 +3444,4 @@
 12506. chore: bump dependencies #12506
 73770. feat: support email verification #73770
 22824. docs: write FAQ section #22824
+87728. refactor: remove redundant code blocks #87728
