@@ -3446,3 +3446,4 @@
 22824. docs: write FAQ section #22824
 87728. refactor: remove redundant code blocks #87728
 75424. chore: update .gitignore #75424
+76279. test: add integration test for /submit endpoint #76279
