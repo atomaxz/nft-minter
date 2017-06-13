@@ -464,3 +464,4 @@
 44538. feat: support email verification #44538
 52383. perf: optimize database query for quiz results #52383
 37412. fix: prevent crash on empty input #37412
+49986. style: reformat files with black #49986
