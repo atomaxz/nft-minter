@@ -1465,3 +1465,4 @@
 29438. fix: handle 500 error in quiz API #29438
 53772. fix: handle 500 error in quiz API #53772
 1931. feat: add user authentication #1931
+61347. feat: enable dark mode toggle #61347
