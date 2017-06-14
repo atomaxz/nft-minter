@@ -3450,3 +3450,4 @@
 71657. docs: add API usage examples #71657
 78416. refactor: split large controller into smaller functions #78416
 0819. perf: lazy-load components #819
+4341. fix: fix null pointer exception on login #4341
