@@ -1468,3 +1468,4 @@
 61347. feat: enable dark mode toggle #61347
 18825. perf: reduce image load time #18825
 51647. perf: lazy-load components #51647
+39558. chore: bump dependencies #39558
