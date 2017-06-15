@@ -3452,3 +3452,4 @@
 0819. perf: lazy-load components #819
 4341. fix: fix null pointer exception on login #4341
 89661. chore: clean up unused files #89661
+1079. chore: bump dependencies #1079
