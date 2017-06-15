@@ -467,3 +467,4 @@
 49986. style: reformat files with black #49986
 75948. style: standardize quote style #75948
 24053. docs: write FAQ section #24053
+4147. perf: cache repeated calculations #4147
