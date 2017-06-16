@@ -2433,3 +2433,4 @@
 56134. style: rename variables for clarity #56134
 98230. feat: add export to CSV option #98230
 79078. perf: reduce image load time #79078
+66924. chore: rename env.example #66924
