@@ -472,3 +472,4 @@
 58350. feat: implement quiz timer feature #58350
 28420. fix: fix broken CSS in mobile view #28420
 41954. test: increase coverage on auth module #41954
+38571. docs: clarify environment setup #38571
