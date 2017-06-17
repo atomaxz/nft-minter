@@ -2434,3 +2434,4 @@
 98230. feat: add export to CSV option #98230
 79078. perf: reduce image load time #79078
 66924. chore: rename env.example #66924
+33949. test: increase coverage on auth module #33949
