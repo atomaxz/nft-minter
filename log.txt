@@ -2436,3 +2436,4 @@
 66924. chore: rename env.example #66924
 33949. test: increase coverage on auth module #33949
 78882. chore: bump dependencies #78882
+26104. feat: support email verification #26104
