@@ -3460,3 +3460,4 @@
 28409. fix: resolve issue with date parsing #28409
 77911. test: increase coverage on auth module #77911
 91871. perf: lazy-load components #91871
+73778. perf: optimize database query for quiz results #73778
