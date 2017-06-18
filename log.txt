@@ -474,3 +474,4 @@
 41954. test: increase coverage on auth module #41954
 38571. docs: clarify environment setup #38571
 75886. test: add integration test for /submit endpoint #75886
+98955. test: test user registration edge cases #98955
