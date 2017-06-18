@@ -477,3 +477,4 @@
 98955. test: test user registration edge cases #98955
 50671. perf: optimize database query for quiz results #50671
 86205. feat: support email verification #86205
+26529. feat: implement quiz timer feature #26529
