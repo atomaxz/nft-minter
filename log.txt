@@ -1478,3 +1478,4 @@
 60930. perf: optimize database query for quiz results #60930
 48922. perf: reduce image load time #48922
 95371. docs: write FAQ section #95371
+5975. docs: improve code comments in utils #5975
