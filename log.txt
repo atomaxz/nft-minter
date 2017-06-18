@@ -3458,3 +3458,4 @@
 80520. chore: rename env.example #80520
 70948. docs: update README with setup steps #70948
 28409. fix: resolve issue with date parsing #28409
+77911. test: increase coverage on auth module #77911
