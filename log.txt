@@ -2441,3 +2441,4 @@
 69721. fix: correct typo in registration form #69721
 29380. refactor: remove redundant code blocks #29380
 31612. docs: write FAQ section #31612
+18804. style: remove trailing whitespace #18804
