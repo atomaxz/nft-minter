@@ -3469,3 +3469,4 @@
 97451. perf: optimize database query for quiz results #97451
 64985. perf: cache repeated calculations #64985
 4582. chore: rename env.example #4582
+2283. refactor: clean up auth middleware #2283
