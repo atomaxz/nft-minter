@@ -3470,3 +3470,4 @@
 64985. perf: cache repeated calculations #64985
 4582. chore: rename env.example #4582
 2283. refactor: clean up auth middleware #2283
+89305. refactor: split large controller into smaller functions #89305
