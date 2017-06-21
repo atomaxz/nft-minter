@@ -490,3 +490,4 @@
 6066. chore: add GitHub actions badge #6066
 7590. docs: write FAQ section #7590
 75121. style: standardize quote style #75121
+90476. docs: update README with setup steps #90476
