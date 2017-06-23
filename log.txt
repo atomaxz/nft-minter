@@ -496,3 +496,4 @@
 98842. perf: optimize database query for quiz results #98842
 26705. fix: fix broken CSS in mobile view #26705
 56610. chore: rename env.example #56610
+79202. test: test user registration edge cases #79202
