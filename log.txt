@@ -2452,3 +2452,4 @@
 26926. fix: correct typo in registration form #26926
 28313. perf: cache repeated calculations #28313
 68038. test: increase coverage on auth module #68038
+18629. fix: prevent crash on empty input #18629
