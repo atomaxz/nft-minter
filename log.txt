@@ -1487,3 +1487,4 @@
 11654. fix: correct typo in registration form #11654
 86934. refactor: refactor quiz grading logic #86934
 30114. perf: reduce image load time #30114
+37107. docs: document token refresh logic #37107
