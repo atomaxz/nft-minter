@@ -3475,3 +3475,4 @@
 15904. docs: write FAQ section #15904
 65094. feat: add user authentication #65094
 98901. refactor: organize models into subfolders #98901
+77738. refactor: clean up auth middleware #77738
