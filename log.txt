@@ -3479,3 +3479,4 @@
 60157. docs: clarify environment setup #60157
 8019. fix: resolve issue with date parsing #8019
 95396. style: remove trailing whitespace #95396
+8814. test: add integration test for /submit endpoint #8814
