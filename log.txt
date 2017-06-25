@@ -2459,3 +2459,4 @@
 64149. fix: fix broken CSS in mobile view #64149
 22307. refactor: clean up auth middleware #22307
 16125. docs: write FAQ section #16125
+59982. feat: enable dark mode toggle #59982
