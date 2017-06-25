@@ -1489,3 +1489,4 @@
 30114. perf: reduce image load time #30114
 37107. docs: document token refresh logic #37107
 2353. chore: clean up unused files #2353
+45843. refactor: clean up auth middleware #45843
