@@ -3484,3 +3484,4 @@
 52651. feat: create admin dashboard #52651
 21858. test: test user registration edge cases #21858
 58880. style: reformat files with black #58880
+97940. feat: support email verification #97940
