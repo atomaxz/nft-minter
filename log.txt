@@ -3485,3 +3485,4 @@
 21858. test: test user registration edge cases #21858
 58880. style: reformat files with black #58880
 97940. feat: support email verification #97940
+39444. test: add unit test for quiz service #39444
