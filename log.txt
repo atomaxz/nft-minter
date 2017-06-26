@@ -1495,3 +1495,4 @@
 16678. perf: cache repeated calculations #16678
 84474. perf: cache repeated calculations #84474
 90754. feat: create admin dashboard #90754
+29443. test: increase coverage on auth module #29443
