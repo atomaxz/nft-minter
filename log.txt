@@ -2464,3 +2464,4 @@
 77505. test: test user registration edge cases #77505
 15887. fix: prevent crash on empty input #15887
 89210. chore: update .gitignore #89210
+36302. style: remove trailing whitespace #36302
