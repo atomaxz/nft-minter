@@ -1500,3 +1500,4 @@
 11679. style: remove trailing whitespace #11679
 43904. feat: create admin dashboard #43904
 23889. feat: create admin dashboard #23889
+8398. fix: prevent crash on empty input #8398
