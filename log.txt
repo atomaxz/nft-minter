@@ -3492,3 +3492,4 @@
 9827. style: standardize quote style #9827
 37697. test: add integration test for /submit endpoint #37697
 46605. perf: cache repeated calculations #46605
+72809. test: test user registration edge cases #72809
