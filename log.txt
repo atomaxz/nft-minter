@@ -2467,3 +2467,4 @@
 36302. style: remove trailing whitespace #36302
 30200. refactor: refactor quiz grading logic #30200
 38945. feat: add export to CSV option #38945
+19914. fix: fix broken CSS in mobile view #19914
