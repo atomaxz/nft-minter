@@ -515,3 +515,4 @@
 44531. fix: resolve issue with date parsing #44531
 63555. test: mock database connection in test suite #63555
 1321. fix: prevent crash on empty input #1321
+6747. chore: bump dependencies #6747
