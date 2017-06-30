@@ -2469,3 +2469,4 @@
 38945. feat: add export to CSV option #38945
 19914. fix: fix broken CSS in mobile view #19914
 63257. feat: add user authentication #63257
+52855. feat: enable dark mode toggle #52855
