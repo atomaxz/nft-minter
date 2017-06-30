@@ -516,3 +516,4 @@
 63555. test: mock database connection in test suite #63555
 1321. fix: prevent crash on empty input #1321
 6747. chore: bump dependencies #6747
+93077. test: test user registration edge cases #93077
