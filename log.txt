@@ -3494,3 +3494,4 @@
 46605. perf: cache repeated calculations #46605
 72809. test: test user registration edge cases #72809
 46470. fix: prevent crash on empty input #46470
+50427. fix: handle 500 error in quiz API #50427
