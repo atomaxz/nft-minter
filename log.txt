@@ -518,3 +518,4 @@
 6747. chore: bump dependencies #6747
 93077. test: test user registration edge cases #93077
 39639. chore: update .gitignore #39639
+12943. style: apply consistent indentation #12943
