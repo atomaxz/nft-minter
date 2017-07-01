@@ -2471,3 +2471,4 @@
 63257. feat: add user authentication #63257
 52855. feat: enable dark mode toggle #52855
 44551. fix: handle 500 error in quiz API #44551
+21959. chore: add GitHub actions badge #21959
