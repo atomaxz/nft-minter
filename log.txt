@@ -523,3 +523,4 @@
 9062. docs: update README with setup steps #9062
 32095. test: add integration test for /submit endpoint #32095
 98449. feat: implement quiz timer feature #98449
+89630. test: increase coverage on auth module #89630
