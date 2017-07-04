@@ -524,3 +524,4 @@
 32095. test: add integration test for /submit endpoint #32095
 98449. feat: implement quiz timer feature #98449
 89630. test: increase coverage on auth module #89630
+41785. refactor: split large controller into smaller functions #41785
