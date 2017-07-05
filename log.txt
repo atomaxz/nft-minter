@@ -3502,3 +3502,4 @@
 81153. feat: create admin dashboard #81153
 45839. refactor: organize models into subfolders #45839
 54851. perf: optimize database query for quiz results #54851
+11058. test: test user registration edge cases #11058
