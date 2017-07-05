@@ -2475,3 +2475,4 @@
 3736. perf: cache repeated calculations #3736
 86627. style: reformat files with black #86627
 91028. fix: handle 500 error in quiz API #91028
+14527. perf: lazy-load components #14527
