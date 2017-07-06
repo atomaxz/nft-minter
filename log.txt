@@ -2476,3 +2476,4 @@
 86627. style: reformat files with black #86627
 91028. fix: handle 500 error in quiz API #91028
 14527. perf: lazy-load components #14527
+40115. docs: update README with setup steps #40115
