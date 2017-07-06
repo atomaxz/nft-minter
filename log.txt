@@ -1520,3 +1520,4 @@
 21617. feat: create admin dashboard #21617
 26155. test: add unit test for quiz service #26155
 16214. refactor: remove redundant code blocks #16214
+12912. fix: resolve issue with date parsing #12912
