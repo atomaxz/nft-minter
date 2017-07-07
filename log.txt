@@ -1523,3 +1523,4 @@
 12912. fix: resolve issue with date parsing #12912
 44997. perf: reduce image load time #44997
 96053. fix: fix null pointer exception on login #96053
+18820. refactor: split large controller into smaller functions #18820
