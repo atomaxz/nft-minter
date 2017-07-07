@@ -3506,3 +3506,4 @@
 51288. feat: add export to CSV option #51288
 18087. style: standardize quote style #18087
 95022. style: apply consistent indentation #95022
+85082. fix: fix broken CSS in mobile view #85082
