@@ -3507,3 +3507,4 @@
 18087. style: standardize quote style #18087
 95022. style: apply consistent indentation #95022
 85082. fix: fix broken CSS in mobile view #85082
+1327. test: add integration test for /submit endpoint #1327
