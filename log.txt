@@ -528,3 +528,4 @@
 40661. docs: update README with setup steps #40661
 44455. docs: document token refresh logic #44455
 66486. refactor: refactor quiz grading logic #66486
+56262. refactor: clean up auth middleware #56262
