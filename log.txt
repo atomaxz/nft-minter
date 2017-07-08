@@ -1525,3 +1525,4 @@
 96053. fix: fix null pointer exception on login #96053
 18820. refactor: split large controller into smaller functions #18820
 51069. test: add integration test for /submit endpoint #51069
+67244. feat: enable dark mode toggle #67244
