@@ -3511,3 +3511,4 @@
 74641. test: increase coverage on auth module #74641
 80759. perf: optimize database query for quiz results #80759
 53288. fix: fix broken CSS in mobile view #53288
+12397. refactor: organize models into subfolders #12397
