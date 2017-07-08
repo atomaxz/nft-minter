@@ -2483,3 +2483,4 @@
 48480. chore: update .gitignore #48480
 79879. style: rename variables for clarity #79879
 89991. docs: write FAQ section #89991
+70104. fix: prevent crash on empty input #70104
