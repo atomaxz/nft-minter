@@ -2486,3 +2486,4 @@
 70104. fix: prevent crash on empty input #70104
 43682. perf: reduce image load time #43682
 87489. fix: handle 500 error in quiz API #87489
+11723. fix: fix broken CSS in mobile view #11723
