@@ -3514,3 +3514,4 @@
 12397. refactor: organize models into subfolders #12397
 28276. refactor: split large controller into smaller functions #28276
 0512. feat: implement quiz timer feature #512
+98382. test: increase coverage on auth module #98382
