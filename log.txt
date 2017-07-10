@@ -2489,3 +2489,4 @@
 11723. fix: fix broken CSS in mobile view #11723
 45826. feat: create admin dashboard #45826
 4131. test: add integration test for /submit endpoint #4131
+18812. test: mock database connection in test suite #18812
