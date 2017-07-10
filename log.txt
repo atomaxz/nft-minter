@@ -2488,3 +2488,4 @@
 87489. fix: handle 500 error in quiz API #87489
 11723. fix: fix broken CSS in mobile view #11723
 45826. feat: create admin dashboard #45826
+4131. test: add integration test for /submit endpoint #4131
