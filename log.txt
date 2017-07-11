@@ -2490,3 +2490,4 @@
 45826. feat: create admin dashboard #45826
 4131. test: add integration test for /submit endpoint #4131
 18812. test: mock database connection in test suite #18812
+78591. docs: document token refresh logic #78591
