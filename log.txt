@@ -1536,3 +1536,4 @@
 2489. chore: bump dependencies #2489
 23474. style: rename variables for clarity #23474
 56772. docs: write FAQ section #56772
+97097. feat: create admin dashboard #97097
