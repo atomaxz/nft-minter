@@ -1538,3 +1538,4 @@
 56772. docs: write FAQ section #56772
 97097. feat: create admin dashboard #97097
 14324. fix: resolve issue with date parsing #14324
+83265. feat: add user authentication #83265
