@@ -3526,3 +3526,4 @@
 20012. refactor: refactor quiz grading logic #20012
 8886. style: apply consistent indentation #8886
 70743. perf: cache repeated calculations #70743
+63426. docs: document token refresh logic #63426
