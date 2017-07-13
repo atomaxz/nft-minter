@@ -538,3 +538,4 @@
 83965. refactor: remove redundant code blocks #83965
 48776. perf: cache repeated calculations #48776
 29252. perf: reduce image load time #29252
+17671. chore: update .gitignore #17671
