@@ -3528,3 +3528,4 @@
 70743. perf: cache repeated calculations #70743
 63426. docs: document token refresh logic #63426
 65803. test: add integration test for /submit endpoint #65803
+18557. perf: optimize database query for quiz results #18557
