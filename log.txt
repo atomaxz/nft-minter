@@ -540,3 +540,4 @@
 29252. perf: reduce image load time #29252
 17671. chore: update .gitignore #17671
 65790. feat: support email verification #65790
+78817. style: remove trailing whitespace #78817
