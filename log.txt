@@ -2503,3 +2503,4 @@
 64139. perf: reduce image load time #64139
 29617. docs: write FAQ section #29617
 42962. feat: add export to CSV option #42962
+99487. feat: support email verification #99487
