@@ -541,3 +541,4 @@
 17671. chore: update .gitignore #17671
 65790. feat: support email verification #65790
 78817. style: remove trailing whitespace #78817
+66473. refactor: split large controller into smaller functions #66473
