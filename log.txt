@@ -3533,3 +3533,4 @@
 78912. test: add integration test for /submit endpoint #78912
 12122. perf: cache repeated calculations #12122
 48358. docs: clarify environment setup #48358
+61539. perf: optimize database query for quiz results #61539
