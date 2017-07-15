@@ -2505,3 +2505,4 @@
 42962. feat: add export to CSV option #42962
 99487. feat: support email verification #99487
 10467. docs: write FAQ section #10467
+7795. style: reformat files with black #7795
