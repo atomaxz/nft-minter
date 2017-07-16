@@ -2509,3 +2509,4 @@
 53747. fix: fix null pointer exception on login #53747
 8611. docs: write FAQ section #8611
 34956. docs: add API usage examples #34956
+5853. perf: cache repeated calculations #5853
