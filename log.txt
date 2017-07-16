@@ -1547,3 +1547,4 @@
 26586. fix: correct typo in registration form #26586
 31442. feat: support email verification #31442
 5604. style: reformat files with black #5604
+45976. docs: write FAQ section #45976
