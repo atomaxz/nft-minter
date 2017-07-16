@@ -1546,3 +1546,4 @@
 44030. refactor: organize models into subfolders #44030
 26586. fix: correct typo in registration form #26586
 31442. feat: support email verification #31442
+5604. style: reformat files with black #5604
