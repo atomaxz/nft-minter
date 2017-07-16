@@ -1548,3 +1548,4 @@
 31442. feat: support email verification #31442
 5604. style: reformat files with black #5604
 45976. docs: write FAQ section #45976
+27698. chore: clean up unused files #27698
