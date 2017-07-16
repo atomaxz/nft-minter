@@ -1550,3 +1550,4 @@
 45976. docs: write FAQ section #45976
 27698. chore: clean up unused files #27698
 66913. chore: add GitHub actions badge #66913
+84879. chore: rename env.example #84879
