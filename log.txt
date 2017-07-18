@@ -2518,3 +2518,4 @@
 22257. chore: add GitHub actions badge #22257
 41833. feat: add export to CSV option #41833
 14635. refactor: remove redundant code blocks #14635
+75354. refactor: clean up auth middleware #75354
