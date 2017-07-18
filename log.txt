@@ -2521,3 +2521,4 @@
 75354. refactor: clean up auth middleware #75354
 13310. docs: write FAQ section #13310
 66263. chore: clean up unused files #66263
+85169. chore: bump dependencies #85169
