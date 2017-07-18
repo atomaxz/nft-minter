@@ -1557,3 +1557,4 @@
 43023. refactor: organize models into subfolders #43023
 84675. docs: add API usage examples #84675
 1394. refactor: remove redundant code blocks #1394
+33757. fix: correct typo in registration form #33757
