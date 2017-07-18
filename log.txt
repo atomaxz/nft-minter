@@ -550,3 +550,4 @@
 41611. fix: resolve issue with date parsing #41611
 24986. chore: rename env.example #24986
 12904. feat: add export to CSV option #12904
+53558. chore: update .gitignore #53558
