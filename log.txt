@@ -2527,3 +2527,4 @@
 52972. style: remove trailing whitespace #52972
 90400. chore: rename env.example #90400
 37583. fix: fix null pointer exception on login #37583
+95255. fix: fix broken CSS in mobile view #95255
