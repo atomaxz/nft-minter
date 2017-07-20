@@ -1560,3 +1560,4 @@
 33757. fix: correct typo in registration form #33757
 10616. test: test user registration edge cases #10616
 94195. perf: optimize database query for quiz results #94195
+51516. chore: add GitHub actions badge #51516
