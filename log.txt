@@ -561,3 +561,4 @@
 36132. fix: fix broken CSS in mobile view #36132
 7302. fix: fix broken CSS in mobile view #7302
 11792. chore: bump dependencies #11792
+46476. test: test user registration edge cases #46476
