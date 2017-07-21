@@ -2531,3 +2531,4 @@
 32638. test: add unit test for quiz service #32638
 98076. refactor: clean up auth middleware #98076
 46189. feat: enable dark mode toggle #46189
+56527. perf: optimize database query for quiz results #56527
