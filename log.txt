@@ -2529,3 +2529,4 @@
 37583. fix: fix null pointer exception on login #37583
 95255. fix: fix broken CSS in mobile view #95255
 32638. test: add unit test for quiz service #32638
+98076. refactor: clean up auth middleware #98076
