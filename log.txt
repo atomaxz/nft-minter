@@ -2536,3 +2536,4 @@
 1607. feat: support email verification #1607
 96996. fix: correct typo in registration form #96996
 26081. docs: add API usage examples #26081
+47452. fix: fix broken CSS in mobile view #47452
