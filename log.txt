@@ -2541,3 +2541,4 @@
 39856. chore: add GitHub actions badge #39856
 41802. chore: add GitHub actions badge #41802
 24324. refactor: organize models into subfolders #24324
+8306. fix: handle 500 error in quiz API #8306
