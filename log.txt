@@ -1567,3 +1567,4 @@
 27690. refactor: split large controller into smaller functions #27690
 92576. docs: update README with setup steps #92576
 19817. refactor: refactor quiz grading logic #19817
+15730. chore: add GitHub actions badge #15730
