@@ -2539,3 +2539,4 @@
 47452. fix: fix broken CSS in mobile view #47452
 8591. style: reformat files with black #8591
 39856. chore: add GitHub actions badge #39856
+41802. chore: add GitHub actions badge #41802
