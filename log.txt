@@ -3554,3 +3554,4 @@
 97786. fix: resolve issue with date parsing #97786
 19335. chore: rename env.example #19335
 80927. feat: create admin dashboard #80927
+60022. docs: update README with setup steps #60022
