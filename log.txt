@@ -1571,3 +1571,4 @@
 40117. refactor: remove redundant code blocks #40117
 22292. perf: lazy-load components #22292
 20448. perf: lazy-load components #20448
+90855. docs: update README with setup steps #90855
