@@ -3555,3 +3555,4 @@
 19335. chore: rename env.example #19335
 80927. feat: create admin dashboard #80927
 60022. docs: update README with setup steps #60022
+92917. fix: correct typo in registration form #92917
