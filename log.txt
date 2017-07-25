@@ -3559,3 +3559,4 @@
 84650. fix: prevent crash on empty input #84650
 47068. perf: optimize database query for quiz results #47068
 1531. chore: clean up unused files #1531
+12276. test: mock database connection in test suite #12276
