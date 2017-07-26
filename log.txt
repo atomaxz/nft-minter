@@ -2551,3 +2551,4 @@
 32289. test: mock database connection in test suite #32289
 82849. perf: reduce image load time #82849
 71547. docs: update README with setup steps #71547
+1587. perf: optimize database query for quiz results #1587
