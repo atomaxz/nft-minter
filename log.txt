@@ -570,3 +570,4 @@
 72767. docs: document token refresh logic #72767
 10384. docs: clarify environment setup #10384
 71042. style: apply consistent indentation #71042
+80496. style: rename variables for clarity #80496
