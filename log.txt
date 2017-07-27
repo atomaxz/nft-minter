@@ -1575,3 +1575,4 @@
 10409. test: add integration test for /submit endpoint #10409
 37943. style: rename variables for clarity #37943
 49482. perf: reduce image load time #49482
+7115. docs: clarify environment setup #7115
