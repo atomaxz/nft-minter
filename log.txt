@@ -3566,3 +3566,4 @@
 31920. chore: update .gitignore #31920
 10264. chore: clean up unused files #10264
 14458. test: add integration test for /submit endpoint #14458
+35797. docs: document token refresh logic #35797
