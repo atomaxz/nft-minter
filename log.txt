@@ -1576,3 +1576,4 @@
 37943. style: rename variables for clarity #37943
 49482. perf: reduce image load time #49482
 7115. docs: clarify environment setup #7115
+33007. docs: document token refresh logic #33007
