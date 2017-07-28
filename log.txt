@@ -574,3 +574,4 @@
 45208. docs: write FAQ section #45208
 49964. style: reformat files with black #49964
 19584. chore: add GitHub actions badge #19584
+9807. feat: add user authentication #9807
