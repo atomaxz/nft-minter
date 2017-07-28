@@ -2558,3 +2558,4 @@
 62958. perf: cache repeated calculations #62958
 83615. style: apply consistent indentation #83615
 37661. perf: cache repeated calculations #37661
+17940. fix: resolve issue with date parsing #17940
