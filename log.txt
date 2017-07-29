@@ -2560,3 +2560,4 @@
 37661. perf: cache repeated calculations #37661
 17940. fix: resolve issue with date parsing #17940
 72603. fix: handle 500 error in quiz API #72603
+52509. chore: add GitHub actions badge #52509
