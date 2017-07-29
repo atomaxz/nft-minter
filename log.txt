@@ -576,3 +576,4 @@
 19584. chore: add GitHub actions badge #19584
 9807. feat: add user authentication #9807
 69997. perf: reduce image load time #69997
+69812. chore: clean up unused files #69812
