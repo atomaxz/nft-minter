@@ -3578,3 +3578,4 @@
 10417. style: apply consistent indentation #10417
 81331. docs: add API usage examples #81331
 47013. docs: update README with setup steps #47013
+12613. feat: add export to CSV option #12613
