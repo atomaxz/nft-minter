@@ -2566,3 +2566,4 @@
 20157. test: mock database connection in test suite #20157
 88381. docs: document token refresh logic #88381
 2793. style: reformat files with black #2793
+18105. fix: fix broken CSS in mobile view #18105
