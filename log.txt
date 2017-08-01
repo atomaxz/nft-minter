@@ -580,3 +580,4 @@
 4360. feat: support email verification #4360
 18403. test: test user registration edge cases #18403
 70881. refactor: remove redundant code blocks #70881
+75384. refactor: refactor quiz grading logic #75384
