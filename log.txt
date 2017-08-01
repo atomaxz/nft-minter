@@ -1580,3 +1580,4 @@
 2642. perf: reduce image load time #2642
 88194. docs: improve code comments in utils #88194
 68361. test: test user registration edge cases #68361
+61700. feat: support email verification #61700
