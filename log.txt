@@ -2568,3 +2568,4 @@
 2793. style: reformat files with black #2793
 18105. fix: fix broken CSS in mobile view #18105
 49613. refactor: remove redundant code blocks #49613
+51175. docs: clarify environment setup #51175
