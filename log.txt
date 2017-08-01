@@ -579,3 +579,4 @@
 69812. chore: clean up unused files #69812
 4360. feat: support email verification #4360
 18403. test: test user registration edge cases #18403
+70881. refactor: remove redundant code blocks #70881
