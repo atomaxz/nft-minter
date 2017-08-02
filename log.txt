@@ -1581,3 +1581,4 @@
 88194. docs: improve code comments in utils #88194
 68361. test: test user registration edge cases #68361
 61700. feat: support email verification #61700
+26270. chore: rename env.example #26270
