@@ -3583,3 +3583,4 @@
 73592. fix: correct typo in registration form #73592
 49111. chore: update .gitignore #49111
 78735. feat: add export to CSV option #78735
+0790. style: reformat files with black #790
