@@ -582,3 +582,4 @@
 70881. refactor: remove redundant code blocks #70881
 75384. refactor: refactor quiz grading logic #75384
 39810. feat: add export to CSV option #39810
+28020. test: mock database connection in test suite #28020
