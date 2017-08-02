@@ -584,3 +584,4 @@
 39810. feat: add export to CSV option #39810
 28020. test: mock database connection in test suite #28020
 74199. chore: add GitHub actions badge #74199
+1602. test: increase coverage on auth module #1602
