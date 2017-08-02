@@ -3586,3 +3586,4 @@
 0790. style: reformat files with black #790
 46646. style: reformat files with black #46646
 11034. fix: fix broken CSS in mobile view #11034
+55690. feat: support email verification #55690
