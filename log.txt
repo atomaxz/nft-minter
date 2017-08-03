@@ -2572,3 +2572,4 @@
 44568. chore: update .gitignore #44568
 4622. perf: lazy-load components #4622
 52325. fix: prevent crash on empty input #52325
+96859. docs: write FAQ section #96859
