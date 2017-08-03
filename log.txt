@@ -587,3 +587,4 @@
 1602. test: increase coverage on auth module #1602
 92065. test: test user registration edge cases #92065
 10278. fix: handle 500 error in quiz API #10278
+46571. test: increase coverage on auth module #46571
