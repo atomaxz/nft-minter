@@ -3588,3 +3588,4 @@
 11034. fix: fix broken CSS in mobile view #11034
 55690. feat: support email verification #55690
 5850. style: standardize quote style #5850
+4839. feat: add user authentication #4839
