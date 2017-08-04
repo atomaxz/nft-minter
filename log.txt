@@ -3589,3 +3589,4 @@
 55690. feat: support email verification #55690
 5850. style: standardize quote style #5850
 4839. feat: add user authentication #4839
+31589. refactor: organize models into subfolders #31589
