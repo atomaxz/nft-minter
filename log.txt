@@ -2574,3 +2574,4 @@
 52325. fix: prevent crash on empty input #52325
 96859. docs: write FAQ section #96859
 91680. test: increase coverage on auth module #91680
+72687. style: remove trailing whitespace #72687
