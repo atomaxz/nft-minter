@@ -593,3 +593,4 @@
 9384. feat: implement quiz timer feature #9384
 45692. refactor: clean up auth middleware #45692
 59617. style: apply consistent indentation #59617
+25865. test: mock database connection in test suite #25865
