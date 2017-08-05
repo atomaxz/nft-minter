@@ -595,3 +595,4 @@
 59617. style: apply consistent indentation #59617
 25865. test: mock database connection in test suite #25865
 31748. chore: add GitHub actions badge #31748
+80253. fix: correct typo in registration form #80253
