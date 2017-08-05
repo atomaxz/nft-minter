@@ -1588,3 +1588,4 @@
 82418. docs: clarify environment setup #82418
 14124. chore: clean up unused files #14124
 8703. chore: rename env.example #8703
+94623. feat: add user authentication #94623
