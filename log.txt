@@ -598,3 +598,4 @@
 80253. fix: correct typo in registration form #80253
 34199. style: reformat files with black #34199
 19581. chore: bump dependencies #19581
+86152. style: standardize quote style #86152
