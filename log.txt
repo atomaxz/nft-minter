@@ -1598,3 +1598,4 @@
 74158. perf: cache repeated calculations #74158
 63976. feat: enable dark mode toggle #63976
 62826. refactor: split large controller into smaller functions #62826
+30492. refactor: organize models into subfolders #30492
