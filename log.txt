@@ -1599,3 +1599,4 @@
 63976. feat: enable dark mode toggle #63976
 62826. refactor: split large controller into smaller functions #62826
 30492. refactor: organize models into subfolders #30492
+55917. perf: optimize database query for quiz results #55917
