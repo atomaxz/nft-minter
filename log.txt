@@ -2584,3 +2584,4 @@
 88148. chore: add GitHub actions badge #88148
 1844. feat: implement quiz timer feature #1844
 18248. fix: resolve issue with date parsing #18248
+14001. refactor: clean up auth middleware #14001
