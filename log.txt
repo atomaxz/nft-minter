@@ -601,3 +601,4 @@
 86152. style: standardize quote style #86152
 87483. style: rename variables for clarity #87483
 45942. test: add unit test for quiz service #45942
+8971. perf: lazy-load components #8971
