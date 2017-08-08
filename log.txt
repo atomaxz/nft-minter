@@ -3596,3 +3596,4 @@
 10877. refactor: refactor quiz grading logic #10877
 96270. test: mock database connection in test suite #96270
 69251. perf: cache repeated calculations #69251
+78553. style: remove trailing whitespace #78553
