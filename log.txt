@@ -2587,3 +2587,4 @@
 14001. refactor: clean up auth middleware #14001
 41649. test: add unit test for quiz service #41649
 35886. refactor: clean up auth middleware #35886
+43121. chore: add GitHub actions badge #43121
