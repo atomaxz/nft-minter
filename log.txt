@@ -610,3 +610,4 @@
 52451. perf: lazy-load components #52451
 40946. style: reformat files with black #40946
 51670. feat: add export to CSV option #51670
+64343. chore: add GitHub actions badge #64343
