@@ -1605,3 +1605,4 @@
 79526. refactor: remove redundant code blocks #79526
 98883. style: apply consistent indentation #98883
 98717. fix: fix broken CSS in mobile view #98717
+40632. perf: reduce image load time #40632
