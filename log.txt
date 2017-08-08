@@ -1604,3 +1604,4 @@
 75084. chore: rename env.example #75084
 79526. refactor: remove redundant code blocks #79526
 98883. style: apply consistent indentation #98883
+98717. fix: fix broken CSS in mobile view #98717
