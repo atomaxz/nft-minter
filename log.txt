@@ -3600,3 +3600,4 @@
 13562. perf: cache repeated calculations #13562
 2238. refactor: organize models into subfolders #2238
 54783. perf: optimize database query for quiz results #54783
+53493. perf: reduce image load time #53493
