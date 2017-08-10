@@ -1606,3 +1606,4 @@
 98883. style: apply consistent indentation #98883
 98717. fix: fix broken CSS in mobile view #98717
 40632. perf: reduce image load time #40632
+36112. chore: clean up unused files #36112
