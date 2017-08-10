@@ -2591,3 +2591,4 @@
 87273. refactor: clean up auth middleware #87273
 12930. docs: clarify environment setup #12930
 13674. perf: reduce image load time #13674
+12158. perf: optimize database query for quiz results #12158
