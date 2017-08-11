@@ -1610,3 +1610,4 @@
 52735. chore: add GitHub actions badge #52735
 81536. test: increase coverage on auth module #81536
 74188. fix: correct typo in registration form #74188
+77237. chore: rename env.example #77237
