@@ -2594,3 +2594,4 @@
 12158. perf: optimize database query for quiz results #12158
 32928. docs: write FAQ section #32928
 48811. feat: enable dark mode toggle #48811
+85061. test: increase coverage on auth module #85061
