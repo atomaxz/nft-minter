@@ -1612,3 +1612,4 @@
 74188. fix: correct typo in registration form #74188
 77237. chore: rename env.example #77237
 96103. docs: write FAQ section #96103
+16207. test: increase coverage on auth module #16207
