@@ -618,3 +618,4 @@
 98941. refactor: remove redundant code blocks #98941
 99823. fix: prevent crash on empty input #99823
 5492. chore: update .gitignore #5492
+9448. docs: update README with setup steps #9448
