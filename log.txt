@@ -3618,3 +3618,4 @@
 84343. test: mock database connection in test suite #84343
 49938. style: remove trailing whitespace #49938
 58277. docs: write FAQ section #58277
+3971. feat: create admin dashboard #3971
