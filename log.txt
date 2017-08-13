@@ -3621,3 +3621,4 @@
 3971. feat: create admin dashboard #3971
 68108. chore: update .gitignore #68108
 98167. test: add integration test for /submit endpoint #98167
+76477. fix: handle 500 error in quiz API #76477
