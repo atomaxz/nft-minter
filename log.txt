@@ -1615,3 +1615,4 @@
 16207. test: increase coverage on auth module #16207
 68016. refactor: split large controller into smaller functions #68016
 52657. chore: update .gitignore #52657
+96825. chore: bump dependencies #96825
