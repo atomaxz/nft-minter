@@ -1617,3 +1617,4 @@
 52657. chore: update .gitignore #52657
 96825. chore: bump dependencies #96825
 23049. feat: enable dark mode toggle #23049
+44953. fix: correct typo in registration form #44953
