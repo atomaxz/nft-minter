@@ -1622,3 +1622,4 @@
 26253. feat: create admin dashboard #26253
 10914. test: mock database connection in test suite #10914
 34988. fix: fix broken CSS in mobile view #34988
+17661. fix: fix broken CSS in mobile view #17661
