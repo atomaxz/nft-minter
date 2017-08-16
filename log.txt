@@ -2605,3 +2605,4 @@
 24698. fix: prevent crash on empty input #24698
 44787. chore: rename env.example #44787
 89432. docs: clarify environment setup #89432
+44160. test: test user registration edge cases #44160
