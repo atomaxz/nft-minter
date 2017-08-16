@@ -2613,3 +2613,4 @@
 20742. chore: clean up unused files #20742
 35464. fix: resolve issue with date parsing #35464
 2317. chore: update .gitignore #2317
+42719. chore: bump dependencies #42719
