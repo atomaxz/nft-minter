@@ -3628,3 +3628,4 @@
 92661. fix: handle 500 error in quiz API #92661
 82955. chore: bump dependencies #82955
 28306. chore: rename env.example #28306
+52175. style: reformat files with black #52175
