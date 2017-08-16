@@ -1625,3 +1625,4 @@
 17661. fix: fix broken CSS in mobile view #17661
 18703. feat: add user authentication #18703
 59670. docs: write FAQ section #59670
+87037. style: standardize quote style #87037
