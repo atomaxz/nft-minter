@@ -1624,3 +1624,4 @@
 34988. fix: fix broken CSS in mobile view #34988
 17661. fix: fix broken CSS in mobile view #17661
 18703. feat: add user authentication #18703
+59670. docs: write FAQ section #59670
