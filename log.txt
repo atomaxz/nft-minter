@@ -3630,3 +3630,4 @@
 28306. chore: rename env.example #28306
 52175. style: reformat files with black #52175
 84973. docs: write FAQ section #84973
+72937. chore: bump dependencies #72937
