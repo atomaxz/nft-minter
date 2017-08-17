@@ -2619,3 +2619,4 @@
 69445. refactor: organize models into subfolders #69445
 98920. perf: cache repeated calculations #98920
 11379. chore: rename env.example #11379
+26496. test: mock database connection in test suite #26496
