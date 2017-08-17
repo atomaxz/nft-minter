@@ -2614,3 +2614,4 @@
 35464. fix: resolve issue with date parsing #35464
 2317. chore: update .gitignore #2317
 42719. chore: bump dependencies #42719
+87388. refactor: clean up auth middleware #87388
