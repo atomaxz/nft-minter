@@ -3631,3 +3631,4 @@
 52175. style: reformat files with black #52175
 84973. docs: write FAQ section #84973
 72937. chore: bump dependencies #72937
+31370. fix: fix null pointer exception on login #31370
