@@ -633,3 +633,4 @@
 34030. fix: correct typo in registration form #34030
 33237. feat: enable dark mode toggle #33237
 6730. style: remove trailing whitespace #6730
+75810. fix: prevent crash on empty input #75810
