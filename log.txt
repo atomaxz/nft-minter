@@ -3641,3 +3641,4 @@
 43977. style: remove trailing whitespace #43977
 99754. docs: clarify environment setup #99754
 25668. test: mock database connection in test suite #25668
+43513. fix: correct typo in registration form #43513
