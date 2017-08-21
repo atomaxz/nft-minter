@@ -2628,3 +2628,4 @@
 9235. fix: fix null pointer exception on login #9235
 14365. fix: prevent crash on empty input #14365
 3649. test: test user registration edge cases #3649
+5804. chore: add GitHub actions badge #5804
