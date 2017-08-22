@@ -2630,3 +2630,4 @@
 3649. test: test user registration edge cases #3649
 5804. chore: add GitHub actions badge #5804
 6382. docs: add API usage examples #6382
+88804. refactor: clean up auth middleware #88804
