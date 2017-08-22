@@ -1639,3 +1639,4 @@
 20365. refactor: clean up auth middleware #20365
 55455. feat: support email verification #55455
 90685. fix: correct typo in registration form #90685
+87028. style: standardize quote style #87028
