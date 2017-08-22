@@ -645,3 +645,4 @@
 61520. test: mock database connection in test suite #61520
 41213. refactor: organize models into subfolders #41213
 8781. fix: correct typo in registration form #8781
+21344. refactor: organize models into subfolders #21344
