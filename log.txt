@@ -1641,3 +1641,4 @@
 90685. fix: correct typo in registration form #90685
 87028. style: standardize quote style #87028
 66406. feat: add export to CSV option #66406
+11739. fix: handle 500 error in quiz API #11739
