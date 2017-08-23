@@ -2632,3 +2632,4 @@
 6382. docs: add API usage examples #6382
 88804. refactor: clean up auth middleware #88804
 33659. fix: resolve issue with date parsing #33659
+5610. docs: write FAQ section #5610
