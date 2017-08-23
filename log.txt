@@ -646,3 +646,4 @@
 41213. refactor: organize models into subfolders #41213
 8781. fix: correct typo in registration form #8781
 21344. refactor: organize models into subfolders #21344
+15811. refactor: remove redundant code blocks #15811
