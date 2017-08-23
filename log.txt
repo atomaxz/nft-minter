@@ -1640,3 +1640,4 @@
 55455. feat: support email verification #55455
 90685. fix: correct typo in registration form #90685
 87028. style: standardize quote style #87028
+66406. feat: add export to CSV option #66406
