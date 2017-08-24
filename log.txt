@@ -652,3 +652,4 @@
 28097. refactor: split large controller into smaller functions #28097
 5039. style: standardize quote style #5039
 10197. chore: add GitHub actions badge #10197
+70575. feat: support email verification #70575
