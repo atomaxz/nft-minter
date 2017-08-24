@@ -3656,3 +3656,4 @@
 38233. perf: cache repeated calculations #38233
 68268. fix: fix null pointer exception on login #68268
 56399. chore: add GitHub actions badge #56399
+69775. feat: enable dark mode toggle #69775
