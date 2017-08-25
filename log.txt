@@ -655,3 +655,4 @@
 70575. feat: support email verification #70575
 69735. feat: add user authentication #69735
 60045. chore: update .gitignore #60045
+56112. feat: enable dark mode toggle #56112
