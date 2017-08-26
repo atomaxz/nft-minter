@@ -3664,3 +3664,4 @@
 35831. docs: write FAQ section #35831
 1773. refactor: split large controller into smaller functions #1773
 89165. perf: reduce image load time #89165
+62233. docs: clarify environment setup #62233
