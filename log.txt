@@ -660,3 +660,4 @@
 1423. refactor: split large controller into smaller functions #1423
 59106. feat: add export to CSV option #59106
 80888. test: add unit test for quiz service #80888
+83836. refactor: clean up auth middleware #83836
