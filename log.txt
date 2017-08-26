@@ -2642,3 +2642,4 @@
 37387. style: remove trailing whitespace #37387
 24846. test: add integration test for /submit endpoint #24846
 66565. docs: write FAQ section #66565
+96106. fix: handle 500 error in quiz API #96106
