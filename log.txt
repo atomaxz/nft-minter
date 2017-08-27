@@ -2647,3 +2647,4 @@
 2295. fix: prevent crash on empty input #2295
 51762. style: remove trailing whitespace #51762
 3939. chore: add GitHub actions badge #3939
+83191. test: increase coverage on auth module #83191
