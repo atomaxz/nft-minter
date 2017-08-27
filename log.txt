@@ -3666,3 +3666,4 @@
 89165. perf: reduce image load time #89165
 62233. docs: clarify environment setup #62233
 36402. fix: fix broken CSS in mobile view #36402
+81752. fix: correct typo in registration form #81752
