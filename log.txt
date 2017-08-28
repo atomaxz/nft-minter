@@ -2649,3 +2649,4 @@
 3939. chore: add GitHub actions badge #3939
 83191. test: increase coverage on auth module #83191
 86720. fix: resolve issue with date parsing #86720
+65129. style: reformat files with black #65129
