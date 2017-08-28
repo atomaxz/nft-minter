@@ -1665,3 +1665,4 @@
 15014. docs: add API usage examples #15014
 34390. feat: support email verification #34390
 76647. perf: cache repeated calculations #76647
+97900. test: increase coverage on auth module #97900
