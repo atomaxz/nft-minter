@@ -1663,3 +1663,4 @@
 74368. perf: cache repeated calculations #74368
 93857. test: test user registration edge cases #93857
 15014. docs: add API usage examples #15014
+34390. feat: support email verification #34390
