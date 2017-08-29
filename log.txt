@@ -1668,3 +1668,4 @@
 97900. test: increase coverage on auth module #97900
 20390. docs: clarify environment setup #20390
 20817. perf: optimize database query for quiz results #20817
+3609. docs: document token refresh logic #3609
