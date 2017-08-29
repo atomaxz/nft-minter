@@ -3672,3 +3672,4 @@
 38200. docs: write FAQ section #38200
 7464. feat: add export to CSV option #7464
 87023. chore: clean up unused files #87023
+90090. fix: handle 500 error in quiz API #90090
