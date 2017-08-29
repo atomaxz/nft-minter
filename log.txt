@@ -2654,3 +2654,4 @@
 61723. fix: handle 500 error in quiz API #61723
 26934. docs: clarify environment setup #26934
 48420. feat: add user authentication #48420
+53092. chore: rename env.example #53092
