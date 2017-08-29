@@ -667,3 +667,4 @@
 72728. feat: implement quiz timer feature #72728
 3860. chore: rename env.example #3860
 67096. feat: add export to CSV option #67096
+81437. chore: bump dependencies #81437
