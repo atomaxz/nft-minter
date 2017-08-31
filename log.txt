@@ -674,3 +674,4 @@
 91555. perf: optimize database query for quiz results #91555
 65271. test: increase coverage on auth module #65271
 67775. style: rename variables for clarity #67775
+22541. docs: write FAQ section #22541
