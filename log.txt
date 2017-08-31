@@ -672,3 +672,4 @@
 37747. test: add integration test for /submit endpoint #37747
 90751. perf: reduce image load time #90751
 91555. perf: optimize database query for quiz results #91555
+65271. test: increase coverage on auth module #65271
