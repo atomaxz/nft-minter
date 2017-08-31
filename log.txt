@@ -1673,3 +1673,4 @@
 75008. docs: improve code comments in utils #75008
 97173. chore: add GitHub actions badge #97173
 64364. feat: enable dark mode toggle #64364
+12368. docs: write FAQ section #12368
