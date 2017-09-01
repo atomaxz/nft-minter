@@ -1674,3 +1674,4 @@
 97173. chore: add GitHub actions badge #97173
 64364. feat: enable dark mode toggle #64364
 12368. docs: write FAQ section #12368
+92182. feat: support email verification #92182
