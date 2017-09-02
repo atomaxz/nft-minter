@@ -3682,3 +3682,4 @@
 25058. chore: clean up unused files #25058
 99438. feat: add export to CSV option #99438
 89468. perf: cache repeated calculations #89468
+30183. fix: fix null pointer exception on login #30183
