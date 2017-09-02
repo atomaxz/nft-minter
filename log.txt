@@ -679,3 +679,4 @@
 98314. style: rename variables for clarity #98314
 66833. test: mock database connection in test suite #66833
 60187. test: add integration test for /submit endpoint #60187
+87495. feat: enable dark mode toggle #87495
