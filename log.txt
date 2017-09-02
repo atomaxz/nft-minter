@@ -3679,3 +3679,4 @@
 81159. perf: optimize database query for quiz results #81159
 50388. feat: implement quiz timer feature #50388
 6049. chore: add GitHub actions badge #6049
+25058. chore: clean up unused files #25058
