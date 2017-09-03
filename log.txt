@@ -682,3 +682,4 @@
 87495. feat: enable dark mode toggle #87495
 3498. test: increase coverage on auth module #3498
 42206. fix: handle 500 error in quiz API #42206
+49924. test: mock database connection in test suite #49924
