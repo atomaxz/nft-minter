@@ -2672,3 +2672,4 @@
 44780. chore: update .gitignore #44780
 55999. chore: bump dependencies #55999
 29939. chore: clean up unused files #29939
+72111. docs: document token refresh logic #72111
