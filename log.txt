@@ -1677,3 +1677,4 @@
 92182. feat: support email verification #92182
 42298. chore: add GitHub actions badge #42298
 96924. docs: add API usage examples #96924
+83490. chore: rename env.example #83490
