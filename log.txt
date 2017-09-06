@@ -2681,3 +2681,4 @@
 39381. fix: correct typo in registration form #39381
 62301. fix: prevent crash on empty input #62301
 77519. feat: implement quiz timer feature #77519
+72698. fix: prevent crash on empty input #72698
