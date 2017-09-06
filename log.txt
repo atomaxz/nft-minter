@@ -688,3 +688,4 @@
 9959. docs: update README with setup steps #9959
 38069. perf: optimize database query for quiz results #38069
 69742. test: mock database connection in test suite #69742
+28671. test: add integration test for /submit endpoint #28671
