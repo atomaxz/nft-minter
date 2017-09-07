@@ -1688,3 +1688,4 @@
 94926. refactor: refactor quiz grading logic #94926
 8756. refactor: remove redundant code blocks #8756
 42540. feat: add export to CSV option #42540
+1765. refactor: split large controller into smaller functions #1765
