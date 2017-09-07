@@ -690,3 +690,4 @@
 69742. test: mock database connection in test suite #69742
 28671. test: add integration test for /submit endpoint #28671
 37264. docs: update README with setup steps #37264
+91323. perf: lazy-load components #91323
