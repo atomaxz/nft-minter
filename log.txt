@@ -697,3 +697,4 @@
 59427. docs: write FAQ section #59427
 67184. perf: lazy-load components #67184
 19574. chore: rename env.example #19574
+37119. chore: bump dependencies #37119
