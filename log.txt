@@ -695,3 +695,4 @@
 54516. fix: fix null pointer exception on login #54516
 90563. perf: cache repeated calculations #90563
 59427. docs: write FAQ section #59427
+67184. perf: lazy-load components #67184
