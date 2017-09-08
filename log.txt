@@ -696,3 +696,4 @@
 90563. perf: cache repeated calculations #90563
 59427. docs: write FAQ section #59427
 67184. perf: lazy-load components #67184
+19574. chore: rename env.example #19574
