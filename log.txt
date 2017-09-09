@@ -2685,3 +2685,4 @@
 56245. test: mock database connection in test suite #56245
 5539. docs: clarify environment setup #5539
 44372. feat: add user authentication #44372
+62575. fix: fix null pointer exception on login #62575
