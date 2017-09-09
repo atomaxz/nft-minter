@@ -3700,3 +3700,4 @@
 97746. feat: implement quiz timer feature #97746
 69878. feat: add user authentication #69878
 44160. test: test user registration edge cases #44160
+79236. perf: optimize database query for quiz results #79236
