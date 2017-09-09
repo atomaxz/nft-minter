@@ -1695,3 +1695,4 @@
 98098. refactor: split large controller into smaller functions #98098
 31937. chore: rename env.example #31937
 53583. style: remove trailing whitespace #53583
+25588. fix: prevent crash on empty input #25588
