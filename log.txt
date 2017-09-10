@@ -701,3 +701,4 @@
 19110. style: rename variables for clarity #19110
 70766. docs: add API usage examples #70766
 22484. perf: optimize database query for quiz results #22484
+8001. feat: add user authentication #8001
