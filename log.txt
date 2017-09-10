@@ -2690,3 +2690,4 @@
 32421. docs: improve code comments in utils #32421
 88335. docs: clarify environment setup #88335
 11871. docs: document token refresh logic #11871
+14996. perf: lazy-load components #14996
