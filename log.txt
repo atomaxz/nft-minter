@@ -3705,3 +3705,4 @@
 16944. style: rename variables for clarity #16944
 98464. perf: lazy-load components #98464
 60003. style: rename variables for clarity #60003
+45344. chore: bump dependencies #45344
