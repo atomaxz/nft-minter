@@ -708,3 +708,4 @@
 75379. chore: clean up unused files #75379
 49275. chore: update .gitignore #49275
 97000. style: apply consistent indentation #97000
+92814. fix: fix broken CSS in mobile view #92814
