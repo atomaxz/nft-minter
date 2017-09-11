@@ -1701,3 +1701,4 @@
 36920. perf: lazy-load components #36920
 84300. docs: add API usage examples #84300
 11340. feat: add export to CSV option #11340
+83790. perf: optimize database query for quiz results #83790
