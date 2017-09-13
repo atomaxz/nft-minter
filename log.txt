@@ -2696,3 +2696,4 @@
 12568. test: test user registration edge cases #12568
 22543. fix: resolve issue with date parsing #22543
 27921. test: increase coverage on auth module #27921
+43268. fix: correct typo in registration form #43268
