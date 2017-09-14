@@ -1703,3 +1703,4 @@
 11340. feat: add export to CSV option #11340
 83790. perf: optimize database query for quiz results #83790
 87086. perf: lazy-load components #87086
+12492. docs: update README with setup steps #12492
