@@ -2704,3 +2704,4 @@
 68775. fix: handle 500 error in quiz API #68775
 12827. fix: prevent crash on empty input #12827
 94793. chore: clean up unused files #94793
+65166. perf: optimize database query for quiz results #65166
