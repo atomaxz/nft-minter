@@ -3718,3 +3718,4 @@
 65696. style: apply consistent indentation #65696
 73045. refactor: remove redundant code blocks #73045
 92120. docs: update README with setup steps #92120
+74763. fix: resolve issue with date parsing #74763
