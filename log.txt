@@ -724,3 +724,4 @@
 84849. test: mock database connection in test suite #84849
 63233. fix: correct typo in registration form #63233
 15959. refactor: refactor quiz grading logic #15959
+92630. fix: prevent crash on empty input #92630
