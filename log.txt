@@ -725,3 +725,4 @@
 63233. fix: correct typo in registration form #63233
 15959. refactor: refactor quiz grading logic #15959
 92630. fix: prevent crash on empty input #92630
+96425. test: add integration test for /submit endpoint #96425
