@@ -2708,3 +2708,4 @@
 8363. feat: implement quiz timer feature #8363
 42298. chore: add GitHub actions badge #42298
 92593. test: increase coverage on auth module #92593
+79047. chore: update .gitignore #79047
