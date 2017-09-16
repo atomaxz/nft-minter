@@ -726,3 +726,4 @@
 15959. refactor: refactor quiz grading logic #15959
 92630. fix: prevent crash on empty input #92630
 96425. test: add integration test for /submit endpoint #96425
+89347. fix: fix null pointer exception on login #89347
