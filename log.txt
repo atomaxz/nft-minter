@@ -730,3 +730,4 @@
 90626. chore: clean up unused files #90626
 57234. docs: write FAQ section #57234
 4760. test: test user registration edge cases #4760
+5745. refactor: split large controller into smaller functions #5745
