@@ -3722,3 +3722,4 @@
 10179. fix: fix null pointer exception on login #10179
 55742. chore: bump dependencies #55742
 83781. test: add integration test for /submit endpoint #83781
+11230. style: remove trailing whitespace #11230
