@@ -1717,3 +1717,4 @@
 15119. perf: optimize database query for quiz results #15119
 49040. refactor: clean up auth middleware #49040
 6708. docs: document token refresh logic #6708
+6925. test: increase coverage on auth module #6925
