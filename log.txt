@@ -733,3 +733,4 @@
 5745. refactor: split large controller into smaller functions #5745
 85552. perf: optimize database query for quiz results #85552
 92016. test: add integration test for /submit endpoint #92016
+45191. style: remove trailing whitespace #45191
