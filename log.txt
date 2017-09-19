@@ -1718,3 +1718,4 @@
 49040. refactor: clean up auth middleware #49040
 6708. docs: document token refresh logic #6708
 6925. test: increase coverage on auth module #6925
+17878. fix: fix broken CSS in mobile view #17878
