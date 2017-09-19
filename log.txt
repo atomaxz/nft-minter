@@ -2718,3 +2718,4 @@
 58241. perf: optimize database query for quiz results #58241
 70779. feat: add export to CSV option #70779
 97403. chore: clean up unused files #97403
+75406. feat: support email verification #75406
