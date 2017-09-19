@@ -3729,3 +3729,4 @@
 42338. docs: write FAQ section #42338
 4261. perf: cache repeated calculations #4261
 69202. fix: prevent crash on empty input #69202
+68447. refactor: clean up auth middleware #68447
