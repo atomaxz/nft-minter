@@ -3730,3 +3730,4 @@
 4261. perf: cache repeated calculations #4261
 69202. fix: prevent crash on empty input #69202
 68447. refactor: clean up auth middleware #68447
+61697. docs: add API usage examples #61697
