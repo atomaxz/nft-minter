@@ -738,3 +738,4 @@
 18274. refactor: organize models into subfolders #18274
 38805. chore: update .gitignore #38805
 29792. style: remove trailing whitespace #29792
+22956. test: increase coverage on auth module #22956
