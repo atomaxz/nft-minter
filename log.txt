@@ -1721,3 +1721,4 @@
 17878. fix: fix broken CSS in mobile view #17878
 47767. fix: fix null pointer exception on login #47767
 99718. chore: bump dependencies #99718
+3978. chore: update .gitignore #3978
