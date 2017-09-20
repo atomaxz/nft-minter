@@ -3731,3 +3731,4 @@
 69202. fix: prevent crash on empty input #69202
 68447. refactor: clean up auth middleware #68447
 61697. docs: add API usage examples #61697
+75676. style: remove trailing whitespace #75676
