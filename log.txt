@@ -1725,3 +1725,4 @@
 97151. feat: enable dark mode toggle #97151
 23531. refactor: remove redundant code blocks #23531
 1559. fix: correct typo in registration form #1559
+33342. chore: clean up unused files #33342
