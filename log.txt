@@ -3736,3 +3736,4 @@
 95505. style: standardize quote style #95505
 60780. style: apply consistent indentation #60780
 19475. chore: bump dependencies #19475
+84517. style: remove trailing whitespace #84517
