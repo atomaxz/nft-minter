@@ -746,3 +746,4 @@
 72501. chore: rename env.example #72501
 69847. refactor: clean up auth middleware #69847
 87467. docs: improve code comments in utils #87467
+41285. test: mock database connection in test suite #41285
