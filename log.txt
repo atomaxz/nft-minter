@@ -3738,3 +3738,4 @@
 19475. chore: bump dependencies #19475
 84517. style: remove trailing whitespace #84517
 14399. docs: document token refresh logic #14399
+61990. perf: optimize database query for quiz results #61990
