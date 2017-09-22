@@ -2729,3 +2729,4 @@
 82448. refactor: clean up auth middleware #82448
 9957. perf: cache repeated calculations #9957
 95664. chore: update .gitignore #95664
+31866. docs: write FAQ section #31866
