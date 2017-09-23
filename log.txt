@@ -2733,3 +2733,4 @@
 58713. docs: clarify environment setup #58713
 49712. refactor: clean up auth middleware #49712
 16427. fix: fix broken CSS in mobile view #16427
+91221. fix: prevent crash on empty input #91221
