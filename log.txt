@@ -1731,3 +1731,4 @@
 47597. refactor: organize models into subfolders #47597
 53476. perf: reduce image load time #53476
 21329. feat: support email verification #21329
+14736. refactor: clean up auth middleware #14736
