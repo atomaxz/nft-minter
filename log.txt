@@ -3741,3 +3741,4 @@
 61990. perf: optimize database query for quiz results #61990
 81659. refactor: refactor quiz grading logic #81659
 25556. perf: optimize database query for quiz results #25556
+84149. chore: bump dependencies #84149
