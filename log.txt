@@ -1734,3 +1734,4 @@
 14736. refactor: clean up auth middleware #14736
 82739. fix: fix null pointer exception on login #82739
 34840. fix: correct typo in registration form #34840
+99998. docs: add API usage examples #99998
