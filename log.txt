@@ -748,3 +748,4 @@
 87467. docs: improve code comments in utils #87467
 41285. test: mock database connection in test suite #41285
 29735. style: remove trailing whitespace #29735
+94900. test: add unit test for quiz service #94900
