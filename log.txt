@@ -2731,3 +2731,4 @@
 95664. chore: update .gitignore #95664
 31866. docs: write FAQ section #31866
 58713. docs: clarify environment setup #58713
+49712. refactor: clean up auth middleware #49712
