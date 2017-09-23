@@ -2732,3 +2732,4 @@
 31866. docs: write FAQ section #31866
 58713. docs: clarify environment setup #58713
 49712. refactor: clean up auth middleware #49712
+16427. fix: fix broken CSS in mobile view #16427
