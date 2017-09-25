@@ -1736,3 +1736,4 @@
 34840. fix: correct typo in registration form #34840
 99998. docs: add API usage examples #99998
 11570. test: test user registration edge cases #11570
+82994. test: add integration test for /submit endpoint #82994
