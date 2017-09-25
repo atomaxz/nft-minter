@@ -749,3 +749,4 @@
 41285. test: mock database connection in test suite #41285
 29735. style: remove trailing whitespace #29735
 94900. test: add unit test for quiz service #94900
+78842. refactor: split large controller into smaller functions #78842
