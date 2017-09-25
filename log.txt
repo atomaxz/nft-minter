@@ -3752,3 +3752,4 @@
 21582. perf: cache repeated calculations #21582
 11289. refactor: remove redundant code blocks #11289
 64110. style: rename variables for clarity #64110
+53713. style: remove trailing whitespace #53713
