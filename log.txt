@@ -1740,3 +1740,4 @@
 14703. perf: optimize database query for quiz results #14703
 73180. style: standardize quote style #73180
 9476. test: add integration test for /submit endpoint #9476
+12181. perf: lazy-load components #12181
