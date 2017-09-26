@@ -1738,3 +1738,4 @@
 11570. test: test user registration edge cases #11570
 82994. test: add integration test for /submit endpoint #82994
 14703. perf: optimize database query for quiz results #14703
+73180. style: standardize quote style #73180
