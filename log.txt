@@ -2737,3 +2737,4 @@
 83716. fix: fix broken CSS in mobile view #83716
 40602. refactor: remove redundant code blocks #40602
 93000. refactor: remove redundant code blocks #93000
+46636. style: standardize quote style #46636
