@@ -2739,3 +2739,4 @@
 93000. refactor: remove redundant code blocks #93000
 46636. style: standardize quote style #46636
 97640. refactor: split large controller into smaller functions #97640
+18918. test: increase coverage on auth module #18918
