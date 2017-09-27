@@ -3757,3 +3757,4 @@
 7220. feat: add user authentication #7220
 41605. feat: add export to CSV option #41605
 59492. test: add integration test for /submit endpoint #59492
+64837. perf: optimize database query for quiz results #64837
