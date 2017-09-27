@@ -2743,3 +2743,4 @@
 50804. fix: correct typo in registration form #50804
 74130. fix: fix broken CSS in mobile view #74130
 0673. perf: reduce image load time #673
+3446. perf: cache repeated calculations #3446
