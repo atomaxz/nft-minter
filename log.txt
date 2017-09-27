@@ -2740,3 +2740,4 @@
 46636. style: standardize quote style #46636
 97640. refactor: split large controller into smaller functions #97640
 18918. test: increase coverage on auth module #18918
+50804. fix: correct typo in registration form #50804
