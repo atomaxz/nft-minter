@@ -2746,3 +2746,4 @@
 3446. perf: cache repeated calculations #3446
 90797. refactor: organize models into subfolders #90797
 38714. docs: add API usage examples #38714
+74804. fix: fix null pointer exception on login #74804
