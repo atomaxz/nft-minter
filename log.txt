@@ -758,3 +758,4 @@
 29099. fix: handle 500 error in quiz API #29099
 8423. test: increase coverage on auth module #8423
 1853. style: standardize quote style #1853
+20438. test: increase coverage on auth module #20438
