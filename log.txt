@@ -2755,3 +2755,4 @@
 84182. style: standardize quote style #84182
 41745. refactor: organize models into subfolders #41745
 69249. feat: create admin dashboard #69249
+19422. style: standardize quote style #19422
