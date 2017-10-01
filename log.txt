@@ -3766,3 +3766,4 @@
 64629. test: mock database connection in test suite #64629
 27462. refactor: clean up auth middleware #27462
 79384. style: standardize quote style #79384
+0867. refactor: organize models into subfolders #867
