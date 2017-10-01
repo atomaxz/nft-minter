@@ -1751,3 +1751,4 @@
 39277. feat: create admin dashboard #39277
 64863. test: add unit test for quiz service #64863
 86570. test: test user registration edge cases #86570
+33643. test: increase coverage on auth module #33643
