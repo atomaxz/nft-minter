@@ -1752,3 +1752,4 @@
 64863. test: add unit test for quiz service #64863
 86570. test: test user registration edge cases #86570
 33643. test: increase coverage on auth module #33643
+63131. fix: resolve issue with date parsing #63131
