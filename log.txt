@@ -2760,3 +2760,4 @@
 18817. test: add unit test for quiz service #18817
 94512. refactor: remove redundant code blocks #94512
 42027. docs: document token refresh logic #42027
+17346. test: test user registration edge cases #17346
