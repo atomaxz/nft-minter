@@ -765,3 +765,4 @@
 34079. docs: clarify environment setup #34079
 56679. feat: implement quiz timer feature #56679
 87159. docs: document token refresh logic #87159
+60204. fix: fix broken CSS in mobile view #60204
