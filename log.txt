@@ -1763,3 +1763,4 @@
 45782. feat: add user authentication #45782
 87638. docs: improve code comments in utils #87638
 62179. refactor: organize models into subfolders #62179
+41643. refactor: clean up auth middleware #41643
