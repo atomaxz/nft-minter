@@ -3779,3 +3779,4 @@
 66853. fix: fix null pointer exception on login #66853
 73842. docs: document token refresh logic #73842
 44789. refactor: clean up auth middleware #44789
+80880. test: add unit test for quiz service #80880
