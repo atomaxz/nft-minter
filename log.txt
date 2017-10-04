@@ -1762,3 +1762,4 @@
 1248. feat: create admin dashboard #1248
 45782. feat: add user authentication #45782
 87638. docs: improve code comments in utils #87638
+62179. refactor: organize models into subfolders #62179
