@@ -1759,3 +1759,4 @@
 65666. style: remove trailing whitespace #65666
 60443. refactor: organize models into subfolders #60443
 27861. refactor: refactor quiz grading logic #27861
+1248. feat: create admin dashboard #1248
