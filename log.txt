@@ -2762,3 +2762,4 @@
 42027. docs: document token refresh logic #42027
 17346. test: test user registration edge cases #17346
 33563. chore: bump dependencies #33563
+7460. perf: lazy-load components #7460
