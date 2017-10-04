@@ -3778,3 +3778,4 @@
 10757. style: apply consistent indentation #10757
 66853. fix: fix null pointer exception on login #66853
 73842. docs: document token refresh logic #73842
+44789. refactor: clean up auth middleware #44789
