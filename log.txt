@@ -2763,3 +2763,4 @@
 17346. test: test user registration edge cases #17346
 33563. chore: bump dependencies #33563
 7460. perf: lazy-load components #7460
+82330. test: increase coverage on auth module #82330
