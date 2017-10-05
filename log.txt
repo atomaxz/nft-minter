@@ -3781,3 +3781,4 @@
 44789. refactor: clean up auth middleware #44789
 80880. test: add unit test for quiz service #80880
 55004. style: standardize quote style #55004
+85177. test: increase coverage on auth module #85177
