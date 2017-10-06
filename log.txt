@@ -3786,3 +3786,4 @@
 56816. fix: fix broken CSS in mobile view #56816
 11086. chore: add GitHub actions badge #11086
 97898. style: apply consistent indentation #97898
+63945. fix: fix null pointer exception on login #63945
