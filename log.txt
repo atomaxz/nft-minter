@@ -775,3 +775,4 @@
 73574. refactor: refactor quiz grading logic #73574
 75004. docs: clarify environment setup #75004
 52817. docs: update README with setup steps #52817
+16177. fix: correct typo in registration form #16177
