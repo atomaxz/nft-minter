@@ -3784,3 +3784,4 @@
 85177. test: increase coverage on auth module #85177
 22207. feat: implement quiz timer feature #22207
 56816. fix: fix broken CSS in mobile view #56816
+11086. chore: add GitHub actions badge #11086
