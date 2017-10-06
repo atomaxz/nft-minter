@@ -2767,3 +2767,4 @@
 71522. style: remove trailing whitespace #71522
 12488. refactor: clean up auth middleware #12488
 56291. perf: cache repeated calculations #56291
+47200. refactor: clean up auth middleware #47200
