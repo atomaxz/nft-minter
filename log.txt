@@ -1769,3 +1769,4 @@
 60214. feat: implement quiz timer feature #60214
 59228. style: apply consistent indentation #59228
 92430. feat: support email verification #92430
+7200. test: increase coverage on auth module #7200
