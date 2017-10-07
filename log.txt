@@ -781,3 +781,4 @@
 55728. chore: rename env.example #55728
 3205. feat: create admin dashboard #3205
 27991. feat: enable dark mode toggle #27991
+90275. style: remove trailing whitespace #90275
