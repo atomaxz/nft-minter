@@ -782,3 +782,4 @@
 3205. feat: create admin dashboard #3205
 27991. feat: enable dark mode toggle #27991
 90275. style: remove trailing whitespace #90275
+57382. docs: document token refresh logic #57382
