@@ -1770,3 +1770,4 @@
 59228. style: apply consistent indentation #59228
 92430. feat: support email verification #92430
 7200. test: increase coverage on auth module #7200
+31950. chore: add GitHub actions badge #31950
