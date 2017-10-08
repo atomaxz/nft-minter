@@ -3789,3 +3789,4 @@
 63945. fix: fix null pointer exception on login #63945
 71278. test: increase coverage on auth module #71278
 45451. chore: bump dependencies #45451
+85794. chore: bump dependencies #85794
