@@ -2774,3 +2774,4 @@
 78463. style: remove trailing whitespace #78463
 52126. style: remove trailing whitespace #52126
 36087. refactor: remove redundant code blocks #36087
+24055. docs: update README with setup steps #24055
