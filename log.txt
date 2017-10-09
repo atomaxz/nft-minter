@@ -786,3 +786,4 @@
 11442. chore: bump dependencies #11442
 23582. style: remove trailing whitespace #23582
 4032. chore: rename env.example #4032
+43922. test: mock database connection in test suite #43922
