@@ -1778,3 +1778,4 @@
 51902. perf: cache repeated calculations #51902
 38925. refactor: clean up auth middleware #38925
 74688. docs: improve code comments in utils #74688
+87662. chore: add GitHub actions badge #87662
