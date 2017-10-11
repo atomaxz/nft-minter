@@ -1780,3 +1780,4 @@
 74688. docs: improve code comments in utils #74688
 87662. chore: add GitHub actions badge #87662
 87992. docs: add API usage examples #87992
+9921. fix: fix null pointer exception on login #9921
