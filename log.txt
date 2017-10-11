@@ -1782,3 +1782,4 @@
 87992. docs: add API usage examples #87992
 9921. fix: fix null pointer exception on login #9921
 68281. feat: create admin dashboard #68281
+77138. feat: enable dark mode toggle #77138
