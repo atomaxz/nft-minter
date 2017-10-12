@@ -794,3 +794,4 @@
 39145. chore: add GitHub actions badge #39145
 45652. chore: add GitHub actions badge #45652
 43762. chore: clean up unused files #43762
+79311. perf: lazy-load components #79311
