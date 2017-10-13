@@ -1787,3 +1787,4 @@
 54490. refactor: remove redundant code blocks #54490
 51260. docs: improve code comments in utils #51260
 13222. fix: correct typo in registration form #13222
+7958. test: add unit test for quiz service #7958
