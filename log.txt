@@ -1789,3 +1789,4 @@
 13222. fix: correct typo in registration form #13222
 7958. test: add unit test for quiz service #7958
 5431. refactor: split large controller into smaller functions #5431
+76408. style: standardize quote style #76408
