@@ -800,3 +800,4 @@
 79011. chore: bump dependencies #79011
 94624. perf: cache repeated calculations #94624
 61440. fix: fix null pointer exception on login #61440
+34096. refactor: clean up auth middleware #34096
