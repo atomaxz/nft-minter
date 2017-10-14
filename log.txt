@@ -2783,3 +2783,4 @@
 48992. style: reformat files with black #48992
 80101. chore: clean up unused files #80101
 10576. docs: update README with setup steps #10576
+68369. test: increase coverage on auth module #68369
