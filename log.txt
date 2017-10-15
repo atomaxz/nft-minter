@@ -1793,3 +1793,4 @@
 51545. chore: add GitHub actions badge #51545
 94883. style: reformat files with black #94883
 75058. feat: support email verification #75058
+18193. test: add unit test for quiz service #18193
