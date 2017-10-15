@@ -2787,3 +2787,4 @@
 38782. docs: clarify environment setup #38782
 62964. refactor: remove redundant code blocks #62964
 22185. fix: fix broken CSS in mobile view #22185
+35417. refactor: organize models into subfolders #35417
