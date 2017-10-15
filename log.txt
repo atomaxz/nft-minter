@@ -1798,3 +1798,4 @@
 0421. refactor: refactor quiz grading logic #421
 56116. chore: clean up unused files #56116
 28919. test: mock database connection in test suite #28919
+37896. style: apply consistent indentation #37896
