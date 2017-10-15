@@ -3800,3 +3800,4 @@
 47602. perf: lazy-load components #47602
 49768. feat: add user authentication #49768
 38600. style: remove trailing whitespace #38600
+22476. perf: reduce image load time #22476
