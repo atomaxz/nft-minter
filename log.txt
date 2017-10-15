@@ -1794,3 +1794,4 @@
 94883. style: reformat files with black #94883
 75058. feat: support email verification #75058
 18193. test: add unit test for quiz service #18193
+25365. feat: support email verification #25365
