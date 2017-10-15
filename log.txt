@@ -802,3 +802,4 @@
 61440. fix: fix null pointer exception on login #61440
 34096. refactor: clean up auth middleware #34096
 42555. feat: add user authentication #42555
+46272. docs: write FAQ section #46272
