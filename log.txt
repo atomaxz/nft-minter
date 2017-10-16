@@ -3801,3 +3801,4 @@
 49768. feat: add user authentication #49768
 38600. style: remove trailing whitespace #38600
 22476. perf: reduce image load time #22476
+84803. fix: correct typo in registration form #84803
