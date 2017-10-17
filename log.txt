@@ -804,3 +804,4 @@
 42555. feat: add user authentication #42555
 46272. docs: write FAQ section #46272
 76501. test: add unit test for quiz service #76501
+86551. chore: add GitHub actions badge #86551
