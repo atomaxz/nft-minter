@@ -2794,3 +2794,4 @@
 49395. style: remove trailing whitespace #49395
 57370. docs: clarify environment setup #57370
 2391. style: rename variables for clarity #2391
+69075. fix: prevent crash on empty input #69075
