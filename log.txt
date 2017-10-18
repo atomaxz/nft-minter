@@ -1804,3 +1804,4 @@
 45236. perf: cache repeated calculations #45236
 81444. fix: fix broken CSS in mobile view #81444
 29127. feat: support email verification #29127
+0638. feat: add user authentication #638
