@@ -1802,3 +1802,4 @@
 48504. style: reformat files with black #48504
 92461. refactor: refactor quiz grading logic #92461
 45236. perf: cache repeated calculations #45236
+81444. fix: fix broken CSS in mobile view #81444
