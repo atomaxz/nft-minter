@@ -813,3 +813,4 @@
 55736. perf: lazy-load components #55736
 20538. refactor: clean up auth middleware #20538
 29372. fix: correct typo in registration form #29372
+92186. fix: prevent crash on empty input #92186
