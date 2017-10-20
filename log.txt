@@ -814,3 +814,4 @@
 20538. refactor: clean up auth middleware #20538
 29372. fix: correct typo in registration form #29372
 92186. fix: prevent crash on empty input #92186
+24037. refactor: split large controller into smaller functions #24037
