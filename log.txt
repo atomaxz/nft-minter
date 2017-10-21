@@ -817,3 +817,4 @@
 24037. refactor: split large controller into smaller functions #24037
 30131. test: increase coverage on auth module #30131
 96821. perf: lazy-load components #96821
+55838. perf: reduce image load time #55838
