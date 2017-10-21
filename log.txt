@@ -2797,3 +2797,4 @@
 69075. fix: prevent crash on empty input #69075
 52519. docs: document token refresh logic #52519
 96716. chore: clean up unused files #96716
+1551. feat: support email verification #1551
