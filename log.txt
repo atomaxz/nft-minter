@@ -816,3 +816,4 @@
 92186. fix: prevent crash on empty input #92186
 24037. refactor: split large controller into smaller functions #24037
 30131. test: increase coverage on auth module #30131
+96821. perf: lazy-load components #96821
