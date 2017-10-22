@@ -2802,3 +2802,4 @@
 76638. chore: bump dependencies #76638
 20669. feat: implement quiz timer feature #20669
 79664. feat: add export to CSV option #79664
+83024. perf: lazy-load components #83024
