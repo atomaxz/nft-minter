@@ -818,3 +818,4 @@
 30131. test: increase coverage on auth module #30131
 96821. perf: lazy-load components #96821
 55838. perf: reduce image load time #55838
+56614. refactor: remove redundant code blocks #56614
