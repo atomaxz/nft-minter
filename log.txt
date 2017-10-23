@@ -2806,3 +2806,4 @@
 60536. docs: improve code comments in utils #60536
 36152. docs: clarify environment setup #36152
 23970. chore: add GitHub actions badge #23970
+46600. chore: rename env.example #46600
