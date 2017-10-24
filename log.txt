@@ -2807,3 +2807,4 @@
 36152. docs: clarify environment setup #36152
 23970. chore: add GitHub actions badge #23970
 46600. chore: rename env.example #46600
+88604. chore: bump dependencies #88604
