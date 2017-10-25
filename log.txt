@@ -3822,3 +3822,4 @@
 26949. style: rename variables for clarity #26949
 62577. feat: support email verification #62577
 24550. docs: add API usage examples #24550
+31769. chore: bump dependencies #31769
