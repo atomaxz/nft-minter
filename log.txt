@@ -826,3 +826,4 @@
 39503. style: reformat files with black #39503
 56888. fix: prevent crash on empty input #56888
 3225. test: increase coverage on auth module #3225
+50277. docs: update README with setup steps #50277
