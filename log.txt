@@ -1821,3 +1821,4 @@
 69708. style: remove trailing whitespace #69708
 89571. refactor: clean up auth middleware #89571
 99731. feat: implement quiz timer feature #99731
+44288. feat: support email verification #44288
