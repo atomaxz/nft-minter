@@ -824,3 +824,4 @@
 64548. perf: optimize database query for quiz results #64548
 0170. style: apply consistent indentation #170
 39503. style: reformat files with black #39503
+56888. fix: prevent crash on empty input #56888
