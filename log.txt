@@ -2813,3 +2813,4 @@
 22382. test: test user registration edge cases #22382
 75824. style: remove trailing whitespace #75824
 57493. fix: correct typo in registration form #57493
+97995. perf: reduce image load time #97995
