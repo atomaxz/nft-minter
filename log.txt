@@ -1824,3 +1824,4 @@
 44288. feat: support email verification #44288
 58895. test: add integration test for /submit endpoint #58895
 46937. docs: clarify environment setup #46937
+11324. feat: add user authentication #11324
