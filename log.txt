@@ -2816,3 +2816,4 @@
 97995. perf: reduce image load time #97995
 67089. chore: add GitHub actions badge #67089
 79540. feat: create admin dashboard #79540
+2813. fix: handle 500 error in quiz API #2813
