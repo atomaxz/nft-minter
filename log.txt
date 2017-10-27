@@ -2815,3 +2815,4 @@
 57493. fix: correct typo in registration form #57493
 97995. perf: reduce image load time #97995
 67089. chore: add GitHub actions badge #67089
+79540. feat: create admin dashboard #79540
