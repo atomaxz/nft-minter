@@ -1826,3 +1826,4 @@
 46937. docs: clarify environment setup #46937
 11324. feat: add user authentication #11324
 37661. perf: cache repeated calculations #37661
+13803. style: remove trailing whitespace #13803
