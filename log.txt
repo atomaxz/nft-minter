@@ -838,3 +838,4 @@
 0690. feat: implement quiz timer feature #690
 82560. style: reformat files with black #82560
 43150. style: apply consistent indentation #43150
+92247. refactor: clean up auth middleware #92247
