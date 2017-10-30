@@ -3838,3 +3838,4 @@
 69793. docs: add API usage examples #69793
 73155. chore: rename env.example #73155
 58451. perf: cache repeated calculations #58451
+75421. fix: fix broken CSS in mobile view #75421
