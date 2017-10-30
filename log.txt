@@ -841,3 +841,4 @@
 92247. refactor: clean up auth middleware #92247
 10524. feat: implement quiz timer feature #10524
 42851. docs: document token refresh logic #42851
+7287. test: increase coverage on auth module #7287
