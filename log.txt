@@ -1830,3 +1830,4 @@
 89666. refactor: remove redundant code blocks #89666
 73897. fix: fix null pointer exception on login #73897
 90469. docs: document token refresh logic #90469
+20044. perf: optimize database query for quiz results #20044
