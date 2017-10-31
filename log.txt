@@ -842,3 +842,4 @@
 10524. feat: implement quiz timer feature #10524
 42851. docs: document token refresh logic #42851
 7287. test: increase coverage on auth module #7287
+54771. perf: optimize database query for quiz results #54771
