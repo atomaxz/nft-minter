@@ -2832,3 +2832,4 @@
 65395. perf: lazy-load components #65395
 19309. feat: implement quiz timer feature #19309
 44963. docs: clarify environment setup #44963
+4944. docs: write FAQ section #4944
