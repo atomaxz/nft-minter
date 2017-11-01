@@ -3841,3 +3841,4 @@
 75421. fix: fix broken CSS in mobile view #75421
 11566. chore: bump dependencies #11566
 53478. refactor: clean up auth middleware #53478
+62537. chore: update .gitignore #62537
