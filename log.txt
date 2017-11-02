@@ -3843,3 +3843,4 @@
 53478. refactor: clean up auth middleware #53478
 62537. chore: update .gitignore #62537
 59865. refactor: split large controller into smaller functions #59865
+42239. feat: support email verification #42239
