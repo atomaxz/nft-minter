@@ -3845,3 +3845,4 @@
 59865. refactor: split large controller into smaller functions #59865
 42239. feat: support email verification #42239
 49465. refactor: remove redundant code blocks #49465
+24310. docs: update README with setup steps #24310
