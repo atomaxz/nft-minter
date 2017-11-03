@@ -2842,3 +2842,4 @@
 18116. refactor: refactor quiz grading logic #18116
 17077. feat: implement quiz timer feature #17077
 32816. refactor: split large controller into smaller functions #32816
+44060. feat: add user authentication #44060
