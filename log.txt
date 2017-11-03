@@ -847,3 +847,4 @@
 28341. chore: bump dependencies #28341
 98117. feat: implement quiz timer feature #98117
 5926. docs: add API usage examples #5926
+0503. fix: fix null pointer exception on login #503
