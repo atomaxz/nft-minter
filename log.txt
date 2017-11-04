@@ -2846,3 +2846,4 @@
 62737. chore: add GitHub actions badge #62737
 30125. style: standardize quote style #30125
 94754. chore: bump dependencies #94754
+19536. feat: support email verification #19536
