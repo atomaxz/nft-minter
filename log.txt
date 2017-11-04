@@ -1839,3 +1839,4 @@
 54504. docs: improve code comments in utils #54504
 42921. perf: cache repeated calculations #42921
 44009. test: increase coverage on auth module #44009
+85485. fix: fix broken CSS in mobile view #85485
