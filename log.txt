@@ -3848,3 +3848,4 @@
 24310. docs: update README with setup steps #24310
 73748. style: remove trailing whitespace #73748
 71514. style: reformat files with black #71514
+97572. test: test user registration edge cases #97572
