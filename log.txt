@@ -850,3 +850,4 @@
 0503. fix: fix null pointer exception on login #503
 34243. chore: bump dependencies #34243
 92254. test: mock database connection in test suite #92254
+18327. test: mock database connection in test suite #18327
