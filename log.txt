@@ -3846,3 +3846,4 @@
 42239. feat: support email verification #42239
 49465. refactor: remove redundant code blocks #49465
 24310. docs: update README with setup steps #24310
+73748. style: remove trailing whitespace #73748
