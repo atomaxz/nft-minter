@@ -3850,3 +3850,4 @@
 71514. style: reformat files with black #71514
 97572. test: test user registration edge cases #97572
 41180. perf: optimize database query for quiz results #41180
+18287. refactor: organize models into subfolders #18287
