@@ -1842,3 +1842,4 @@
 85485. fix: fix broken CSS in mobile view #85485
 36743. refactor: refactor quiz grading logic #36743
 11296. feat: support email verification #11296
+42977. perf: reduce image load time #42977
