@@ -1844,3 +1844,4 @@
 11296. feat: support email verification #11296
 42977. perf: reduce image load time #42977
 96901. docs: update README with setup steps #96901
+34566. style: reformat files with black #34566
