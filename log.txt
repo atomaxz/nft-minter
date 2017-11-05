@@ -1841,3 +1841,4 @@
 44009. test: increase coverage on auth module #44009
 85485. fix: fix broken CSS in mobile view #85485
 36743. refactor: refactor quiz grading logic #36743
+11296. feat: support email verification #11296
