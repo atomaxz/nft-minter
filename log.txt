@@ -1843,3 +1843,4 @@
 36743. refactor: refactor quiz grading logic #36743
 11296. feat: support email verification #11296
 42977. perf: reduce image load time #42977
+96901. docs: update README with setup steps #96901
