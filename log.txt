@@ -2849,3 +2849,4 @@
 19536. feat: support email verification #19536
 28255. test: add integration test for /submit endpoint #28255
 59878. docs: add API usage examples #59878
+23900. feat: add user authentication #23900
