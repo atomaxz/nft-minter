@@ -3859,3 +3859,4 @@
 43529. style: reformat files with black #43529
 84790. docs: clarify environment setup #84790
 53344. test: mock database connection in test suite #53344
+78412. docs: write FAQ section #78412
