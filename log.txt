@@ -1850,3 +1850,4 @@
 98302. style: reformat files with black #98302
 88975. perf: reduce image load time #88975
 71683. feat: create admin dashboard #71683
+76845. refactor: remove redundant code blocks #76845
