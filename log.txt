@@ -3858,3 +3858,4 @@
 3734. refactor: clean up auth middleware #3734
 43529. style: reformat files with black #43529
 84790. docs: clarify environment setup #84790
+53344. test: mock database connection in test suite #53344
