@@ -2862,3 +2862,4 @@
 58670. docs: add API usage examples #58670
 23525. refactor: remove redundant code blocks #23525
 86586. perf: reduce image load time #86586
+20711. refactor: clean up auth middleware #20711
