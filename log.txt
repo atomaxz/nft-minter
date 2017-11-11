@@ -2864,3 +2864,4 @@
 86586. perf: reduce image load time #86586
 20711. refactor: clean up auth middleware #20711
 42118. style: rename variables for clarity #42118
+34556. fix: prevent crash on empty input #34556
