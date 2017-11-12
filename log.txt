@@ -866,3 +866,4 @@
 98022. feat: add user authentication #98022
 93874. style: apply consistent indentation #93874
 4346. style: reformat files with black #4346
+59968. fix: fix broken CSS in mobile view #59968
