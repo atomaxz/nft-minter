@@ -1858,3 +1858,4 @@
 7993. refactor: remove redundant code blocks #7993
 93021. docs: update README with setup steps #93021
 55262. docs: clarify environment setup #55262
+64493. chore: rename env.example #64493
