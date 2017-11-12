@@ -2868,3 +2868,4 @@
 50230. chore: update .gitignore #50230
 74420. chore: add GitHub actions badge #74420
 46532. docs: clarify environment setup #46532
+51648. fix: prevent crash on empty input #51648
