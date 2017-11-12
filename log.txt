@@ -1859,3 +1859,4 @@
 93021. docs: update README with setup steps #93021
 55262. docs: clarify environment setup #55262
 64493. chore: rename env.example #64493
+77749. fix: prevent crash on empty input #77749
