@@ -868,3 +868,4 @@
 4346. style: reformat files with black #4346
 59968. fix: fix broken CSS in mobile view #59968
 38324. docs: improve code comments in utils #38324
+46321. docs: update README with setup steps #46321
