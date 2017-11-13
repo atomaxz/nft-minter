@@ -1865,3 +1865,4 @@
 58351. test: add unit test for quiz service #58351
 12656. style: rename variables for clarity #12656
 50057. perf: optimize database query for quiz results #50057
+23794. fix: resolve issue with date parsing #23794
