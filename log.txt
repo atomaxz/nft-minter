@@ -872,3 +872,4 @@
 4581. feat: create admin dashboard #4581
 82265. perf: optimize database query for quiz results #82265
 25529. fix: correct typo in registration form #25529
+81850. style: apply consistent indentation #81850
