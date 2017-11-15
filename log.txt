@@ -873,3 +873,4 @@
 82265. perf: optimize database query for quiz results #82265
 25529. fix: correct typo in registration form #25529
 81850. style: apply consistent indentation #81850
+96655. fix: handle 500 error in quiz API #96655
