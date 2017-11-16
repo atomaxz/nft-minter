@@ -2876,3 +2876,4 @@
 25801. test: mock database connection in test suite #25801
 99825. refactor: refactor quiz grading logic #99825
 52183. refactor: clean up auth middleware #52183
+17740. chore: add GitHub actions badge #17740
