@@ -874,3 +874,4 @@
 25529. fix: correct typo in registration form #25529
 81850. style: apply consistent indentation #81850
 96655. fix: handle 500 error in quiz API #96655
+29540. test: test user registration edge cases #29540
