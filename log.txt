@@ -876,3 +876,4 @@
 96655. fix: handle 500 error in quiz API #96655
 29540. test: test user registration edge cases #29540
 73568. style: standardize quote style #73568
+74051. feat: enable dark mode toggle #74051
