@@ -880,3 +880,4 @@
 93856. fix: correct typo in registration form #93856
 14881. docs: update README with setup steps #14881
 92620. test: test user registration edge cases #92620
+50031. refactor: clean up auth middleware #50031
