@@ -878,3 +878,4 @@
 73568. style: standardize quote style #73568
 74051. feat: enable dark mode toggle #74051
 93856. fix: correct typo in registration form #93856
+14881. docs: update README with setup steps #14881
