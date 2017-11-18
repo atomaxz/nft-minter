@@ -3883,3 +3883,4 @@
 87259. perf: lazy-load components #87259
 37863. fix: correct typo in registration form #37863
 38710. style: standardize quote style #38710
+51325. test: increase coverage on auth module #51325
