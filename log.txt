@@ -882,3 +882,4 @@
 92620. test: test user registration edge cases #92620
 50031. refactor: clean up auth middleware #50031
 91391. fix: fix broken CSS in mobile view #91391
+33942. feat: add user authentication #33942
