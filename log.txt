@@ -2884,3 +2884,4 @@
 4399. chore: rename env.example #4399
 99813. perf: optimize database query for quiz results #99813
 29821. style: remove trailing whitespace #29821
+55097. fix: handle 500 error in quiz API #55097
