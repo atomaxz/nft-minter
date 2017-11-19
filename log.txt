@@ -3885,3 +3885,4 @@
 38710. style: standardize quote style #38710
 51325. test: increase coverage on auth module #51325
 87285. feat: implement quiz timer feature #87285
+41027. fix: prevent crash on empty input #41027
