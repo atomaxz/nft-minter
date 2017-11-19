@@ -883,3 +883,4 @@
 50031. refactor: clean up auth middleware #50031
 91391. fix: fix broken CSS in mobile view #91391
 33942. feat: add user authentication #33942
+31864. chore: update .gitignore #31864
