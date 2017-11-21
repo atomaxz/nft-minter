@@ -3894,3 +3894,4 @@
 17214. style: rename variables for clarity #17214
 0269. style: rename variables for clarity #269
 55498. style: remove trailing whitespace #55498
+6990. test: increase coverage on auth module #6990
