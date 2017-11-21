@@ -1882,3 +1882,4 @@
 86461. chore: rename env.example #86461
 39625. perf: lazy-load components #39625
 31756. style: standardize quote style #31756
+43740. feat: support email verification #43740
