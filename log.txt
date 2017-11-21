@@ -885,3 +885,4 @@
 33942. feat: add user authentication #33942
 31864. chore: update .gitignore #31864
 44039. style: apply consistent indentation #44039
+8718. chore: update .gitignore #8718
