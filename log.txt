@@ -889,3 +889,4 @@
 3336. docs: add API usage examples #3336
 64527. feat: create admin dashboard #64527
 20794. perf: reduce image load time #20794
+15922. docs: document token refresh logic #15922
