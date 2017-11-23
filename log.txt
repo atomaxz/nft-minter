@@ -3902,3 +3902,4 @@
 99539. perf: cache repeated calculations #99539
 98398. perf: lazy-load components #98398
 92263. style: remove trailing whitespace #92263
+78190. refactor: organize models into subfolders #78190
