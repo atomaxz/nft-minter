@@ -2893,3 +2893,4 @@
 64305. docs: clarify environment setup #64305
 53894. fix: correct typo in registration form #53894
 75196. feat: add user authentication #75196
+36267. chore: clean up unused files #36267
