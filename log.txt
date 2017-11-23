@@ -2892,3 +2892,4 @@
 13523. fix: fix null pointer exception on login #13523
 64305. docs: clarify environment setup #64305
 53894. fix: correct typo in registration form #53894
+75196. feat: add user authentication #75196
