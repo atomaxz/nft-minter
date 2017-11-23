@@ -891,3 +891,4 @@
 20794. perf: reduce image load time #20794
 15922. docs: document token refresh logic #15922
 86853. perf: optimize database query for quiz results #86853
+3425. docs: write FAQ section #3425
