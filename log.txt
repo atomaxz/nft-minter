@@ -1884,3 +1884,4 @@
 31756. style: standardize quote style #31756
 43740. feat: support email verification #43740
 99336. chore: bump dependencies #99336
+67431. feat: enable dark mode toggle #67431
