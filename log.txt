@@ -2897,3 +2897,4 @@
 24298. feat: add user authentication #24298
 60508. perf: cache repeated calculations #60508
 2501. refactor: remove redundant code blocks #2501
+53052. refactor: refactor quiz grading logic #53052
