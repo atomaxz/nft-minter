@@ -894,3 +894,4 @@
 3425. docs: write FAQ section #3425
 20703. chore: clean up unused files #20703
 65141. style: remove trailing whitespace #65141
+66819. fix: prevent crash on empty input #66819
