@@ -893,3 +893,4 @@
 86853. perf: optimize database query for quiz results #86853
 3425. docs: write FAQ section #3425
 20703. chore: clean up unused files #20703
+65141. style: remove trailing whitespace #65141
