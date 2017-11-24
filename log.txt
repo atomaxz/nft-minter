@@ -895,3 +895,4 @@
 20703. chore: clean up unused files #20703
 65141. style: remove trailing whitespace #65141
 66819. fix: prevent crash on empty input #66819
+18651. refactor: remove redundant code blocks #18651
