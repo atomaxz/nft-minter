@@ -1895,3 +1895,4 @@
 20316. feat: implement quiz timer feature #20316
 13886. test: test user registration edge cases #13886
 34525. docs: improve code comments in utils #34525
+2563. test: mock database connection in test suite #2563
