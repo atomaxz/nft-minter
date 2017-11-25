@@ -3906,3 +3906,4 @@
 32374. refactor: split large controller into smaller functions #32374
 35929. refactor: organize models into subfolders #35929
 16581. test: add unit test for quiz service #16581
+3779. style: standardize quote style #3779
