@@ -897,3 +897,4 @@
 66819. fix: prevent crash on empty input #66819
 18651. refactor: remove redundant code blocks #18651
 92242. feat: create admin dashboard #92242
+40614. test: mock database connection in test suite #40614
