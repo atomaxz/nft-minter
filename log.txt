@@ -1902,3 +1902,4 @@
 69318. chore: clean up unused files #69318
 81014. test: increase coverage on auth module #81014
 49509. feat: add export to CSV option #49509
+68563. fix: correct typo in registration form #68563
