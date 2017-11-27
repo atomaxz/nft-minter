@@ -906,3 +906,4 @@
 50011. style: remove trailing whitespace #50011
 46486. docs: update README with setup steps #46486
 10085. docs: document token refresh logic #10085
+99558. fix: correct typo in registration form #99558
