@@ -907,3 +907,4 @@
 46486. docs: update README with setup steps #46486
 10085. docs: document token refresh logic #10085
 99558. fix: correct typo in registration form #99558
+94494. fix: fix null pointer exception on login #94494
