@@ -3907,3 +3907,4 @@
 35929. refactor: organize models into subfolders #35929
 16581. test: add unit test for quiz service #16581
 3779. style: standardize quote style #3779
+15885. fix: fix broken CSS in mobile view #15885
