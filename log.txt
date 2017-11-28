@@ -910,3 +910,4 @@
 94494. fix: fix null pointer exception on login #94494
 53272. docs: improve code comments in utils #53272
 6695. fix: fix broken CSS in mobile view #6695
+38459. test: add unit test for quiz service #38459
