@@ -1906,3 +1906,4 @@
 79474. chore: clean up unused files #79474
 92844. refactor: split large controller into smaller functions #92844
 62395. feat: add user authentication #62395
+82723. chore: update .gitignore #82723
