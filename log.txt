@@ -911,3 +911,4 @@
 53272. docs: improve code comments in utils #53272
 6695. fix: fix broken CSS in mobile view #6695
 38459. test: add unit test for quiz service #38459
+44236. test: test user registration edge cases #44236
