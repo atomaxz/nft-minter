@@ -1912,3 +1912,4 @@
 83496. refactor: remove redundant code blocks #83496
 11272. fix: fix null pointer exception on login #11272
 93986. perf: cache repeated calculations #93986
+60159. test: increase coverage on auth module #60159
