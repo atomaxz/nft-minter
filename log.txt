@@ -3911,3 +3911,4 @@
 4303. docs: update README with setup steps #4303
 38471. test: add integration test for /submit endpoint #38471
 96929. docs: clarify environment setup #96929
+41340. fix: fix null pointer exception on login #41340
