@@ -2908,3 +2908,4 @@
 95051. feat: enable dark mode toggle #95051
 24093. refactor: organize models into subfolders #24093
 19055. fix: resolve issue with date parsing #19055
+24404. fix: correct typo in registration form #24404
