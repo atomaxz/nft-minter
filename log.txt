@@ -2911,3 +2911,4 @@
 24404. fix: correct typo in registration form #24404
 47206. fix: prevent crash on empty input #47206
 88103. test: test user registration edge cases #88103
+55149. style: remove trailing whitespace #55149
