@@ -1915,3 +1915,4 @@
 60159. test: increase coverage on auth module #60159
 33536. test: add unit test for quiz service #33536
 83560. chore: rename env.example #83560
+93731. style: remove trailing whitespace #93731
