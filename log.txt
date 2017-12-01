@@ -917,3 +917,4 @@
 64346. style: standardize quote style #64346
 70835. test: add integration test for /submit endpoint #70835
 24385. test: test user registration edge cases #24385
+28326. perf: optimize database query for quiz results #28326
