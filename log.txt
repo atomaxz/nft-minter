@@ -923,3 +923,4 @@
 60634. chore: bump dependencies #60634
 60361. chore: rename env.example #60361
 50438. perf: reduce image load time #50438
+35564. fix: prevent crash on empty input #35564
