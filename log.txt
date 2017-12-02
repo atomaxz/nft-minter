@@ -1917,3 +1917,4 @@
 83560. chore: rename env.example #83560
 93731. style: remove trailing whitespace #93731
 80383. perf: lazy-load components #80383
+8146. feat: add user authentication #8146
