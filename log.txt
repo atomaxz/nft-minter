@@ -3917,3 +3917,4 @@
 53793. refactor: remove redundant code blocks #53793
 16696. style: reformat files with black #16696
 76514. style: remove trailing whitespace #76514
+23832. chore: add GitHub actions badge #23832
