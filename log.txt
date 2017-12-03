@@ -1918,3 +1918,4 @@
 93731. style: remove trailing whitespace #93731
 80383. perf: lazy-load components #80383
 8146. feat: add user authentication #8146
+14624. perf: lazy-load components #14624
