@@ -926,3 +926,4 @@
 35564. fix: prevent crash on empty input #35564
 20410. feat: support email verification #20410
 40296. fix: fix broken CSS in mobile view #40296
+55174. test: increase coverage on auth module #55174
