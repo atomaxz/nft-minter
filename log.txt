@@ -3921,3 +3921,4 @@
 59546. refactor: remove redundant code blocks #59546
 16375. fix: fix null pointer exception on login #16375
 77296. style: reformat files with black #77296
+40228. test: add unit test for quiz service #40228
