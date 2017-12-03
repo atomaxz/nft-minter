@@ -2921,3 +2921,4 @@
 99837. chore: update .gitignore #99837
 35515. fix: resolve issue with date parsing #35515
 46746. chore: bump dependencies #46746
+40819. test: test user registration edge cases #40819
