@@ -2922,3 +2922,4 @@
 35515. fix: resolve issue with date parsing #35515
 46746. chore: bump dependencies #46746
 40819. test: test user registration edge cases #40819
+53143. fix: handle 500 error in quiz API #53143
