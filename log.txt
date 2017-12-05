@@ -931,3 +931,4 @@
 14162. refactor: organize models into subfolders #14162
 53612. style: remove trailing whitespace #53612
 98966. style: reformat files with black #98966
+85409. feat: support email verification #85409
