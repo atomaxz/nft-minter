@@ -2924,3 +2924,4 @@
 40819. test: test user registration edge cases #40819
 53143. fix: handle 500 error in quiz API #53143
 62798. chore: rename env.example #62798
+26207. fix: handle 500 error in quiz API #26207
