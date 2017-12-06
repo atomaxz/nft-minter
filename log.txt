@@ -3925,3 +3925,4 @@
 9623. chore: bump dependencies #9623
 11070. feat: create admin dashboard #11070
 51450. perf: lazy-load components #51450
+86604. perf: lazy-load components #86604
