@@ -936,3 +936,4 @@
 66566. docs: document token refresh logic #66566
 70720. fix: handle 500 error in quiz API #70720
 59357. style: apply consistent indentation #59357
+55397. feat: enable dark mode toggle #55397
