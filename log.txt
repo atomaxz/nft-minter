@@ -1927,3 +1927,4 @@
 20063. test: add integration test for /submit endpoint #20063
 11271. refactor: refactor quiz grading logic #11271
 15889. chore: update .gitignore #15889
+78051. refactor: clean up auth middleware #78051
