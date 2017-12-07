@@ -3927,3 +3927,4 @@
 51450. perf: lazy-load components #51450
 86604. perf: lazy-load components #86604
 25242. refactor: organize models into subfolders #25242
+2512. perf: lazy-load components #2512
