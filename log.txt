@@ -2927,3 +2927,4 @@
 26207. fix: handle 500 error in quiz API #26207
 92025. test: increase coverage on auth module #92025
 4856. perf: optimize database query for quiz results #4856
+93043. style: reformat files with black #93043
