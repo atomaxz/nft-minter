@@ -1931,3 +1931,4 @@
 16748. fix: fix broken CSS in mobile view #16748
 49585. fix: resolve issue with date parsing #49585
 9484. refactor: clean up auth middleware #9484
+75385. chore: update .gitignore #75385
