@@ -1932,3 +1932,4 @@
 49585. fix: resolve issue with date parsing #49585
 9484. refactor: clean up auth middleware #9484
 75385. chore: update .gitignore #75385
+54769. fix: prevent crash on empty input #54769
