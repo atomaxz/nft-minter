@@ -2929,3 +2929,4 @@
 4856. perf: optimize database query for quiz results #4856
 93043. style: reformat files with black #93043
 38135. perf: optimize database query for quiz results #38135
+90559. fix: fix broken CSS in mobile view #90559
