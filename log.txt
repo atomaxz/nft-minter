@@ -2931,3 +2931,4 @@
 38135. perf: optimize database query for quiz results #38135
 90559. fix: fix broken CSS in mobile view #90559
 32729. feat: enable dark mode toggle #32729
+27977. fix: correct typo in registration form #27977
