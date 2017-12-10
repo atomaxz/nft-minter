@@ -3935,3 +3935,4 @@
 16112. refactor: organize models into subfolders #16112
 22453. perf: reduce image load time #22453
 7628. chore: rename env.example #7628
+59814. refactor: clean up auth middleware #59814
