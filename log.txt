@@ -3937,3 +3937,4 @@
 7628. chore: rename env.example #7628
 59814. refactor: clean up auth middleware #59814
 43944. refactor: refactor quiz grading logic #43944
+27079. test: mock database connection in test suite #27079
