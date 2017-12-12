@@ -3945,3 +3945,4 @@
 6873. chore: clean up unused files #6873
 12309. fix: resolve issue with date parsing #12309
 34720. perf: cache repeated calculations #34720
+85797. chore: bump dependencies #85797
