@@ -1941,3 +1941,4 @@
 50606. chore: update .gitignore #50606
 72106. refactor: refactor quiz grading logic #72106
 56551. feat: add export to CSV option #56551
+50201. fix: fix broken CSS in mobile view #50201
