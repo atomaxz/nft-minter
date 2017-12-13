@@ -2940,3 +2940,4 @@
 85326. test: add unit test for quiz service #85326
 90480. docs: clarify environment setup #90480
 51050. refactor: remove redundant code blocks #51050
+90338. docs: update README with setup steps #90338
