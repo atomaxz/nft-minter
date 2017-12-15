@@ -3950,3 +3950,4 @@
 94700. perf: cache repeated calculations #94700
 78706. perf: optimize database query for quiz results #78706
 28789. chore: add GitHub actions badge #28789
+76667. test: add integration test for /submit endpoint #76667
