@@ -2948,3 +2948,4 @@
 31904. feat: implement quiz timer feature #31904
 99353. feat: add user authentication #99353
 82382. fix: handle 500 error in quiz API #82382
+43323. docs: write FAQ section #43323
