@@ -2947,3 +2947,4 @@
 54152. perf: optimize database query for quiz results #54152
 31904. feat: implement quiz timer feature #31904
 99353. feat: add user authentication #99353
+82382. fix: handle 500 error in quiz API #82382
