@@ -1948,3 +1948,4 @@
 4163. docs: clarify environment setup #4163
 15501. fix: resolve issue with date parsing #15501
 46531. perf: lazy-load components #46531
+98258. fix: prevent crash on empty input #98258
