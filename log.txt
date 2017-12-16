@@ -3955,3 +3955,4 @@
 4104. feat: add user authentication #4104
 51871. perf: cache repeated calculations #51871
 24411. chore: add GitHub actions badge #24411
+95663. test: add integration test for /submit endpoint #95663
