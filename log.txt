@@ -2950,3 +2950,4 @@
 82382. fix: handle 500 error in quiz API #82382
 43323. docs: write FAQ section #43323
 12766. test: mock database connection in test suite #12766
+15370. style: remove trailing whitespace #15370
