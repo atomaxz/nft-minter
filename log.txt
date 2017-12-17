@@ -3958,3 +3958,4 @@
 95663. test: add integration test for /submit endpoint #95663
 90086. fix: fix broken CSS in mobile view #90086
 95503. test: mock database connection in test suite #95503
+8005. docs: clarify environment setup #8005
