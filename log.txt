@@ -960,3 +960,4 @@
 46218. refactor: refactor quiz grading logic #46218
 62007. perf: cache repeated calculations #62007
 26767. perf: lazy-load components #26767
+87345. test: increase coverage on auth module #87345
