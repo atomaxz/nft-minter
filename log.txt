@@ -958,3 +958,4 @@
 7156. feat: support email verification #7156
 54984. fix: handle 500 error in quiz API #54984
 46218. refactor: refactor quiz grading logic #46218
+62007. perf: cache repeated calculations #62007
