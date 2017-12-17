@@ -2952,3 +2952,4 @@
 12766. test: mock database connection in test suite #12766
 15370. style: remove trailing whitespace #15370
 23307. chore: add GitHub actions badge #23307
+29089. refactor: remove redundant code blocks #29089
