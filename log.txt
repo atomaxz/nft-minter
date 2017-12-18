@@ -3962,3 +3962,4 @@
 84501. docs: add API usage examples #84501
 26855. style: rename variables for clarity #26855
 59678. refactor: organize models into subfolders #59678
+93289. test: add unit test for quiz service #93289
