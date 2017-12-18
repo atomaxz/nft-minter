@@ -962,3 +962,4 @@
 26767. perf: lazy-load components #26767
 87345. test: increase coverage on auth module #87345
 84110. docs: improve code comments in utils #84110
+69973. test: test user registration edge cases #69973
