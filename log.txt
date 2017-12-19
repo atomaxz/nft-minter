@@ -2961,3 +2961,4 @@
 86168. style: reformat files with black #86168
 89786. docs: write FAQ section #89786
 37452. test: add unit test for quiz service #37452
+44200. feat: support email verification #44200
