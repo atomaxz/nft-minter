@@ -967,3 +967,4 @@
 20337. test: test user registration edge cases #20337
 8318. feat: implement quiz timer feature #8318
 32910. test: mock database connection in test suite #32910
+53032. test: increase coverage on auth module #53032
