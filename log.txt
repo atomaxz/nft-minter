@@ -2964,3 +2964,4 @@
 44200. feat: support email verification #44200
 20292. style: standardize quote style #20292
 62563. docs: add API usage examples #62563
+63308. fix: fix broken CSS in mobile view #63308
