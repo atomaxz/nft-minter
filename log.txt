@@ -2968,3 +2968,4 @@
 55627. perf: lazy-load components #55627
 53023. chore: bump dependencies #53023
 87213. test: test user registration edge cases #87213
+39299. chore: add GitHub actions badge #39299
