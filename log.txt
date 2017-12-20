@@ -2967,3 +2967,4 @@
 63308. fix: fix broken CSS in mobile view #63308
 55627. perf: lazy-load components #55627
 53023. chore: bump dependencies #53023
+87213. test: test user registration edge cases #87213
