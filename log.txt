@@ -1961,3 +1961,4 @@
 32467. docs: improve code comments in utils #32467
 26794. style: apply consistent indentation #26794
 42870. perf: optimize database query for quiz results #42870
+33180. test: increase coverage on auth module #33180
