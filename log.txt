@@ -974,3 +974,4 @@
 17163. feat: enable dark mode toggle #17163
 24447. refactor: remove redundant code blocks #24447
 32925. perf: reduce image load time #32925
+1242. chore: rename env.example #1242
