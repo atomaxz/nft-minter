@@ -1967,3 +1967,4 @@
 78952. chore: bump dependencies #78952
 70396. fix: fix broken CSS in mobile view #70396
 13216. fix: correct typo in registration form #13216
+25263. chore: bump dependencies #25263
