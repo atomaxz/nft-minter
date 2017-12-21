@@ -1966,3 +1966,4 @@
 43567. docs: update README with setup steps #43567
 78952. chore: bump dependencies #78952
 70396. fix: fix broken CSS in mobile view #70396
+13216. fix: correct typo in registration form #13216
