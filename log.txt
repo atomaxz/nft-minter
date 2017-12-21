@@ -1965,3 +1965,4 @@
 42705. test: mock database connection in test suite #42705
 43567. docs: update README with setup steps #43567
 78952. chore: bump dependencies #78952
+70396. fix: fix broken CSS in mobile view #70396
