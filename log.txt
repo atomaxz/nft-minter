@@ -3971,3 +3971,4 @@
 96804. perf: cache repeated calculations #96804
 36798. style: reformat files with black #36798
 53904. fix: correct typo in registration form #53904
+15737. test: add integration test for /submit endpoint #15737
