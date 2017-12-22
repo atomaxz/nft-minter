@@ -976,3 +976,4 @@
 32925. perf: reduce image load time #32925
 1242. chore: rename env.example #1242
 93953. perf: optimize database query for quiz results #93953
+11732. chore: update .gitignore #11732
