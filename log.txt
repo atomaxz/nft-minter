@@ -2977,3 +2977,4 @@
 86671. fix: fix null pointer exception on login #86671
 64211. feat: implement quiz timer feature #64211
 2474. perf: reduce image load time #2474
+15094. feat: enable dark mode toggle #15094
