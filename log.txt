@@ -1979,3 +1979,4 @@
 97130. chore: rename env.example #97130
 32524. perf: optimize database query for quiz results #32524
 43793. feat: add export to CSV option #43793
+94365. refactor: clean up auth middleware #94365
