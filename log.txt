@@ -3974,3 +3974,4 @@
 15737. test: add integration test for /submit endpoint #15737
 49036. refactor: remove redundant code blocks #49036
 72862. refactor: remove redundant code blocks #72862
+97799. style: apply consistent indentation #97799
