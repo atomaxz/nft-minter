@@ -1974,3 +1974,4 @@
 96726. docs: clarify environment setup #96726
 14432. test: test user registration edge cases #14432
 26591. chore: bump dependencies #26591
+3357. chore: add GitHub actions badge #3357
