@@ -3980,3 +3980,4 @@
 31584. feat: create admin dashboard #31584
 64509. docs: clarify environment setup #64509
 88863. chore: rename env.example #88863
+75907. fix: handle 500 error in quiz API #75907
