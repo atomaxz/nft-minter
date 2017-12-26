@@ -3986,3 +3986,4 @@
 99760. refactor: split large controller into smaller functions #99760
 71780. refactor: split large controller into smaller functions #71780
 65280. test: increase coverage on auth module #65280
+96471. refactor: clean up auth middleware #96471
