@@ -3981,3 +3981,4 @@
 64509. docs: clarify environment setup #64509
 88863. chore: rename env.example #88863
 75907. fix: handle 500 error in quiz API #75907
+20993. style: reformat files with black #20993
