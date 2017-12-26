@@ -986,3 +986,4 @@
 61852. style: standardize quote style #61852
 48008. fix: correct typo in registration form #48008
 26542. feat: add export to CSV option #26542
+84074. test: add integration test for /submit endpoint #84074
