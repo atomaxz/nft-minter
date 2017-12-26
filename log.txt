@@ -3983,3 +3983,4 @@
 75907. fix: handle 500 error in quiz API #75907
 20993. style: reformat files with black #20993
 71598. style: rename variables for clarity #71598
+99760. refactor: split large controller into smaller functions #99760
