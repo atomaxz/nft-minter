@@ -1985,3 +1985,4 @@
 67608. refactor: remove redundant code blocks #67608
 57880. docs: write FAQ section #57880
 82050. perf: optimize database query for quiz results #82050
+51287. docs: document token refresh logic #51287
