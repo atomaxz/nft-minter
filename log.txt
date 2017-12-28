@@ -991,3 +991,4 @@
 4903. feat: enable dark mode toggle #4903
 86651. chore: rename env.example #86651
 74437. refactor: clean up auth middleware #74437
+51090. feat: support email verification #51090
