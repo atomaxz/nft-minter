@@ -990,3 +990,4 @@
 27290. fix: prevent crash on empty input #27290
 4903. feat: enable dark mode toggle #4903
 86651. chore: rename env.example #86651
+74437. refactor: clean up auth middleware #74437
