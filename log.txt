@@ -1990,3 +1990,4 @@
 83857. feat: create admin dashboard #83857
 3063. fix: fix null pointer exception on login #3063
 40803. refactor: split large controller into smaller functions #40803
+55934. docs: document token refresh logic #55934
