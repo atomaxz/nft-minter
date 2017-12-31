@@ -1997,3 +1997,4 @@
 50189. fix: fix broken CSS in mobile view #50189
 29524. test: add integration test for /submit endpoint #29524
 43295. chore: add GitHub actions badge #43295
+64495. chore: rename env.example #64495
